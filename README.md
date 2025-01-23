@@ -8,12 +8,7 @@ default.custom.yaml 文件为用户重要配置文件，其中schema_list字段�
 ### 输入法码表
 pinvin_simp.schema.yaml  
 pinvin_simp.dict.yaml
-pinvin_simp_ext2.dict.yaml
-pinvin_simp_ext3.dict.yaml
-pinvin_simp_ext4.dict.yaml
-pinvin_simp_ext5.dict.yaml
-pinvin_simp_ext6.dict.yaml
-pinvin_simp_ext7.dict.yaml
+pinvin_simp_ext*.dict.yaml
 
 ## 安裝
 ### 通用方式
