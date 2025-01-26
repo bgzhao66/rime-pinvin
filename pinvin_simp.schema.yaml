@@ -49,6 +49,9 @@ speller:
 
 translator:
   dictionary: pinvin_simp
+  contextual_suggestions: true
+  max_homographs: 7
+  max_homophones: 7
 
 reverse_lookup:
   dictionary: stroke
