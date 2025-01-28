@@ -42,6 +42,8 @@ engine:
     - script_translator
     - reverse_lookup_translator
 
+grammar:
+  language: "zh-hans-t-essay-bg"
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
