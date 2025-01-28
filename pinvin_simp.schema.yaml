@@ -44,6 +44,7 @@ engine:
 
 grammar:
   language: "zh-hans-t-essay-bg"
+
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
@@ -57,6 +58,7 @@ translator:
   disable_user_dict_for_patterns:
     - "^ta$"
     - "^tamen$"
+    - "^zay$"
 
 reverse_lookup:
   dictionary: stroke
