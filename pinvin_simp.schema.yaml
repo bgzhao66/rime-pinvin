@@ -53,6 +53,7 @@ translator:
     - "^ta$"
     - "^tamen$"
     - "^zay$"
+  enable_user_dict: true
 
 reverse_lookup:
   dictionary: stroke
