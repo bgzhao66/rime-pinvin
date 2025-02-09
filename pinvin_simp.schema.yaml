@@ -42,9 +42,6 @@ engine:
     - script_translator
     - reverse_lookup_translator
 
-grammar:
-  language: "zh-hans-t-essay-bg"
-
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
@@ -52,9 +49,6 @@ speller:
 
 translator:
   dictionary: pinvin_simp
-  contextual_suggestions: true
-  max_homographs: 7
-  max_homophones: 7
   disable_user_dict_for_patterns:
     - "^ta$"
     - "^tamen$"
