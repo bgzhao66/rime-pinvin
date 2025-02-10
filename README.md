@@ -37,3 +37,6 @@ pinvin_simp_ext*.dict.yaml
 ```
     /usr/share/rime-data
 ```
+
+### 字体
+为显示CJK扩展区数万汉字，可下载并安装[HanaMin|花園明朝）](https://glyphwiki.org/hanazono/hanazono-20170904.zip)字体库。
