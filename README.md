@@ -6,9 +6,11 @@
 default.custom.yaml 文件为用户重要配置文件，其中schema_list字段后是所有可选配方，可自行增删（行首用“#”号注释表示不引入）。
 
 ### 输入法码表
+```
 pinvin_simp.schema.yaml  
 pinvin_simp.dict.yaml
 pinvin_simp_ext*.dict.yaml
+```
 
 ## 安裝
 ### 通用方式
