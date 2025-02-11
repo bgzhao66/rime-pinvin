@@ -1,20 +1,20 @@
-# RIME Pinvin（rime-pinvin-simp） -- IME for Simplified Chinese by The Tonal Spelling of Mandarin
+# RIME Pinvin（rime-pinvin-trad） -- IME for Traditional Chinese by The Tonal Spelling of Mandarin
 
-## 说明
-此输入法方案需要 [RIME | 中州韵输入法引擎](https://rime.im/)
+## 說明
+此輸入法方案需要 [RIME | 中州韻輸入法引擎](https://rime.im/)
 
-default.custom.yaml 文件为用户重要配置文件，其中schema_list字段后是所有可选配方，可自行增删（行首用“#”号注释表示不引入）。
+default.custom.yaml 文件為用戶重要配置文件，其中schema_list字段後是所有可選配方，可自行增刪（行首用“#”號註釋表示不引入）。
 
-### 输入法码表
+### 輸入法碼錶
 ```
-pinvin_simp.schema.yaml  
-pinvin_simp.dict.yaml
-pinvin_simp_ext*.dict.yaml
+pinvin_trad.schema.yaml
+pinvin_trad.dict.yaml
+pinvin_trad_ext*.dict.yaml
 ```
 
 ## 安裝
 ### 通用方式
-[安装rime](https://rime.im/)后，把码表复制到 Rime用户设定目录，然后重新部署。  
+[安裝rime](https://rime.im/)後，把碼錶複製到 Rime用戶設定目錄，然後重新部署。
  部署位置：  
 ##### Windows 10+
 ```
@@ -24,7 +24,7 @@ pinvin_simp_ext*.dict.yaml
 ```
     ~/Library/Rime          
 ```
-##### Linux (部署后最好重启一次)
+##### Linux (部署後最好重啟一次)
 ###### ibus-rime:
 ```
     ~/.config/ibus/rime
@@ -38,5 +38,5 @@ pinvin_simp_ext*.dict.yaml
     /usr/share/rime-data
 ```
 
-### 字体
-为显示CJK扩展区数万汉字，可下载并安装[HanaMin|花園明朝](https://glyphwiki.org/hanazono/hanazono-20170904.zip)字体库。
+### 字體
+為顯示CJK擴展區數萬漢字，可下載並安裝[HanaMin|花園明朝](https://glyphwiki.org/hanazono/hanazono-20170904.zip)字體庫。
