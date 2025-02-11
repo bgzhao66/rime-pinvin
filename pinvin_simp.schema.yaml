@@ -50,8 +50,11 @@ speller:
 translator:
   dictionary: pinvin_simp
   disable_user_dict_for_patterns:
+    - "^daw$"
+    - "^shih$"
     - "^ta$"
     - "^tamen$"
+    - "^uey$"
     - "^zay$"
   enable_user_dict: true
 
