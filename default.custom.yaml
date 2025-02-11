@@ -8,4 +8,4 @@ patch:
   schema_list:
     - {schema: luna_pinyin_fluency}
     - {schema: cangjie5}
-    - {schema: pinvin_simp}
+    - {schema: pinvin_trad}
