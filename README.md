@@ -14,7 +14,7 @@ pinvin_trad_ext*.dict.yaml
 
 ## 安裝
 ### 通用方式
-[安裝rime](https://rime.im/)後，把碼錶複製到 Rime用戶設定目錄，然後重新部署。
+[安裝rime](https://rime.im/)後，把碼表複製到 Rime用戶設定目錄，然後重新部署。
  部署位置：  
 ##### Windows 10+
 ```
