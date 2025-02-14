@@ -675,6 +675,7 @@ import_tables:
 㿟	bair	0
 䳆	bair	0
 拜	bair	2033
+犤	bair	0
 白	bair	15236
 𥬝	bair	0
 𦣺	bair	0
@@ -2010,6 +2011,7 @@ import_tables:
 繽	bin	27
 缤	bin	0
 虨	bin	1
+蠙	bin	1
 訜	bin	0
 豩	bin	0
 豳	bin	14
@@ -2447,6 +2449,8 @@ import_tables:
 捬	bwu	0
 补	bwu	0
 補	bwu	7097
+餔	bwu	3
+鳪	bwu	3
 鵏	bwu	0
 鸔	bwu	4
 𡡐	bwu	0
@@ -2519,6 +2523,7 @@ import_tables:
 朼	byi	1
 柀	byi	2
 比	byi	68654
+毞	byi	0
 沘	byi	2
 疕	byi	1
 秕	byi	11
@@ -2532,6 +2537,7 @@ import_tables:
 貏	byi	1
 鄙	byi	87
 鈚	byi	0
+鞞	byi	0
 魮	byi	0
 𠐌	byi	0
 𠛡	byi	0
@@ -2670,7 +2676,7 @@ import_tables:
 才	cair	69949
 扐	cair	0
 材	cair	1005
-纔	cair	0
+纔	cair	69949
 裁	cair	526
 財	cair	1945
 财	cair	0
@@ -4838,6 +4844,7 @@ import_tables:
 斶	chuh	2
 欪	chuh	0
 歜	chuh	2
+泏	chuh	0
 滀	chuh	11
 炪	chuh	0
 珿	chuh	1
@@ -6990,6 +6997,7 @@ import_tables:
 釱	dih	1
 鉪	dih	0
 隶	dih	0
+馰	dih	1
 𠐑	dih	0
 𠚭	dih	0
 𠥖	dih	0
@@ -8042,6 +8050,7 @@ import_tables:
 跕	dye	0
 跮	dye	0
 蹀	dye	5
+蹛	dye	0
 迭	dye	207
 镻	dye	0
 鞢	dye	0
@@ -8338,6 +8347,7 @@ import_tables:
 饿	eh	0
 魥	eh	0
 鰐	eh	1
+鰪	eh	0
 鱷	eh	85
 鳄	eh	0
 鴳	eh	0
@@ -8485,6 +8495,7 @@ import_tables:
 睋	er	2
 磀	er	0
 莪	er	431
+蚵	er	0
 蛾	er	232
 訛	er	76
 誐	er	0
@@ -8809,6 +8820,7 @@ import_tables:
 樂	eueh	343
 樾	eueh	35
 櫟	eueh	92
+泧	eueh	0
 瀹	eueh	61
 爚	eueh	2
 玥	eueh	159
@@ -11281,7 +11293,6 @@ import_tables:
 袼	ge	4
 謌	ge	7
 鎶	ge	0
-閤	ge	4
 餎	ge	0
 饹	ge	0
 鴐	ge	0
@@ -11332,6 +11343,7 @@ import_tables:
 𩑡	geen	0
 𩒝	geen	0
 𩓓	geen	0
+㹴	geeng	0
 㾘	geeng	0
 䋁	geeng	0
 䌄	geeng	0
@@ -11590,6 +11602,7 @@ import_tables:
 唝	gomg	0
 愩	gomg	0
 渱	gomg	0
+熕	gomg	1
 羾	gomg	0
 莻	gomg	0
 貢	gomg	383
@@ -11613,6 +11626,7 @@ import_tables:
 䰸	gong	0
 䲲	gong	0
 䳍	gong	0
+侊	gong	0
 供	gong	4781
 公	gong	5026
 功	gong	2090
@@ -11816,10 +11830,12 @@ import_tables:
 呴	gu	0
 咕	gu	92
 唂	gu	0
+唃	gu	0
 嗗	gu	0
 姑	gu	592
 嫴	gu	1
 孤	gu	1092
+杚	gu	0
 柧	gu	2
 橭	gu	0
 毂	gu	0
@@ -12389,6 +12405,7 @@ import_tables:
 簂	guey	0
 茥	guey	0
 蓕	guey	0
+螝	guey	0
 襘	guey	0
 貴	guey	14003
 贵	guey	0
@@ -13328,6 +13345,7 @@ import_tables:
 寉	heh	1
 愒	heh	0
 抲	heh	0
+湼	heh	0
 焃	heh	0
 煂	heh	1
 熇	heh	2
@@ -13486,6 +13504,7 @@ import_tables:
 鉌	her	3
 鑉	her	0
 閡	her	29
+閤	her	0
 闔	her	56
 阂	her	0
 阖	her	0
@@ -13663,6 +13682,7 @@ import_tables:
 轟	hong	589
 轰	hong	0
 鍧	hong	10
+鬨	hong	0
 𠐿	hong	0
 𠹅	hong	0
 𢝁	hong	0
@@ -13695,6 +13715,7 @@ import_tables:
 嗊	hoong	1
 愩	hoong	5
 晎	hoong	0
+鬨	hoong	0
 𢗵	hoong	0
 𢦅	hoong	0
 𢼦	hoong	0
@@ -14273,6 +14294,7 @@ import_tables:
 坏	huay	0
 壊	huay	14
 壞	huay	10152
+歠	huay	0
 蘾	huay	1
 𣟉	huay	0
 𣩹	huay	0
@@ -15442,6 +15464,7 @@ import_tables:
 醫	i	1402
 銥	i	29
 铱	i	0
+陭	i	0
 鷖	i	0
 鹥	i	0
 黟	i	9
@@ -15574,6 +15597,7 @@ import_tables:
 捝	iaan	0
 掩	iaan	358
 揜	iaan	3
+撧	iaan	0
 晻	iaan	23
 曮	iaan	0
 棪	iaan	2
@@ -15850,6 +15874,7 @@ import_tables:
 堰	iam	191
 妟	iam	0
 姲	iam	0
+婩	iam	0
 嬊	iam	0
 嬮	iam	13
 嬿	iam	17
@@ -16138,6 +16163,7 @@ import_tables:
 訞	iao	2
 邀	iao	910
 鴁	iao	0
+鴢	iao	4
 𠕻	iao	0
 𠣑	iao	0
 𡆩	iao	0
@@ -16183,6 +16209,7 @@ import_tables:
 枖	iau	0
 柼	iau	0
 榚	iau	1
+殀	iau	1
 溔	iau	1
 狕	iau	0
 眑	iau	0
@@ -16295,6 +16322,7 @@ import_tables:
 暍	ie	6
 枒	ie	5
 椰	ie	287
+歋	ie	0
 潱	ie	0
 窫	ie	1
 耶	ie	3149
@@ -17067,6 +17095,7 @@ import_tables:
 堙	in	8
 姻	in	30
 婣	in	0
+廕	in	5
 愔	in	14
 慇	in	0
 栶	in	0
@@ -17340,6 +17369,7 @@ import_tables:
 廱	iong	1
 慵	iong	59
 拥	iong	0
+撧	iong	0
 擁	iong	809
 槦	iong	13
 滽	iong	0
@@ -18137,6 +18167,7 @@ import_tables:
 犄	ji	3
 玑	ji	0
 璣	ji	33
+畟	ji	0
 畸	ji	87
 畿	ji	74
 癪	ji	0
@@ -18319,6 +18350,7 @@ import_tables:
 鉫	jia	0
 鎵	jia	46
 镓	jia	0
+鴐	jia	0
 麚	jia	0
 鿼	jia	0
 𠷉	jia	0
@@ -19524,6 +19556,7 @@ import_tables:
 跡	jih	527
 跽	jih	4
 踑	jih	0
+蹟	jih	1
 迹	jih	0
 际	jih	0
 際	jih	456
@@ -19545,6 +19578,7 @@ import_tables:
 鲚	jih	0
 鲫	jih	0
 鵋	jih	0
+鷑	jih	0
 齌	jih	1
 齍	jih	0
 齐	jih	0
@@ -20251,6 +20285,7 @@ import_tables:
 瘠	jir	18
 皀	jir	1
 皍	jir	0
+磼	jir	0
 笈	jir	29
 箿	jir	0
 簎	jir	1
@@ -20427,6 +20462,7 @@ import_tables:
 諊	ju	0
 趄	ju	8
 跔	ju	0
+跙	ju	0
 踘	ju	2
 車	ju	2
 軥	ju	0
@@ -20858,6 +20894,7 @@ import_tables:
 戛	jya	28
 戞	jya	23
 扴	jya	0
+脥	jya	0
 荚	jya	0
 莢	jya	71
 蛱	jya	0
@@ -20934,6 +20971,7 @@ import_tables:
 卩	jye	40
 卪	jye	0
 啑	jye	0
+喼	jye	0
 婕	jye	461
 媫	jye	0
 孑	jye	120
@@ -21821,6 +21859,7 @@ import_tables:
 苛	ke	119
 萪	ke	1
 薖	ke	1
+蚵	ke	6
 蝌	ke	28
 趷	ke	1
 軻	ke	46
@@ -21878,6 +21917,7 @@ import_tables:
 炣	kee	0
 磆	kee	1
 轲	kee	0
+閜	kee	0
 𢩐	kee	0
 𢼐	kee	0
 𤸎	kee	0
@@ -21938,6 +21978,7 @@ import_tables:
 缂	keh	0
 艐	keh	0
 蚵	keh	6
+衉	keh	0
 袔	keh	0
 課	keh	7969
 课	keh	0
@@ -22045,6 +22086,8 @@ import_tables:
 𨥴	koa	0
 㸜	komg	0
 控	komg	1542
+焢	komg	0
+爌	komg	0
 硿	komg	1
 空	komg	10992
 鞚	komg	3
@@ -22197,6 +22240,7 @@ import_tables:
 䠸	kua	0
 䦱	kua	0
 䯞	kua	0
+咵	kua	0
 夸	kua	0
 姱	kua	3
 恗	kua	0
@@ -22631,6 +22675,7 @@ import_tables:
 䯺	kuoh	0
 噋	kuoh	0
 廓	kuoh	100
+彍	kuoh	0
 懖	kuoh	1
 扩	kuoh	0
 拡	kuoh	3
@@ -27298,6 +27343,7 @@ import_tables:
 灭	mieh	0
 烕	mieh	0
 眜	mieh	0
+礣	mieh	0
 篾	mieh	22
 蔑	mieh	60
 薎	mieh	0
@@ -27477,6 +27523,7 @@ import_tables:
 籋	mir	0
 糜	mir	127
 縻	mir	8
+罙	mir	0
 蒾	mir	0
 蘼	mir	61
 袮	mir	0
@@ -27617,6 +27664,7 @@ import_tables:
 茗	mirng	353
 螟	mirng	52
 覭	mirng	1
+詺	mirng	2
 鄍	mirng	0
 銘	mirng	1174
 铭	mirng	0
@@ -29185,6 +29233,7 @@ import_tables:
 農	norng	2325
 辳	norng	0
 醲	norng	1
+鬞	norng	0
 𥂒	norng	0
 𨑊	norng	0
 𨠤	norng	0
@@ -29973,6 +30022,7 @@ import_tables:
 胓	peng	0
 苹	peng	0
 軯	peng	1
+軿	peng	0
 輧	peng	0
 逬	peng	0
 閛	peng	0
@@ -30015,6 +30065,7 @@ import_tables:
 彭	perng	2213
 憉	perng	0
 挷	perng	0
+捀	perng	0
 搒	perng	1
 朋	perng	706
 棚	perng	651
@@ -30330,6 +30381,7 @@ import_tables:
 澼	pih	3
 甓	pih	9
 疈	pih	0
+疋	pih	4
 睥	pih	3
 稫	pih	0
 譬	pih	38
@@ -30556,6 +30608,7 @@ import_tables:
 瓶	pirng	2338
 甁	pirng	3
 硑	pirng	0
+竮	pirng	0
 箳	pirng	0
 簈	pirng	0
 缾	pirng	1
@@ -30604,6 +30657,7 @@ import_tables:
 潑	po	661
 翍	po	1
 酦	po	0
+醗	po	0
 醱	po	1
 釙	po	15
 鏺	po	0
@@ -30774,7 +30828,6 @@ import_tables:
 擈	pu	0
 攴	pu	0
 攵	pu	0
-朴	pu	0
 柨	pu	0
 潽	pu	3
 炇	pu	0
@@ -30871,7 +30924,6 @@ import_tables:
 埔	pwu	102
 普	pwu	2269
 暜	pwu	0
-朴	pwu	0
 樸	pwu	444
 檏	pwu	0
 氆	pwu	14
@@ -31039,6 +31091,7 @@ import_tables:
 戚	qi	451
 捿	qi	1
 攲	qi	7
+敧	qi	3
 朞	qi	1
 期	qi	9716
 柒	qi	253
@@ -32548,6 +32601,7 @@ import_tables:
 勸	quam	2153
 灥	quam	0
 牶	quam	4
+縓	quam	0
 韏	quam	0
 𢍕	quam	0
 𦍅	quam	0
@@ -33541,6 +33595,7 @@ import_tables:
 扰	rau	0
 擾	rau	361
 绕	rau	0
+遶	rau	3
 隢	rau	0
 𠒸	rau	0
 𡈦	rau	0
@@ -33668,6 +33723,7 @@ import_tables:
 䚮	rerng	0
 仍	rerng	8751
 礽	rerng	26
+芿	rerng	1
 辸	rerng	0
 陾	rerng	2
 𠧟	rerng	0
@@ -34707,6 +34763,7 @@ import_tables:
 篩	shai	272
 簁	shai	2
 簛	shai	0
+籭	shai	0
 諰	shai	0
 酾	shai	0
 㣌	sham	0
@@ -35280,6 +35337,7 @@ import_tables:
 敒	shen	0
 曑	shen	0
 柛	shen	19
+棯	shen	2
 棽	shen	0
 氠	shen	1
 深	shen	6820
@@ -36205,6 +36263,7 @@ import_tables:
 䌃	shuoh	0
 䔠	shuoh	0
 妁	shuoh	6
+愬	shuoh	0
 揱	shuoh	0
 搠	shuoh	10
 数	shuoh	0
@@ -38847,6 +38906,7 @@ import_tables:
 税	tuo	0
 脫	tuo	2777
 脱	tuo	0
+舃	tuo	0
 莌	tuo	1
 袥	tuo	0
 託	tuo	4113
@@ -39188,6 +39248,7 @@ import_tables:
 鮀	two	5
 鱓	two	0
 鴕	two	18
+鵎	two	0
 鸵	two	0
 鼉	two	12
 鼍	two	0
@@ -40140,6 +40201,7 @@ import_tables:
 嗡	ueng	102
 滃	ueng	23
 翁	ueng	995
+聬	ueng	2
 螉	ueng	1
 鎓	ueng	0
 鶲	ueng	1
@@ -40299,6 +40361,7 @@ import_tables:
 䳱	uh	0
 乌	uh	0
 伆	uh	0
+俉	uh	4
 兀	uh	164
 务	uh	0
 務	uh	895
@@ -41253,6 +41316,7 @@ import_tables:
 饿	veh	0
 魥	veh	0
 鰐	veh	1
+鰪	veh	0
 鱷	veh	85
 鳄	veh	0
 鴳	veh	0
@@ -41400,6 +41464,7 @@ import_tables:
 睋	ver	2
 磀	ver	0
 莪	ver	431
+蚵	ver	0
 蛾	ver	232
 訛	ver	76
 誐	ver	0
@@ -41724,6 +41789,7 @@ import_tables:
 樂	veueh	343
 樾	veueh	35
 櫟	veueh	92
+泧	veueh	0
 瀹	veueh	61
 爚	veueh	2
 玥	veueh	159
@@ -42480,6 +42546,7 @@ import_tables:
 醫	vi	1402
 銥	vi	29
 铱	vi	0
+陭	vi	0
 鷖	vi	0
 鹥	vi	0
 黟	vi	9
@@ -42612,6 +42679,7 @@ import_tables:
 捝	viaan	0
 掩	viaan	358
 揜	viaan	3
+撧	viaan	0
 晻	viaan	23
 曮	viaan	0
 棪	viaan	2
@@ -42888,6 +42956,7 @@ import_tables:
 堰	viam	191
 妟	viam	0
 姲	viam	0
+婩	viam	0
 嬊	viam	0
 嬮	viam	13
 嬿	viam	17
@@ -43176,6 +43245,7 @@ import_tables:
 訞	viao	2
 邀	viao	910
 鴁	viao	0
+鴢	viao	4
 𠕻	viao	0
 𠣑	viao	0
 𡆩	viao	0
@@ -43221,6 +43291,7 @@ import_tables:
 枖	viau	0
 柼	viau	0
 榚	viau	1
+殀	viau	1
 溔	viau	1
 狕	viau	0
 眑	viau	0
@@ -43333,6 +43404,7 @@ import_tables:
 暍	vie	6
 枒	vie	5
 椰	vie	287
+歋	vie	0
 潱	vie	0
 窫	vie	1
 耶	vie	3149
@@ -44105,6 +44177,7 @@ import_tables:
 堙	vin	8
 姻	vin	30
 婣	vin	0
+廕	vin	5
 愔	vin	14
 慇	vin	0
 栶	vin	0
@@ -44378,6 +44451,7 @@ import_tables:
 廱	viong	1
 慵	viong	59
 拥	viong	0
+撧	viong	0
 擁	viong	809
 槦	viong	13
 滽	viong	0
@@ -45812,6 +45886,7 @@ import_tables:
 嗡	vueng	102
 滃	vueng	23
 翁	vueng	995
+聬	vueng	2
 螉	vueng	1
 鎓	vueng	0
 鶲	vueng	1
@@ -45971,6 +46046,7 @@ import_tables:
 䳱	vuh	0
 乌	vuh	0
 伆	vuh	0
+俉	vuh	4
 兀	vuh	164
 务	vuh	0
 務	vuh	895
@@ -46969,6 +47045,7 @@ import_tables:
 轙	vyi	1
 迆	vyi	1
 迤	vyi	27
+迱	vyi	0
 逘	vyi	0
 酏	vyi	2
 醷	vyi	1
@@ -46977,6 +47054,7 @@ import_tables:
 鉯	vyi	3
 钀	vyi	5
 钇	vyi	0
+阤	vyi	0
 陁	vyi	0
 陭	vyi	0
 顗	vyi	10
@@ -48096,6 +48174,7 @@ import_tables:
 觿	xi	2
 詑	xi	0
 誒	xi	0
+諠	xi	0
 譆	xi	1
 谿	xi	4
 豀	xi	0
@@ -48606,7 +48685,6 @@ import_tables:
 闂	xiamg	0
 項	xiamg	4689
 项	xiamg	0
-鬨	xiamg	1
 鱌	xiamg	1
 𢄵	xiamg	0
 𢛖	xiamg	0
@@ -51469,6 +51547,7 @@ import_tables:
 轙	yi	1
 迆	yi	1
 迤	yi	27
+迱	yi	0
 逘	yi	0
 酏	yi	2
 醷	yi	1
@@ -51477,6 +51556,7 @@ import_tables:
 鉯	yi	3
 钀	yi	5
 钇	yi	0
+阤	yi	0
 陁	yi	0
 陭	yi	0
 顗	yi	10
@@ -52002,6 +52082,7 @@ import_tables:
 帀	za	0
 扎	za	135
 拶	za	15
+桚	za	0
 沞	za	0
 灒	za	0
 紥	za	0
@@ -52875,6 +52956,7 @@ import_tables:
 䶨	zhan	0
 佔	zhan	10582
 占	zhan	0
+呫	zhan	0
 噡	zhan	0
 怗	zhan	0
 惉	zhan	7
@@ -52996,6 +53078,7 @@ import_tables:
 窼	zhao	0
 罀	zhao	0
 著	zhao	3976
+謿	zhao	0
 釗	zhao	188
 釽	zhao	1
 鉊	zhao	1
@@ -53739,6 +53822,7 @@ import_tables:
 氏	zhi	3
 汁	zhi	1193
 汥	zhi	1
+汦	zhi	0
 泜	zhi	1
 疷	zhi	0
 知	zhi	6669
