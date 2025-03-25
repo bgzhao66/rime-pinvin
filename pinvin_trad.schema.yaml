@@ -3,7 +3,7 @@
 
 schema:
   schema_id: pinvin_trad
-  name: '國語拼音'
+  name: '普通話拼音'
   version: "0.8"
   author:
     - Ben
@@ -57,13 +57,6 @@ speller:
 translator:
   dictionary: pinvin_trad
   disable_user_dict_for_patterns:
-    - "^daw$"
-    - "^shih$"
-    - "^ta$"
-    - "^tamen$"
-    - "^uey$"
-    - "^zay$"
-    - "^zhyi$"
   enable_user_dict: true
 
 reverse_lookup:
