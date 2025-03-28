@@ -7,8 +7,8 @@ version: "0.1"
 sort: by_weight
 import_tables:
   - pinvin_simp_ext
-  - pinvin_simp_ext234
-  - pinvin_simp_ext567
+  - pinvin_simp_extA
+  - pinvin_simp_extB
 ...
 
 吖	a	3034
