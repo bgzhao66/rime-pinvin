@@ -1,4 +1,7 @@
 patch:
   reverse_lookup/dictionary: pinvin_trad
   reverse_lookup/preedit_format:
-  reverse_lookup/prism: 
+  reverse_lookup/prism:
+  schema/dependencies:
+    - pinvin_trad
+  abc_segmentor/extra_tags:
