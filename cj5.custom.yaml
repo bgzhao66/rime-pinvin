@@ -2,3 +2,6 @@ patch:
   reverse_lookup/dictionary: pinvin_simp
   reverse_lookup/preedit_format:
   reverse_lookup/prism:
+  schema/depenencies:
+    - pinvin_simp
+  abc_segmentor/extra_tags:
