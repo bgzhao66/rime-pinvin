@@ -53,6 +53,7 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   delimiter: " '"
   algebra:
+    - derive/^([aoeiuwy].*)$/v$1/
 
 translator:
   dictionary: pinvin_trad
