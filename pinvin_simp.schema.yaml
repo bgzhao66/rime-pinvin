@@ -47,6 +47,7 @@ speller:
   delimiter: " '"
   algebra:
     - derive/^([aoeiuwy].*)$/v$1/
+    - derive/^v([aoeiuwy].*)$/$1/
 
 translator:
   dictionary: pinvin_simp
