@@ -3,7 +3,7 @@
 
 schema:
   schema_id: pinvin_trad
-  name: '普通話拼音'
+  name: '韻筆拼音'
   version: "0.8"
   author:
     - Ben
