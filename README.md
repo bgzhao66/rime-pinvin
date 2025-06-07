@@ -1,4 +1,4 @@
-# RIME Pinvin（rime-pinvin-trad） -- IME for Traditional Chinese by The Tonal Spelling of Mandarin
+# RIME Pinvin（rime-pinvin-trad） -- 韻筆拼音輸入法
 
 ## 說明
 此輸入法方案需要 [RIME | 中州韻輸入法引擎](https://rime.im/)
