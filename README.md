@@ -1,4 +1,4 @@
-# RIME Pinvin（rime-pinvin-simp） -- IME for Simplified Chinese by The Tonal Spelling of Mandarin
+# RIME Pinvin（rime-pinvin-simp） -- 韵笔拼音输入法
 
 ## 说明
 此输入法方案需要 [RIME | 中州韵输入法引擎](https://rime.im/)
