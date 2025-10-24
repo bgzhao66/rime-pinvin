@@ -60,6 +60,8 @@ translator:
   dictionary: pinvin_trad
   disable_user_dict_for_patterns:
   enable_user_dict: true
+  max_word_length: 7
+  core_word_length: 5
 
 reverse_lookup:
   dictionary: stroke
