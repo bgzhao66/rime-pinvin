@@ -151,6 +151,7 @@ sort: by_weight
 阿古斯之刃	a gwu si zhi rem	1
 阿古斯之手	a gwu si zhi shoa	1
 阿赫蒂薩裏	a heh dih sah lyi	0
+阿赫蒂薩裡	a heh dih sah lyi	0
 阿赫馬多夫	a heh maa duo fu	1
 阿赫瑪託娃	a heh maa tuo vwa	1
 阿黑皮素原	a hei pir suh vyuan	1
@@ -420,7 +421,7 @@ sort: by_weight
 阿芒蔭眼蝶	a marng vim viaan dye	1
 阿芒蔭眼蝶	a marng vin viaan dye	1
 阿默島鷹鴞	a moh dau ving xiao	1
-阿默裡寶螺	a moh lyi bau lwo	1
+阿默裡寶螺	a moh lyi bau lwo	0
 阿莫西林鈉	a moh xi lirn nah	1
 阿莫西林片	a moh xi lirn piam	1
 阿莫西林片	a moh xi lirn pian	1
@@ -507,7 +508,7 @@ sort: by_weight
 阿斯特利安	a si teh lih van	1
 阿斯特麗德	a si teh lir der	1
 阿斯圖迪略	a si tur dir leueh	0
-阿斯圖裡亞	a si tur lyi viah	1
+阿斯圖裡亞	a si tur lyi viah	0
 阿塔拉利恩	a taa la lih ven	1
 阿塔萊長靴	a taa lair charng xue	1
 阿塔萊石板	a taa lair dam baan	0
@@ -724,13 +725,13 @@ sort: by_weight
 埃塞克斯郡	ai say keh si juem	1
 埃塞克斯郡	ai seh keh si juem	0
 埃瑟利蘇爾	ai seh lih su veel	1
-埃瑟裡克斯	ai seh lyi keh si	1
+埃瑟裡克斯	ai seh lyi keh si	0
 埃氏磨塘鱧	ai shih moh tarng lyi	1
 埃氏磨塘鱧	ai shih mor tarng lyi	1
 埃斯科瓦爾	ai si ke vuaa veel	1
 埃斯科瓦爾	ai si ke vuah veel	1
-埃斯克裡瓦	ai si keh lyi vuaa	1
-埃斯克裡瓦	ai si keh lyi vuah	1
+埃斯克裡瓦	ai si keh lyi vuaa	0
+埃斯克裡瓦	ai si keh lyi vuah	0
 埃斯蘭夏爾	ai si larn xiah veel	1
 埃斯佩蘭薩	ai si pey larn sah	1
 埃斯特拉達	ai si teh la dar	1
@@ -1178,7 +1179,7 @@ sort: by_weight
 安寧里社區	an nimg li sheh qu	1
 安寧里社區	an nimg li sheh vou	0
 安寧裡南站	an nimg lyi na zham	0
-安寧裡南站	an nimg lyi narn zham	1
+安寧裡南站	an nimg lyi narn zham	0
 安寧里社區	an nimg lyi sheh qu	1
 安寧里社區	an nimg lyi sheh vou	0
 安寧堡街道	an nimg puh jie daw	0
@@ -1193,7 +1194,7 @@ sort: by_weight
 安寧里社區	an nirng li sheh qu	1
 安寧里社區	an nirng li sheh vou	0
 安寧裡南站	an nirng lyi na zham	0
-安寧裡南站	an nirng lyi narn zham	1
+安寧裡南站	an nirng lyi narn zham	0
 安寧里社區	an nirng lyi sheh qu	1
 安寧里社區	an nirng lyi sheh vou	0
 安寧堡街道	an nirng puh jie daw	0
@@ -1327,7 +1328,7 @@ sort: by_weight
 安兒寧顆粒	an verl nirng ke lih	1
 安遠華溪蟹	an veuaan huah xi xieh	1
 安遠華溪蟹	an veuaan hwa xi xieh	1
-安苑裡社區	an veuam lyi sheh qu	1
+安苑裡社區	an veuam lyi sheh qu	0
 安苑裡社區	an veuam lyi sheh vou	0
 安樂林社區	an veueh lirn sheh qu	0
 安樂林社區	an veueh lirn sheh vou	0
@@ -1595,7 +1596,7 @@ sort: by_weight
 奧格爾索普	aw ger veel suoo pwu	1
 奧古斯塔斯	aw gwu si taa si	1
 奧古斯圖斯	aw gwu si tur si	1
-奧赫裡德湖	aw heh lyi der hur	1
+奧赫裡德湖	aw heh lyi der hur	0
 奧霍獅子魚	aw huoh shi zi veur	1
 奧霍獅子魚	aw huoh shi zyi veur	1
 奧加茲大門	aw jia cir dah mern	0
@@ -1666,7 +1667,7 @@ sort: by_weight
 奧羅的外皮	aw lwo de vuay pir	1
 奧羅的外皮	aw lwo dih vuay pir	0
 奧羅的外皮	aw lwo dir vuay pir	0
-奧裡諾科河	aw lyi nuoh ke her	1
+奧裡諾科河	aw lyi nuoh ke her	0
 奧美拉唑鎂	aw mea la zuoh mea	1
 奧美拉唑鈉	aw mea la zuoh nah	1
 奧美拉唑鎂	aw mea lar zuoh mea	1
@@ -1772,7 +1773,7 @@ sort: by_weight
 奧屯醜和尚	aw twen choa hwo shamg	0
 奧埃齒螯蛛	aw vai chyi vaor zhu	1
 奧爾德伯裡	aw veel der bae lyi	0
-奧爾德伯裡	aw veel der bor lyi	1
+奧爾德伯裡	aw veel der bor lyi	0
 奧爾德里奇	aw veel der li ji	0
 奧爾德里奇	aw veel der li qir	1
 奧爾德里奇	aw veel der lyi ji	0
@@ -2097,7 +2098,7 @@ sort: by_weight
 愛爾蘭政府	ay veel larn zhemg fwu	1
 艾爾木東鄉	ay veel muh dong xiang	1
 愛爾斯伯裡	ay veel si bae lyi	0
-愛爾斯伯裡	ay veel si bor lyi	1
+愛爾斯伯裡	ay veel si bor lyi	0
 艾爾文森林	ay veel vwen sen lirn	1
 愛月夜眠遲	ay veueh vieh myan chir	1
 愛野美奈子	ay viee mea nay zi	1
@@ -2524,8 +2525,8 @@ sort: by_weight
 巴塞羅那隊	ba seh lwo nah duey	0
 巴瑟斯特角	ba seh si teh jiau	1
 巴瑟斯特角	ba seh si teh jyue	0
-巴什蘭幹鄉	ba shern larn gam xiang	1
-巴什蘭幹鄉	ba shern larn gan xiang	1
+巴什蘭幹鄉	ba shern larn gam xiang	0
+巴什蘭幹鄉	ba shern larn gan xiang	0
 八神異界遊	ba shern vih jieh vyou	1
 巴氏扁指鰧	ba shih biaan zhyi terng	1
 巴氏扁指鰧	ba shih pian zhyi terng	0
@@ -2584,8 +2585,8 @@ sort: by_weight
 巴爾幹山脈	ba veel gan shan moh	0
 巴爾幹戰局	ba veel gan zham jur	1
 巴爾裡石板	ba veel lyi dam baan	0
-巴爾裡廢墟	ba veel lyi fey xu	1
-巴爾裡石板	ba veel lyi shir baan	1
+巴爾裡廢墟	ba veel lyi fey xu	0
+巴爾裡石板	ba veel lyi shir baan	0
 巴爾通體病	ba veel tomg ti bimg	1
 巴爾通體病	ba veel tomg tyi bimg	1
 巴爾通體病	ba veel tong ti bimg	1
@@ -4558,7 +4559,7 @@ sort: by_weight
 寶盛里社區	bau shemg li sheh vou	0
 寶盛里社區	bau shemg lyi sheh qu	1
 寶盛里社區	bau shemg lyi sheh vou	0
-寶盛裡小區	bau shemg lyi xiau qu	1
+寶盛裡小區	bau shemg lyi xiau qu	0
 寶盛裡小區	bau shemg lyi xiau vou	0
 保生無憂散	bau sheng mor viou saan	0
 保生無憂散	bau sheng mor viou sam	0
@@ -7381,6 +7382,7 @@ sort: by_weight
 波導調配器	bo dau diaw pey qih	0
 波導法蘭盤	bo dau faa larn parn	1
 波導調配器	bo dau tyao pey qih	1
+波德戈裡察	bo der ge lyi char	0
 波多黎各島	bo duo lir geh dau	1
 波多黎各隊	bo duo lir geh duey	1
 波多野結衣	bo duo viee jie vi	1
@@ -8701,7 +8703,7 @@ sort: by_weight
 不可重複讀	buh keh zhomg fur dur	0
 不哭亦足矣	buh ku vih zur vyi	1
 布拉德伯裡	buh la der bae lyi	0
-布拉德伯裡	buh la der bor lyi	1
+布拉德伯裡	buh la der bor lyi	0
 布拉德皮特	buh la der pir teh	1
 布拉格定律	buh la ger dimg lew	0
 布拉格方程	buh la ger fang cherng	1
@@ -8790,7 +8792,7 @@ sort: by_weight
 布勞繆克絲	buh laor mour keh si	0
 布勞韋爾群	buh laor vwei veel qyuen	2
 布拉德伯裡	buh lar der bae lyi	0
-布拉德伯裡	buh lar der bor lyi	1
+布拉德伯裡	buh lar der bor lyi	0
 布拉德皮特	buh lar der pir teh	1
 布拉格定律	buh lar ger dimg lew	0
 布拉格方程	buh lar ger fang cherng	1
@@ -8855,12 +8857,12 @@ sort: by_weight
 布賴特斯塔	buh lay teh si taa	1
 佈雷茲裡克	buh leir cir lyi keh	0
 佈雷德伯裡	buh leir der bae lyi	0
-佈雷德伯裡	buh leir der bor lyi	1
+佈雷德伯裡	buh leir der bor lyi	0
 佈雷斯特德	buh leir si teh der	1
 佈雷特據點	buh leir teh jew diaan	1
 佈雷特據點	buh leir teh ju diaan	1
 佈雷西亞諾	buh leir xi viah nuoh	1
-佈雷茲裡克	buh leir zi lyi keh	1
+佈雷茲裡克	buh leir zi lyi keh	0
 布里茲提克	buh li cir di keh	0
 布里茲涅夫	buh li cir nieh fu	0
 布里茲提克	buh li cir tir keh	0
@@ -11661,8 +11663,8 @@ sort: by_weight
 超有限代數	chao vioa xiam day shuh	2
 超有限代數	chao vioa xiam day shuoh	0
 超有限代數	chao vioa xiam day shwu	2
-超微粒幹版	chao vuei lih gam baan	1
-超微粒幹版	chao vuei lih gan baan	1
+超微粒幹版	chao vuei lih gam baan	0
+超微粒幹版	chao vuei lih gan baan	0
 超完美告別	chao vwan mea gaw bieh	0
 超完美告別	chao vwan mea gaw bye	0
 超完美男友	chao vwan mea narn vioa	1
@@ -11735,7 +11737,7 @@ sort: by_weight
 朝露待日晞	chaor luh day rih xi	0
 朝露貪名利	chaor luh tan mirng lih	0
 嘲顱伏擊者	chaor lur fur ji zhee	1
-朝裡瑤族鄉	chaor lyi vyao zur xiang	1
+朝裡瑤族鄉	chaor lyi vyao zur xiang	0
 潮滿春江圖	chaor maan chuen jiang tur	1
 潮滿冶城渚	chaor maan viee cherng zhwu	1
 朝內南小街	chaor ney na xiau jie	0
@@ -12561,13 +12563,13 @@ sort: by_weight
 常府風華苑	charng fwu feng hwa veuam	1
 長幹行二首	charng gam harng vehl shoa	0
 長幹行二首	charng gam herng vehl shoa	0
-長干曲四首	charng gam qu sih shoa	0
-長干曲四首	charng gam qyu sih shoa	0
+長干曲四首	charng gam qu sih shoa	1
+長干曲四首	charng gam qyu sih shoa	1
 長幹行二首	charng gam xirng vehl shoa	0
 長幹行二首	charng gan harng vehl shoa	0
 長幹行二首	charng gan herng vehl shoa	0
-長干曲四首	charng gan qu sih shoa	0
-長干曲四首	charng gan qyu sih shoa	0
+長干曲四首	charng gan qu sih shoa	1
+長干曲四首	charng gan qyu sih shoa	1
 長幹行二首	charng gan xirng vehl shoa	0
 腸高血糖素	charng gao xiee tarng suh	0
 腸高血糖素	charng gao xueh tarng suh	1
@@ -12748,16 +12750,16 @@ sort: by_weight
 長日照動物	charng rih zhaw domg vuh	0
 長沙大北農	charng sha dah bea norng	1
 長沙大北農	charng sha day bea norng	0
-長沙幹馬鄉	charng sha gam maa xiang	1
-長沙幹馬鄉	charng sha gan maa xiang	1
+長沙幹馬鄉	charng sha gam maa xiang	0
+長沙幹馬鄉	charng sha gan maa xiang	0
 長沙貢馬鄉	charng sha gomg maa xiang	1
 長沙火車站	charng sha huoo che zham	1
 長沙火車站	charng sha huoo ju zham	0
 長沙美食網	charng sha mea shir vuaang	1
 長沙大北農	charng shah dah bea norng	1
 長沙大北農	charng shah day bea norng	0
-長沙幹馬鄉	charng shah gam maa xiang	1
-長沙幹馬鄉	charng shah gan maa xiang	1
+長沙幹馬鄉	charng shah gam maa xiang	0
+長沙幹馬鄉	charng shah gan maa xiang	0
 長沙貢馬鄉	charng shah gomg maa xiang	1
 長沙火車站	charng shah huoo che zham	1
 長沙火車站	charng shah huoo ju zham	0
@@ -16336,7 +16338,7 @@ sort: by_weight
 蔥爆羊肉丁	cong baw vyang row ding	1
 蔥豉豆腐湯	cong chyi dow fwu tang	1
 蓯黃補腎丸	cong hwang bwu shem vwan	1
-蔥姜蜂蜜茶	cong jiang feng mih char	1
+蔥姜蜂蜜茶	cong jiang feng mih char	0
 蓯蓉補腎丸	cong rorng bwu shem vwan	1
 蔥茸花枝片	cong rorng hua zhi piam	1
 蔥茸花枝片	cong rorng hua zhi pian	1
@@ -18205,7 +18207,7 @@ sort: by_weight
 大屯村委會	dah twen cuen vuea huey	1
 大屯村委會	dah twen cuen vuea kuay	0
 大屯路東站	dah twen luh dong zham	1
-大屯裡社區	dah twen lyi sheh qu	1
+大屯裡社區	dah twen lyi sheh qu	0
 大屯裡社區	dah twen lyi sheh vou	0
 大屯滿族鄉	dah twen maan zur xiang	1
 大安街街道	dah van jie jie daw	1
@@ -19774,7 +19776,7 @@ sort: by_weight
 達羅毗荼人	dar lwo pir tur rern	1
 答李澣三首	dar lyi ham san shoa	1
 答李澣三首	dar lyi huam san shoa	0
-達裡諾爾湖	dar lyi nuoh veel hur	1
+達裡諾爾湖	dar lyi nuoh veel hur	0
 達令百分百	dar lying bae fem bae	1
 達令百分百	dar lying bae fen bae	1
 達摩翠鳳蝶	dar ma cuey femg dye	0
@@ -21880,6 +21882,7 @@ sort: by_weight
 的掉落幾率	de diaw luoh ji shuay	0
 的掉落幾率	de diaw luoh jyi lew	1
 的掉落幾率	de diaw luoh jyi shuay	0
+的裡雅斯特	de lyi viaa si teh	0
 的使用次數	de shyi viomg cih shuh	1
 的使用次數	de shyi viomg cih shuoh	0
 的使用次數	de shyi viomg cih shwu	1
@@ -24038,6 +24041,7 @@ sort: by_weight
 地理大發現	dih lyi day fah xiam	0
 地理計量學	dih lyi jih liamg xyue	1
 地理計量學	dih lyi jih lyang xyue	1
+的裡雅斯特	dih lyi viaa si teh	0
 地理相關法	dih lyi xiamg guan faa	1
 地理相關法	dih lyi xiang guan faa	1
 地理學體系	dih lyi xyue ti jih	0
@@ -24660,6 +24664,7 @@ sort: by_weight
 狄利克雷核	dir lih keh leir hur	0
 狄利克雷域	dir lih keh leir vew	2
 狄利克雷型	dir lih keh leir xirng	1
+的裡雅斯特	dir lyi viaa si teh	0
 迪米特法則	dir myi teh faa zer	1
 狄尼下導數	dir nir xiah dau shuh	2
 狄尼下導數	dir nir xiah dau shuoh	0
@@ -24763,13 +24768,13 @@ sort: by_weight
 凍頂烏龍茶	domg dying vu lorng char	1
 凍幹人血漿	domg gam rern xiee jiamg	0
 凍幹人血漿	domg gam rern xiee jiang	0
-凍幹人血漿	domg gam rern xueh jiamg	1
-凍幹人血漿	domg gam rern xueh jiang	1
+凍幹人血漿	domg gam rern xueh jiamg	0
+凍幹人血漿	domg gam rern xueh jiang	0
 凍乾粉針劑	domg gan feen zhen jih	1
 凍幹人血漿	domg gan rern xiee jiamg	0
 凍幹人血漿	domg gan rern xiee jiang	0
-凍幹人血漿	domg gan rern xueh jiamg	1
-凍幹人血漿	domg gan rern xueh jiang	1
+凍幹人血漿	domg gan rern xueh jiamg	0
+凍幹人血漿	domg gan rern xueh jiang	0
 洞溝古墓群	domg gou gwu muh qyuen	1
 洞壑當門前	domg heh damg mern qyan	1
 洞壑當門前	domg heh dang mern qyan	1
@@ -25211,8 +25216,8 @@ sort: by_weight
 東湖鎮政府	dong hur zhem zhemg fwu	1
 東華門街道	dong hwa mern jie daw	1
 東槐裡衚衕	dong hwai lyi hur domg	0
-東槐裡衚衕	dong hwai lyi hur tomg	1
-東槐裡衚衕	dong hwai lyi hur torng	1
+東槐裡衚衕	dong hwai lyi hur tomg	0
+東槐裡衚衕	dong hwai lyi hur torng	0
 東環路街道	dong hwan luh jie daw	1
 東加勒比元	dong jia leh byi vyuan	1
 東加勒比元	dong jia lei byi vyuan	0
@@ -25452,7 +25457,7 @@ sort: by_weight
 東松樹衚衕	dong song shuh hur domg	0
 東松樹衚衕	dong song shuh hur tomg	1
 東松樹衚衕	dong song shuh hur torng	1
-冬筍裡脊絲	dong sueen lyi jyi si	1
+冬筍裡脊絲	dong sueen lyi jyi si	0
 東臺市林場	dong tai shih lirn chaang	1
 東臺市林場	dong tai shih lirn charng	1
 東臺市林場	dong tair shih lirn chaang	1
@@ -25699,7 +25704,7 @@ sort: by_weight
 都市修仙傳	dou shih xiou xian zhuam	0
 都市型農業	dou shih xirng norng vieh	1
 都市邪劍仙	dou shih xye jiam xian	1
-都悅裡小區	dou veueh lyi xiau qu	1
+都悅裡小區	dou veueh lyi xiau qu	0
 都悅裡小區	dou veueh lyi xiau vou	0
 都勻太師餅	dou vyuen tay shi bying	1
 都正街街道	dou zhemg jie jie daw	1
@@ -26287,7 +26292,7 @@ sort: by_weight
 敦煌千佛洞	duen hwang qian fur domg	0
 敦煌千佛洞	duen hwang qian fur torng	0
 敦煌研究院	duen hwang vyan jiou veuam	1
-墩買裡街道	duen mae lyi jie daw	1
+墩買裡街道	duen mae lyi jie daw	0
 蹲便器配件	duen pyan qih pey jiam	0
 蹲便器安裝	duen pyan qih van zhuang	0
 敦肅皇貴妃	duen suh hwang guey fei	1
@@ -26641,8 +26646,8 @@ sort: by_weight
 肚裏的蛔蟲	duh lyi dir hwei chorng	0
 渡裡杉一郎	duh lyi sha vi lamg	0
 渡裡杉一郎	duh lyi sha vi larng	0
-渡裡杉一郎	duh lyi shan vi lamg	1
-渡裡杉一郎	duh lyi shan vi larng	1
+渡裡杉一郎	duh lyi shan vi lamg	0
+渡裡杉一郎	duh lyi shan vi larng	0
 杜嶺街街道	duh lying jie jie daw	1
 肚皮舞配飾	duh pir vwu pey shih	1
 肚皮舞上裝	duh pir vwu shaang zhuang	1
@@ -26745,7 +26750,7 @@ sort: by_weight
 多不過三四	duo buh guo san sih	1
 多不過六七	duo buh guoh liow qi	1
 多不過三四	duo buh guoh san sih	1
-多布庫裡河	duo buh kuh lyi her	1
+多布庫裡河	duo buh kuh lyi her	0
 多部未華子	duo buh vuey huah zi	1
 多部未華子	duo buh vuey huah zyi	1
 多部未華子	duo buh vuey hwa zi	1
@@ -27970,6 +27975,7 @@ sort: by_weight
 阿古斯之刃	e gwu si zhi rem	0
 阿古斯之手	e gwu si zhi shoa	0
 阿赫蒂薩裏	e heh dih sah lyi	0
+阿赫蒂薩裡	e heh dih sah lyi	0
 阿赫馬多夫	e heh maa duo fu	0
 阿赫瑪託娃	e heh maa tuo vwa	0
 阿黑皮素原	e hei pir suh vyuan	0
@@ -29511,7 +29517,7 @@ sort: by_weight
 恩濟里社區	en jih li sheh vou	0
 恩濟里社區	en jih lyi sheh qu	1
 恩濟里社區	en jih lyi sheh vou	0
-恩濟裡小區	en jih lyi xiau qu	1
+恩濟裡小區	en jih lyi xiau qu	0
 恩濟裡小區	en jih lyi xiau vou	0
 恩濟莊社區	en jih zhuang sheh qu	1
 恩濟莊社區	en jih zhuang sheh vou	0
@@ -29519,7 +29525,7 @@ sort: by_weight
 恩濟里社區	en jyi li sheh vou	0
 恩濟里社區	en jyi lyi sheh qu	1
 恩濟里社區	en jyi lyi sheh vou	0
-恩濟裡小區	en jyi lyi xiau qu	1
+恩濟裡小區	en jyi lyi xiau qu	0
 恩濟裡小區	en jyi lyi xiau vou	0
 恩濟莊社區	en jyi zhuang sheh qu	1
 恩濟莊社區	en jyi zhuang sheh vou	0
@@ -32535,7 +32541,7 @@ sort: by_weight
 方為人上人	fang vuey rern shamg rern	1
 方為人上人	fang vwei rern shaang rern	1
 方為人上人	fang vwei rern shamg rern	1
-芳園裡社區	fang vyuan lyi sheh qu	1
+芳園裡社區	fang vyuan lyi sheh qu	0
 芳園裡社區	fang vyuan lyi sheh vou	0
 方員之至也	fang vyuan zhi zhih viee	1
 方向傳感器	fang xiamg chwan gaan qih	1
@@ -35206,7 +35212,7 @@ sort: by_weight
 佛雷亞斯坦	for leir viah si taan	1
 佛洛依德派	for luoh vi der pay	1
 佛羅倫薩隊	for lwo lwen sah duey	1
-佛裡曼特爾	for lyi mam teh veel	1
+佛裡曼特爾	for lyi mam teh veel	0
 佛面上刮金	for miam shaang gua jin	0
 佛面上刮金	for miam shamg gua jin	0
 佛奴識滄道	for nur shir cang daw	1
@@ -36699,11 +36705,11 @@ sort: by_weight
 氟羅沙星片	fur lwo shah xing piam	1
 氟羅沙星片	fur lwo shah xing pian	1
 弗裏得裏希	fur lyi dea lyi xi	0
-弗裡登胡普	fur lyi deng hur pwu	1
-弗裡德海姆	fur lyi der hae mwu	1
-弗裡德蘭德	fur lyi der larn der	1
-弗裡德里克	fur lyi der li keh	1
-弗裡德里克	fur lyi der lyi keh	1
+弗裡登胡普	fur lyi deng hur pwu	0
+弗裡德海姆	fur lyi der hae mwu	0
+弗裡德蘭德	fur lyi der larn der	0
+弗裡德里克	fur lyi der li keh	0
+弗裡德里克	fur lyi der lyi keh	0
 弗裏得裏希	fur lyi der lyi xi	0
 佛裡曼特爾	fur lyi mam teh veel	0
 弗里曼特爾	fur lyi mam teh veel	1
@@ -36766,7 +36772,7 @@ sort: by_weight
 芙蓉里社區	fur rorng li sheh vou	0
 芙蓉里社區	fur rorng lyi sheh qu	1
 芙蓉里社區	fur rorng lyi sheh vou	0
-芙蓉裡小區	fur rorng lyi xiau qu	1
+芙蓉裡小區	fur rorng lyi xiau qu	0
 芙蓉裡小區	fur rorng lyi xiau vou	0
 芙蓉鮮蔬湯	fur rorng xiaan shu tang	1
 芙蓉鮮蔬湯	fur rorng xian shu tang	1
@@ -37423,19 +37429,21 @@ sort: by_weight
 改造世界觀	gae zaw shih jieh guan	1
 改正性活動	gae zhemg ximg hwo domg	1
 改正性活動	gae zheng ximg hwo domg	1
-幹焙洋芋絲	gam bey vyang vew si	1
+幹焙洋芋絲	gam bey vyang vew si	0
 幹部民族化	gam buh mirn zur huah	1
-幹炒牛肉絲	gam chau nyou row si	1
-幹河彝族鄉	gam her vir zur xiang	1
-幹河子林場	gam her zi lirn chaang	1
-幹河子林場	gam her zi lirn charng	1
-幹河子林場	gam her zyi lirn chaang	1
-幹河子林場	gam her zyi lirn charng	1
-幹火靠大蝦	gam huoo kaw dah xia	1
+幹炒牛肉絲	gam chau nyou row si	0
+幹隔澇漢子	gam ger law ham zi	0
+幹隔澇漢子	gam ger law ham zyi	0
+幹河彝族鄉	gam her vir zur xiang	0
+幹河子林場	gam her zi lirn chaang	0
+幹河子林場	gam her zi lirn charng	0
+幹河子林場	gam her zyi lirn chaang	0
+幹河子林場	gam her zyi lirn charng	0
+幹火靠大蝦	gam huoo kaw dah xia	0
 幹火靠大蝦	gam huoo kaw day xia	0
-幹烤狼肉串	gam kau larng row chuam	1
-幹隆六十年	gam lorng liow shir nyan	1
-幹蘆一炬火	gam lur vi jew huoo	1
+幹烤狼肉串	gam kau larng row chuam	0
+幹隆六十年	gam lorng liow shir nyan	0
+幹蘆一炬火	gam lur vi jew huoo	0
 干連福海參	gam lyan fur hae can	1
 干連福海參	gam lyan fur hae cen	0
 干連福海參	gam lyan fur hae shen	0
@@ -37443,32 +37451,32 @@ sort: by_weight
 贛南小炒魚	gam na xiau chau veur	0
 贛南工業園	gam narn gong vieh vyuan	1
 贛南小炒魚	gam narn xiau chau veur	1
-幹切火腿肉	gam qie huoo tuea row	1
-幹切火腿肉	gam qieh huoo tuea row	1
+幹切火腿肉	gam qie huoo tuea row	0
+幹切火腿肉	gam qieh huoo tuea row	0
 干擾電療法	gam rau diam lyao faa	1
-幹蠕孢菌素	gam rur bao juem suh	1
-幹蠕孢菌素	gam rur bao juen suh	1
-幹煽牛肉絲	gam shan nyou row si	1
+幹蠕孢菌素	gam rur bao juem suh	0
+幹蠕孢菌素	gam rur bao juen suh	0
+幹煽牛肉絲	gam shan nyou row si	0
 干涉濾光片	gam sheh lew guang piam	1
 干涉濾光片	gam sheh lew guang pian	1
 干涉儀天線	gam sheh vir tian xiam	1
 干涉顯微鏡	gam sheh xiaan vuei jimg	1
-幹生地黃散	gam sheng di hwang saan	1
-幹生地黃散	gam sheng di hwang sam	1
-幹生地黃散	gam sheng dih hwang saan	1
-幹生地黃散	gam sheng dih hwang sam	1
+幹生地黃散	gam sheng di hwang saan	0
+幹生地黃散	gam sheng di hwang sam	0
+幹生地黃散	gam sheng dih hwang saan	0
+幹生地黃散	gam sheng dih hwang sam	0
 幹一番事業	gam vi fan shih vieh	1
 幹一番事業	gam vi pan shih vieh	0
 幹佑三年冬	gam viow san nyan dong	1
-幹窩帶皮蛇	gam vuo day pir sher	1
+幹窩帶皮蛇	gam vuo day pir sher	0
 贛縣工業園	gam xiam gong vieh vyuan	1
-幹香腸燜飯	gam xiang charng mem fam	1
-幹炸赤鱗魚	gam zhah chih lirn veur	1
-幹炸藕丸子	gam zhah voa vwan zi	1
-幹炸藕丸子	gam zhah voa vwan zyi	1
-幹炸赤鱗魚	gam zhar chih lirn veur	1
-幹炸藕丸子	gam zhar voa vwan zi	1
-幹炸藕丸子	gam zhar voa vwan zyi	1
+幹香腸燜飯	gam xiang charng mem fam	0
+幹炸赤鱗魚	gam zhah chih lirn veur	0
+幹炸藕丸子	gam zhah voa vwan zi	0
+幹炸藕丸子	gam zhah voa vwan zyi	0
+幹炸赤鱗魚	gam zhar chih lirn veur	0
+幹炸藕丸子	gam zhar voa vwan zi	0
+幹炸藕丸子	gam zhar voa vwan zyi	0
 贛中化工廠	gam zhomg huah gong chaang	1
 贛中化工廠	gam zhong huah gong chaang	1
 幹洲墾殖場	gam zhou keen shi chaang	0
@@ -37524,7 +37532,7 @@ sort: by_weight
 乾貝蘿蔔湯	gan bey lwo bo tang	1
 乾貝蘿蔔湯	gan bey lwo bor tang	1
 乾貝水晶雞	gan bey shuea jing ji	1
-幹焙洋芋絲	gan bey vyang vew si	1
+幹焙洋芋絲	gan bey vyang vew si	0
 乾貝西蘭花	gan bey xi larn hua	1
 乾煸黃牯魚	gan bian hwang gwu veur	1
 乾煸牛肉絲	gan bian nyou row si	1
@@ -37564,7 +37572,7 @@ sort: by_weight
 乾菜擦酥餅	gan cay ca su bying	1
 乾菜油酥餅	gan cay vyou su bying	1
 乾柴遇烈火	gan chair vew lieh huoo	1
-幹炒牛肉絲	gan chau nyou row si	1
+幹炒牛肉絲	gan chau nyou row si	0
 肝膽楚越也	gan daan chwu veueh viee	1
 肝膽皆冰雪	gan daan jie bing xuee	1
 肝膽溼熱證	gan daan shi reh zhemg	1
@@ -37614,6 +37622,8 @@ sort: by_weight
 尷尬的廚師	gan gah de chur shi	1
 尷尬的廚師	gan gah dih chur shi	0
 尷尬的廚師	gan gah dir chur shi	0
+幹隔澇漢子	gan ger law ham zi	0
+幹隔澇漢子	gan ger law ham zyi	0
 肝功能不全	gan gong nerng buh qyuan	1
 肝功能衰竭	gan gong nerng shuai jye	1
 肝功能異常	gan gong nerng vih charng	1
@@ -37631,14 +37641,14 @@ sort: by_weight
 乾鍋野豬肉	gan guo viee zhu row	1
 坩堝形成座	gan guo xirng cherng zuoh	1
 甘河林業局	gan her lirn vieh jur	1
-幹河彝族鄉	gan her vir zur xiang	1
-幹河子林場	gan her zi lirn chaang	1
-幹河子林場	gan her zi lirn charng	1
-幹河子林場	gan her zyi lirn chaang	1
-幹河子林場	gan her zyi lirn charng	1
+幹河彝族鄉	gan her vir zur xiang	0
+幹河子林場	gan her zi lirn chaang	0
+幹河子林場	gan her zi lirn charng	0
+幹河子林場	gan her zyi lirn chaang	0
+幹河子林場	gan her zyi lirn charng	0
 肝火不得臥	gan huoo buh dea vuoh	0
 肝火不得臥	gan huoo buh der vuoh	1
-幹火靠大蝦	gan huoo kaw dah xia	1
+幹火靠大蝦	gan huoo kaw dah xia	0
 幹火靠大蝦	gan huoo kaw day xia	0
 甘家湖林場	gan jia hur lirn chaang	1
 甘家湖林場	gan jia hur lirn charng	1
@@ -37693,7 +37703,7 @@ sort: by_weight
 甘井子街道	gan jying zyi jie daw	1
 肝開竅於目	gan kai qiaw veu muh	1
 肝開竅於目	gan kai qiaw veur muh	1
-幹烤狼肉串	gan kau larng row chuam	1
+幹烤狼肉串	gan kau larng row chuam	0
 乾枯的種子	gan ku de chorng zi	0
 乾枯的種子	gan ku de chorng zyi	0
 乾枯的心臟	gan ku de xin zamg	1
@@ -37729,7 +37739,7 @@ sort: by_weight
 乾了這一瓶	gan liau zheh vi pirng	0
 甘利欣膠囊	gan lih xin jiao nang	1
 甘利欣膠囊	gan lih xin jiao narng	1
-幹隆六十年	gan lorng liow shir nyan	1
+幹隆六十年	gan lorng liow shir nyan	0
 甘露聚糖肽	gan low jew tarng tay	0
 甘露舌頭漿	gan low sher tour jiamg	0
 甘露舌頭漿	gan low sher tour jiang	0
@@ -37758,7 +37768,7 @@ sort: by_weight
 甘露園小區	gan luh vyuan xiau vou	0
 甘露消毒丹	gan luh xiao dur dan	1
 甘露消毒丸	gan luh xiao dur vwan	1
-幹蘆一炬火	gan lur vi jew huoo	1
+幹蘆一炬火	gan lur vi jew huoo	0
 干連福海參	gan lyan fur hae can	1
 干連福海參	gan lyan fur hae cen	0
 干連福海參	gan lyan fur hae shen	0
@@ -37775,19 +37785,19 @@ sort: by_weight
 肝脾康膠囊	gan pir kang jiao nang	1
 肝脾康膠囊	gan pir kang jiao narng	1
 甘鉼皮月餅	gan pirng pir veueh bying	0
-幹切火腿肉	gan qie huoo tuea row	1
-幹切火腿肉	gan qieh huoo tuea row	1
+幹切火腿肉	gan qie huoo tuea row	0
+幹切火腿肉	gan qieh huoo tuea row	0
 肝氣鬱結證	gan qih vew jie zhemg	1
 肝氣鬱結證	gan qih vew jye zhemg	1
 甘泉路街道	gan qyuan luh jie daw	1
 干擾電療法	gan rau diam lyao faa	1
-幹蠕孢菌素	gan rur bao juem suh	1
-幹蠕孢菌素	gan rur bao juen suh	1
+幹蠕孢菌素	gan rur bao juem suh	0
+幹蠕孢菌素	gan rur bao juen suh	0
 肝上血管瘤	gan shaang xiee guaan lyou	0
 肝上血管瘤	gan shaang xueh guaan lyou	1
 肝上血管瘤	gan shamg xiee guaan lyou	0
 肝上血管瘤	gan shamg xueh guaan lyou	1
-幹煽牛肉絲	gan shan nyou row si	1
+幹煽牛肉絲	gan shan nyou row si	0
 乾燒翹嘴白	gan shao qiaw zuea bair	1
 乾燒翹嘴白	gan shao qyao zuea bair	1
 干涉濾光片	gan sheh lew guang piam	1
@@ -37795,10 +37805,10 @@ sort: by_weight
 干涉儀天線	gan sheh vir tian xiam	1
 干涉顯微鏡	gan sheh xiaan vuei jimg	1
 肝腎陰虛證	gan shem vin xu zhemg	1
-幹生地黃散	gan sheng di hwang saan	1
-幹生地黃散	gan sheng di hwang sam	1
-幹生地黃散	gan sheng dih hwang saan	1
-幹生地黃散	gan sheng dih hwang sam	1
+幹生地黃散	gan sheng di hwang saan	0
+幹生地黃散	gan sheng di hwang sam	0
+幹生地黃散	gan sheng dih hwang saan	0
+幹生地黃散	gan sheng dih hwang sam	0
 乾式採油樹	gan shih cae vyou shuh	1
 乾式採油樹	gan shih cay vyou shuh	1
 杆石橋街道	gan shir qyao jie daw	1
@@ -37877,13 +37887,13 @@ sort: by_weight
 肝胃至寶丹	gan vuey zhih bau dan	1
 乾務軟骨鯪	gan vuh ruaan gu lirng	1
 乾務軟骨鯪	gan vuh ruaan gwu lirng	1
-幹窩帶皮蛇	gan vuo day pir sher	1
+幹窩帶皮蛇	gan vuo day pir sher	0
 肝炎康復丸	gan vyan kang fuh vwan	1
 甘油醇溶液	gan vyou chwen rorng vieh	1
 甘油灌腸劑	gan vyou guam charng jih	1
 甘油磷酸鈣	gan vyou lirn suan gay	1
 乾縣豆腐腦	gan xiam dow fwu nau	1
-幹香腸燜飯	gan xiang charng mem fam	1
+幹香腸燜飯	gan xiang charng mem fam	0
 肝細胞移植	gan xih bao vir zhir	1
 肝細胞腺瘤	gan xih bao xiam lyou	1
 甘心赴國憂	gan xin fuh gwo viou	1
@@ -37925,12 +37935,12 @@ sort: by_weight
 乾燥綜合徵	gan zaw zong her zheng	1
 乾燥綜合症	gan zaw zong her zheng	1
 乾燥綜合徵	gan zaw zong her zhyi	0
-幹炸赤鱗魚	gan zhah chih lirn veur	1
-幹炸藕丸子	gan zhah voa vwan zi	1
-幹炸藕丸子	gan zhah voa vwan zyi	1
-幹炸赤鱗魚	gan zhar chih lirn veur	1
-幹炸藕丸子	gan zhar voa vwan zi	1
-幹炸藕丸子	gan zhar voa vwan zyi	1
+幹炸赤鱗魚	gan zhah chih lirn veur	0
+幹炸藕丸子	gan zhah voa vwan zi	0
+幹炸藕丸子	gan zhah voa vwan zyi	0
+幹炸赤鱗魚	gan zhar chih lirn veur	0
+幹炸藕丸子	gan zhar voa vwan zi	0
+幹炸藕丸子	gan zhar voa vwan zyi	0
 甘蔗薑汁茶	gan zheh jiang zhi char	1
 甘蔗猿頭蛤	gan zheh vyuan tour ger	0
 甘蔗猿頭蛤	gan zheh vyuan tour har	1
@@ -39384,8 +39394,8 @@ sort: by_weight
 格里夫尼亞	ger li fu nir viah	1
 格里弗尼納	ger li fur nir nah	1
 格里高利曆	ger li gao lih lih	0
-格里戈裡耶	ger li ge lyi vie	1
-格里戈裡耶	ger li ge lyi vye	1
+格里戈裡耶	ger li ge lyi vie	0
+格里戈裡耶	ger li ge lyi vye	0
 格里哈斯特	ger li ha si teh	1
 格里哈斯特	ger li haa si teh	1
 格里哈斯特	ger li hah si teh	1
@@ -39454,8 +39464,8 @@ sort: by_weight
 格里夫尼亞	ger lyi fu nir viah	1
 格里弗尼納	ger lyi fur nir nah	1
 格里高利曆	ger lyi gao lih lih	0
-格里戈裡耶	ger lyi ge lyi vie	1
-格里戈裡耶	ger lyi ge lyi vye	1
+格里戈裡耶	ger lyi ge lyi vie	0
+格里戈裡耶	ger lyi ge lyi vye	0
 格里哈斯特	ger lyi ha si teh	1
 格里哈斯特	ger lyi haa si teh	1
 格里哈斯特	ger lyi hah si teh	1
@@ -41662,7 +41672,7 @@ sort: by_weight
 光明居委會	guang mirng ju vuea huey	1
 光明居委會	guang mirng ju vuea kuay	0
 光明路街道	guang mirng luh jie daw	1
-光明裡社區	guang mirng lyi sheh qu	1
+光明裡社區	guang mirng lyi sheh qu	0
 光明裡社區	guang mirng lyi sheh vou	0
 光明南社區	guang mirng na sheh qu	0
 光明南社區	guang mirng na sheh vou	0
@@ -43608,14 +43618,14 @@ sort: by_weight
 哈特謝普蘇	ha teh xieh pwu su	0
 哈圖布呼鎮	ha tur buh hu zhem	1
 哈爾巴克鄉	ha veel ba keh xiang	1
-哈爾濱幹腸	ha veel bin gam charng	1
-哈爾濱幹腸	ha veel bin gan charng	1
+哈爾濱幹腸	ha veel bin gam charng	0
+哈爾濱幹腸	ha veel bin gan charng	0
 哈爾濱紅腸	ha veel bin horng charng	1
 哈爾濱市隊	ha veel bin shih duey	1
 哈爾濱市人	ha veel bin shih rern	1
 哈爾濱市委	ha veel bin shih vuea	1
 哈爾濱燻雞	ha veel bin xuen ji	1
-哈爾裡克山	ha veel lyi keh shan	1
+哈爾裡克山	ha veel lyi keh shan	0
 哈爾莫墩鎮	ha veel moh duen zhem	1
 哈爾什巢穴	ha veel shern chaor xyue	1
 哈爾什長靴	ha veel shern charng xue	1
@@ -43820,14 +43830,14 @@ sort: by_weight
 哈特謝普蘇	haa teh xieh pwu su	0
 哈圖布呼鎮	haa tur buh hu zhem	1
 哈爾巴克鄉	haa veel ba keh xiang	1
-哈爾濱幹腸	haa veel bin gam charng	1
-哈爾濱幹腸	haa veel bin gan charng	1
+哈爾濱幹腸	haa veel bin gam charng	0
+哈爾濱幹腸	haa veel bin gan charng	0
 哈爾濱紅腸	haa veel bin horng charng	1
 哈爾濱市隊	haa veel bin shih duey	1
 哈爾濱市人	haa veel bin shih rern	1
 哈爾濱市委	haa veel bin shih vuea	1
 哈爾濱燻雞	haa veel bin xuen ji	1
-哈爾裡克山	haa veel lyi keh shan	1
+哈爾裡克山	haa veel lyi keh shan	0
 哈爾莫墩鎮	haa veel moh duen zhem	1
 哈爾什巢穴	haa veel shern chaor xyue	1
 哈爾什長靴	haa veel shern charng xue	1
@@ -43976,6 +43986,8 @@ sort: by_weight
 海度斯印記	hae duh si vim jih	1
 海多斯博恩	hae duo si bor ven	1
 海度斯印記	hae dwo si vim jih	0
+海底兩萬裡	hae dyi liaang moh lyi	0
+海底兩萬裡	hae dyi liaang vuam lyi	0
 海防辦事處	hae farng bam shih chuh	1
 海防辦事處	hae farng bam shih chwu	1
 海港大酒店	hae gaang dah jioa diam	1
@@ -44183,7 +44195,7 @@ sort: by_weight
 海燕出版社	hae viam chu baan sheh	1
 海燕出版社	hae vian chu baan sheh	1
 海印電腦城	hae vim diam nau cherng	1
-海因裡希斯	hae vin lyi xi si	1
+海因裡希斯	hae vin lyi xi si	0
 海灣豹蟾魚	hae vuan baw charn veur	1
 海灣大酒店	hae vuan dah jioa diam	1
 海灣大酒店	hae vuan day jioa diam	0
@@ -44441,14 +44453,14 @@ sort: by_weight
 哈特謝普蘇	hah teh xieh pwu su	0
 哈圖布呼鎮	hah tur buh hu zhem	1
 哈爾巴克鄉	hah veel ba keh xiang	1
-哈爾濱幹腸	hah veel bin gam charng	1
-哈爾濱幹腸	hah veel bin gan charng	1
+哈爾濱幹腸	hah veel bin gam charng	0
+哈爾濱幹腸	hah veel bin gan charng	0
 哈爾濱紅腸	hah veel bin horng charng	1
 哈爾濱市隊	hah veel bin shih duey	1
 哈爾濱市人	hah veel bin shih rern	1
 哈爾濱市委	hah veel bin shih vuea	1
 哈爾濱燻雞	hah veel bin xuen ji	1
-哈爾裡克山	hah veel lyi keh shan	1
+哈爾裡克山	hah veel lyi keh shan	0
 哈爾莫墩鎮	hah veel moh duen zhem	1
 哈爾什巢穴	hah veel shern chaor xyue	1
 哈爾什長靴	hah veel shern charng xue	1
@@ -44862,9 +44874,9 @@ sort: by_weight
 汗漫東皋上	harn mam dong gao shamg	1
 寒梅著花未	harn meir zhao hua vuey	0
 寒梅著花未	harn meir zhaor hua vuey	0
-寒梅著花未	harn meir zhe hua vuey	2
+寒梅著花未	harn meir zhe hua vuey	0
 寒梅著花未	harn meir zhuh hua vuey	0
-寒梅著花未	harn meir zhwo hua vuey	0
+寒梅著花未	harn meir zhwo hua vuey	2
 寒磬滿空林	harn qimg maan komg lirn	1
 寒磬滿空林	harn qimg maan kong lirn	1
 寒禽與衰草	harn qirn vew shuai cau	1
@@ -48192,7 +48204,7 @@ sort: by_weight
 虹收青嶂雨	horng shou qing zhamg vyu	1
 洪水旗散人	horng shuea qir saan rern	1
 洪水旗散人	horng shuea qir sam rern	1
-鴻順裡街道	horng shuem lyi jie daw	1
+鴻順裡街道	horng shuem lyi jie daw	0
 鴻順園小區	horng shuem vyuan xiau qu	1
 鴻順園小區	horng shuem vyuan xiau vou	0
 紅樹林花園	horng shuh lirn hua vyuan	1
@@ -48764,11 +48776,11 @@ sort: by_weight
 呼勒德追蛛	hu leh der zhuei zhu	1
 呼勒德追蛛	hu lei der zhuei zhu	0
 呼倫貝爾盟	hu lwen bey veel merng	1
-忽裡臺大會	hu lyi tai dah huey	1
+忽裡臺大會	hu lyi tai dah huey	0
 忽裡臺大會	hu lyi tai dah kuay	0
 忽裡臺大會	hu lyi tai day huey	0
 忽裡臺大會	hu lyi tai day kuay	0
-忽裡臺大會	hu lyi tair dah huey	1
+忽裡臺大會	hu lyi tair dah huey	0
 忽裡臺大會	hu lyi tair dah kuay	0
 忽裡臺大會	hu lyi tair day huey	0
 忽裡臺大會	hu lyi tair day kuay	0
@@ -48998,8 +49010,8 @@ sort: by_weight
 花生雪花冰	hua sheng xuee hua bing	1
 花生芝麻糖	hua sheng zhi mar tarng	1
 花市燈如晝	hua shih deng rur zhow	1
-花亭湖茶幹	hua tirng hur char gam	1
-花亭湖茶幹	hua tirng hur char gan	1
+花亭湖茶幹	hua tirng hur char gam	0
+花亭湖茶幹	hua tirng hur char gan	0
 花吐古拉鎮	hua tuh gwu la zhem	1
 花吐古拉鎮	hua tuh gwu lar zhem	1
 花吐古拉鎮	hua twu gwu la zhem	1
@@ -50841,10 +50853,10 @@ sort: by_weight
 胡裡山炮臺	hur lyi shan bao tai	0
 胡裡山炮臺	hur lyi shan bao tair	0
 湖裡山公園	hur lyi shan gong vyuan	1
-胡裡山炮臺	hur lyi shan paor tai	1
-胡裡山炮臺	hur lyi shan paor tair	1
-胡裡山炮臺	hur lyi shan paw tai	1
-胡裡山炮臺	hur lyi shan paw tair	1
+胡裡山炮臺	hur lyi shan paor tai	0
+胡裡山炮臺	hur lyi shan paor tair	0
+胡裡山炮臺	hur lyi shan paw tai	0
+胡裡山炮臺	hur lyi shan paw tair	0
 胡里奧之心	hur lyi vaw zhi xin	1
 胡里奧指環	hur lyi vaw zhyi hwan	1
 胡馬大宛名	hur maa dah vuaan mirng	1
@@ -53347,7 +53359,7 @@ sort: by_weight
 依蘭城戰鬥	i larn cherng zham dow	1
 伊蘭尼庫斯	i larn nir kuh si	1
 伊蘭特悅動	i larn teh veueh domg	1
-伊勒呼裡山	i leh hu lyi shan	1
+伊勒呼裡山	i leh hu lyi shan	0
 伊勒呼裡山	i lei hu lyi shan	0
 一雷驚蟄始	i leir jing zher shyi	1
 伊里尼達港	i li nir dar gaang	1
@@ -53409,7 +53421,7 @@ sort: by_weight
 醫療事故賠	i lyao shih guh peir	1
 醫療物資箱	i lyao vuh zi xiang	1
 伊里尼達港	i lyi nir dar gaang	1
-伊裡安查亞	i lyi van char viah	1
+伊裡安查亞	i lyi van char viah	0
 伊裡安查亞	i lyi van zha viah	0
 一馬路街道	i maa luh jie daw	1
 一馬二僕伕	i maa vehl pu fu	1
@@ -54298,7 +54310,7 @@ sort: by_weight
 雅拉達澤山	iaa lar dar zer shan	1
 雅羅斯拉夫	iaa lwo si la fu	1
 雅羅斯拉夫	iaa lwo si lar fu	1
-雅瑪裡克山	iaa maa lyi keh shan	1
+雅瑪裡克山	iaa maa lyi keh shan	0
 啞情一線牽	iaa qirng vi xiam qian	1
 雅僧佛公子	iaa seng for gong zi	1
 雅僧佛公子	iaa seng for gong zyi	1
@@ -55381,8 +55393,8 @@ sort: by_weight
 椰漿面煎糕	ie jiang miam jian gao	1
 耶律楚材墓	ie lew chwu cair muh	1
 耶律涅魯古	ie lew nieh lwu gwu	1
-耶律僕裡篤	ie lew pu lyi dwu	1
-耶律僕裡篤	ie lew pur lyi dwu	1
+耶律僕裡篤	ie lew pu lyi dwu	0
+耶律僕裡篤	ie lew pur lyi dwu	0
 耶律普速完	ie lew pwu suh vwan	1
 耶律撻不也	ie lew tah buh viee	1
 耶律阿保機	ie lew va bau ji	1
@@ -59873,7 +59885,7 @@ sort: by_weight
 基連的相機	ji lyan dir xiamg ji	0
 基連的相機	ji lyan dir xiang ji	0
 基裡洛維奇	ji lyi luoh vwei ji	0
-基裡洛維奇	ji lyi luoh vwei qir	1
+基裡洛維奇	ji lyi luoh vwei qir	0
 基里亞科夫	ji lyi viah ke fu	1
 激流堡徽章	ji lyou bau huei zhang	1
 激流堡死亡	ji lyou bau syi vwang	1
@@ -60252,9 +60264,9 @@ sort: by_weight
 嘉賓復滿堂	jia bin fuh maan tarng	1
 加布林鯊魚	jia buh lirn sha veur	1
 加布林蛙卵	jia buh lirn vua luaan	1
-加布裡埃拉	jia buh lyi vai la	1
-加布裡埃拉	jia buh lyi vai lar	1
-加布裡埃爾	jia buh lyi vai veel	1
+加布裡埃拉	jia buh lyi vai la	0
+加布裡埃拉	jia buh lyi vai lar	0
+加布裡埃爾	jia buh lyi vai veel	0
 加布氏兵鯰	jia buh shih bing nyan	1
 加布氏兵鯰	jia buh zhi bing nyan	0
 家蠶追寄蠅	jia carn zhuei jih virng	1
@@ -61649,7 +61661,7 @@ sort: by_weight
 健民咽喉片	jiam mirn vian hour pian	1
 健民咽喉片	jiam mirn vieh hour piam	0
 健民咽喉片	jiam mirn vieh hour pian	0
-建明裡社區	jiam mirng lyi sheh qu	1
+建明裡社區	jiam mirng lyi sheh qu	0
 建明裡社區	jiam mirng lyi sheh vou	0
 劍無一而定	jiam mor vi verl dimg	0
 建南居委會	jiam na ju vuea huey	0
@@ -65908,10 +65920,10 @@ sort: by_weight
 金不換膏藥	jin buh huam gao viaw	1
 金不換膏藥	jin buh huam gaw viaw	1
 筋餅土豆絲	jin bying twu dow si	1
-金菜地茶幹	jin cay di char gam	1
-金菜地茶幹	jin cay di char gan	1
-金菜地茶幹	jin cay dih char gam	1
-金菜地茶幹	jin cay dih char gan	1
+金菜地茶幹	jin cay di char gam	0
+金菜地茶幹	jin cay di char gan	0
+金菜地茶幹	jin cay dih char gam	0
+金菜地茶幹	jin cay dih char gan	0
 金廠溝梁鎮	jin chaang gou lyang zhem	1
 金釵石斛丸	jin chai dam hur vwan	0
 金釵石斛圓	jin chai dam hur vyuan	0
@@ -67332,9 +67344,9 @@ sort: by_weight
 酒逢知己飲	jioa ferng zhi jyi vim	1
 酒逢知己飲	jioa ferng zhi jyi vyin	1
 酒幹倘賣無	jioa gam taang may mor	0
-酒幹倘賣無	jioa gam taang may vur	1
+酒幹倘賣無	jioa gam taang may vur	0
 酒幹倘賣無	jioa gan taang may mor	0
-酒幹倘賣無	jioa gan taang may vur	1
+酒幹倘賣無	jioa gan taang may vur	0
 九宮八卦儀	jioa gong ba guah vir	1
 九宮花陽霜	jioa gong hua vyang shuang	1
 九宮廟街道	jioa gong miaw jie daw	1
@@ -69227,8 +69239,8 @@ sort: by_weight
 結水散為珠	jye shuea sam vuey zhu	1
 結水散為珠	jye shuea sam vwei zhu	1
 結束多紅粉	jye shuh duo horng feen	1
-竭斯底裡症	jye si dyi lyi zhemg	1
-竭斯底裡症	jye si dyi lyi zheng	1
+竭斯底裡症	jye si dyi lyi zhemg	0
+竭斯底裡症	jye si dyi lyi zheng	0
 桔安紐夜蛾	jye van nioa vieh ver	0
 桔安鈕夜蛾	jye van nioa vieh ver	0
 結愛務在深	jye vay vuh zay shen	1
@@ -69477,7 +69489,7 @@ sort: by_weight
 緊急狀態法	jyin jir zhuamg tay faa	1
 緊黎曼曲面	jyin lir mam qu miam	2
 緊黎曼曲面	jyin lir mam qyu miam	2
-錦裡開芳宴	jyin lyi kai fang viam	1
+錦裡開芳宴	jyin lyi kai fang viam	0
 緊密一致性	jyin mih vi zhih ximg	1
 錦秋辦事處	jyin qiou bam shih chuh	1
 錦秋辦事處	jyin qiou bam shih chwu	1
@@ -70030,7 +70042,7 @@ sort: by_weight
 咖喱牛肉湯	ka lir nyou row tang	0
 咖喱香腸卷	ka lir xiang charng juaan	0
 咖喱香腸卷	ka lir xiang charng juam	0
-喀裡多尼亞	ka lyi duo nir viah	1
+喀裡多尼亞	ka lyi duo nir viah	0
 喀麥隆巨蛙	ka may lorng jew vua	1
 喀麥隆野鯪	ka may lorng viee lirng	1
 喀麥隆政府	ka may lorng zhemg fwu	1
@@ -70062,7 +70074,7 @@ sort: by_weight
 卡斑諾針鮨	kaa ban nuoh zhen vih	0
 卡波西肉瘤	kaa bo xi row lyou	1
 卡鉑注射液	kaa bor zhuh sheh vieh	1
-卡布裡薩斯	kaa buh lyi sah si	1
+卡布裡薩斯	kaa buh lyi sah si	0
 卡茲格羅斯	kaa cir ger lwo si	0
 卡達通靈塔	kaa dar tomg lirng taa	1
 卡達通靈塔	kaa dar tong lirng taa	1
@@ -70076,7 +70088,7 @@ sort: by_weight
 卡迭石之戰	kaa dye dam zhi zham	0
 卡迭石之戰	kaa dye shir zhi zham	1
 卡夫奇妙醬	kaa fu ji miaw jiamg	0
-卡夫裡薩斯	kaa fu lyi sah si	1
+卡夫裡薩斯	kaa fu lyi sah si	0
 卡夫奇妙醬	kaa fu qir miaw jiamg	1
 卡岡杜父魚	kaa gang duh fuh veur	1
 卡加斯刃拳	kaa jia si rem qyuan	1
@@ -70098,12 +70110,12 @@ sort: by_weight
 卡拉波勳章	kaa la bo xuen zhang	1
 卡拉波戰甲	kaa la bo zham jiaa	1
 卡拉波祭司	kaa la bo zhay si	0
-卡拉幹達州	kaa la gam dar zhou	1
-卡拉幹達州	kaa la gan dar zhou	1
+卡拉幹達州	kaa la gam dar zhou	0
+卡拉幹達州	kaa la gan dar zhou	0
 卡拉曼里斯	kaa la mam li si	0
 卡拉曼利斯	kaa la mam lih si	1
 卡拉曼里斯	kaa la mam lyi si	0
-卡拉麥裡山	kaa la may lyi shan	1
+卡拉麥裡山	kaa la may lyi shan	0
 卡拉齊兄弟	kaa la qir xiong dih	1
 卡拉斯事件	kaa la si shih jiam	1
 卡拉瓦耶娃	kaa la vuaa vie vwa	1
@@ -70120,12 +70132,12 @@ sort: by_weight
 卡拉波勳章	kaa lar bo xuen zhang	1
 卡拉波戰甲	kaa lar bo zham jiaa	1
 卡拉波祭司	kaa lar bo zhay si	0
-卡拉幹達州	kaa lar gam dar zhou	1
-卡拉幹達州	kaa lar gan dar zhou	1
+卡拉幹達州	kaa lar gam dar zhou	0
+卡拉幹達州	kaa lar gan dar zhou	0
 卡拉曼里斯	kaa lar mam li si	0
 卡拉曼利斯	kaa lar mam lih si	1
 卡拉曼里斯	kaa lar mam lyi si	0
-卡拉麥裡山	kaa lar may lyi shan	1
+卡拉麥裡山	kaa lar may lyi shan	0
 卡拉齊兄弟	kaa lar qir xiong dih	1
 卡拉斯事件	kaa lar si shih jiam	1
 卡拉瓦耶娃	kaa lar vuaa vie vwa	1
@@ -70188,7 +70200,7 @@ sort: by_weight
 卡片閱讀機	kaa pian veueh dur ji	1
 卡普里亞蒂	kaa pwu li viah dih	1
 卡普里亞蒂	kaa pwu lyi viah dih	1
-卡普契爾裡	kaa pwu qih veel lyi	1
+卡普契爾裡	kaa pwu qih veel lyi	0
 卡普坦級數	kaa pwu taan jir shuh	1
 卡普坦級數	kaa pwu taan jir shuoh	0
 卡普坦級數	kaa pwu taan jir shwu	1
@@ -72113,7 +72125,7 @@ sort: by_weight
 克萊吉拉克	keh lair jir lar keh	1
 克萊倫斯宮	keh lair lwen si gong	0
 克萊羅方程	keh lair lwo fang cherng	2
-克萊裡季斯	keh lair lyi jih si	1
+克萊裡季斯	keh lair lyi jih si	0
 克萊蒙費朗	keh lair meeng fey laang	1
 克萊蒙費朗	keh lair meng fey laang	1
 克萊門蒂娜	keh lair mern dih nah	1
@@ -74039,10 +74051,10 @@ sort: by_weight
 庫蘇古爾湖	kuh su gwu veel hur	0
 庫爾提拉斯	kuh veel di la si	0
 庫爾提拉斯	kuh veel di lar si	0
-庫爾幹秋別	kuh veel gam qiou bieh	1
-庫爾幹秋別	kuh veel gam qiou bye	1
-庫爾幹秋別	kuh veel gan qiou bieh	1
-庫爾幹秋別	kuh veel gan qiou bye	1
+庫爾幹秋別	kuh veel gam qiou bieh	0
+庫爾幹秋別	kuh veel gam qiou bye	0
+庫爾幹秋別	kuh veel gan qiou bieh	0
+庫爾幹秋別	kuh veel gan qiou bye	0
 庫爾勒香梨	kuh veel leh xiang lir	1
 庫爾勒香梨	kuh veel lei xiang lir	0
 庫爾木圖河	kuh veel muh tur her	1
@@ -74448,10 +74460,10 @@ sort: by_weight
 落花生枝葉	lah hua sheng zhi xye	0
 落花詩意圖	lah hua shi vih tur	0
 落花逐流水	lah hua zhur lyou shuea	0
-辣胡蘿蔔幹	lah hur lwo bo gam	1
-辣胡蘿蔔幹	lah hur lwo bo gan	1
-辣胡蘿蔔幹	lah hur lwo bor gam	1
-辣胡蘿蔔幹	lah hur lwo bor gan	1
+辣胡蘿蔔幹	lah hur lwo bo gam	0
+辣胡蘿蔔幹	lah hur lwo bo gan	0
+辣胡蘿蔔幹	lah hur lwo bor gam	0
+辣胡蘿蔔幹	lah hur lwo bor gan	0
 落基山馬鹿	lah ji shan maa luh	0
 辣椒炒肚片	lah jiao chau duh piam	1
 辣椒炒肚片	lah jiao chau duh pian	1
@@ -74502,7 +74514,7 @@ sort: by_weight
 臘肉蘿蔔包	lah row lwo bo bao	1
 臘肉蘿蔔包	lah row lwo bor bao	1
 臘肉燒青豆	lah row shao qing dow	1
-臘塔納基裡	lah taa nah ji lyi	1
+臘塔納基裡	lah taa nah ji lyi	0
 落月滿屋樑	lah veueh maan vu lyang	0
 臘鴨燜土豆	lah via mem twu dow	1
 落葉歸根家	lah vieh guei gen jia	0
@@ -74656,10 +74668,10 @@ sort: by_weight
 郎騎竹馬來	lamg qir zhur maa lair	1
 浪淘沙九首	lamg taor sha jioa shoa	1
 浪淘沙九首	lamg taor shah jioa shoa	1
-閬中幹牛肉	lamg zhomg gam nyou row	1
-閬中幹牛肉	lamg zhomg gan nyou row	1
-閬中幹牛肉	lamg zhong gam nyou row	1
-閬中幹牛肉	lamg zhong gan nyou row	1
+閬中幹牛肉	lamg zhomg gam nyou row	0
+閬中幹牛肉	lamg zhomg gan nyou row	0
+閬中幹牛肉	lamg zhong gam nyou row	0
+閬中幹牛肉	lamg zhong gan nyou row	0
 浪子過山貓	lamg zi guo shan mao	1
 浪子過山貓	lamg zi guoh shan mao	1
 浪子過山貓	lamg zyi guo shan mao	1
@@ -77576,7 +77588,7 @@ sort: by_weight
 黎曼可積的	lir mam keh ji dih	0
 黎曼可積的	lir mam keh ji dir	0
 黎曼可積性	lir mam keh ji ximg	2
-黎曼羅裡群	lir mam lwo lyi qyuen	2
+黎曼羅裡群	lir mam lwo lyi qyuen	0
 黎曼上積分	lir mam shaang ji fem	1
 黎曼上積分	lir mam shaang ji fen	1
 黎曼上積分	lir mam shamg ji fem	1
@@ -80090,12 +80102,12 @@ sort: by_weight
 連筆純形塊	lyan byi chwen xirng kuay	1
 連筆獨字塊	lyan byi dur zih kuay	1
 聯產承包制	lyan chaan cherng bao zhih	1
-連城地瓜幹	lyan cherng di gua gam	1
-連城地瓜幹	lyan cherng di gua gan	1
-連城地瓜幹	lyan cherng dih gua gam	1
-連城地瓜幹	lyan cherng dih gua gan	1
-連城番薯幹	lyan cherng fan shwu gam	1
-連城番薯幹	lyan cherng fan shwu gan	1
+連城地瓜幹	lyan cherng di gua gam	0
+連城地瓜幹	lyan cherng di gua gan	0
+連城地瓜幹	lyan cherng dih gua gam	0
+連城地瓜幹	lyan cherng dih gua gan	0
+連城番薯幹	lyan cherng fan shwu gam	0
+連城番薯幹	lyan cherng fan shwu gan	0
 連城番薯幹	lyan cherng pan shwu gam	0
 連城番薯幹	lyan cherng pan shwu gan	0
 蓮動下漁舟	lyan domg xiah veur zhou	1
@@ -80677,8 +80689,8 @@ sort: by_weight
 李村村委會	lyi cuen cuen vuea huey	1
 李村村委會	lyi cuen cuen vuea kuay	0
 李大釗故居	lyi dah zhao guh ju	1
-裡當瑤族鄉	lyi damg vyao zur xiang	1
-裡當瑤族鄉	lyi dang vyao zur xiang	1
+裡當瑤族鄉	lyi damg vyao zur xiang	0
+裡當瑤族鄉	lyi dang vyao zur xiang	0
 李代數同構	lyi day shuh tomg gow	2
 李代數同構	lyi day shuh torng gow	2
 李代數同構	lyi day shuoh tomg gow	0
@@ -80686,16 +80698,16 @@ sort: by_weight
 李代數同構	lyi day shwu tomg gow	2
 李代數同構	lyi day shwu torng gow	2
 李大釗故居	lyi day zhao guh ju	0
-裡德二極管	lyi der vehl jir guaan	1
-裡德蒸氣壓	lyi der zheng qih via	1
-裡德蒸氣壓	lyi der zheng qih viah	1
+裡德二極管	lyi der vehl jir guaan	0
+裡德蒸氣壓	lyi der zheng qih via	0
+裡德蒸氣壓	lyi der zheng qih viah	0
 理髮師悖論	lyi faa shi bey luem	2
 理髮師悖論	lyi faa shi bey lwen	2
 禮法有明文	lyi faa vioa mirng vwen	1
 理髮師悖論	lyi fah shi bey luem	2
 理髮師悖論	lyi fah shi bey lwen	2
-裡弗塞斯城	lyi fur sai si cherng	1
-裡弗塞斯城	lyi fur say si cherng	1
+裡弗塞斯城	lyi fur sai si cherng	0
+裡弗塞斯城	lyi fur say si cherng	0
 裡弗塞斯城	lyi fur seh si cherng	0
 李各莊社區	lyi geh zhuang sheh qu	1
 李各莊社區	lyi geh zhuang sheh vou	0
@@ -80744,11 +80756,11 @@ sort: by_weight
 李徑獨來數	lyi jimg dur lair shuh	1
 李徑獨來數	lyi jimg dur lair shuoh	0
 李徑獨來數	lyi jimg dur lair shwu	1
-裡傑卡爾德	lyi jye kaa veel der	1
+裡傑卡爾德	lyi jye kaa veel der	0
 裡傑卡爾德	lyi jye qiaa veel der	0
 李錦記集團	lyi jyin jih jir twan	1
 理會是非遣	lyi kuay shih fei qiaan	0
-裡萊恩斯堡	lyi lair ven si bau	1
+裡萊恩斯堡	lyi lair ven si bau	0
 裡萊恩斯堡	lyi lair ven si bwu	0
 裡萊恩斯堡	lyi lair ven si puh	0
 李老公莊村	lyi lau gong zhuang cuen	1
@@ -80807,7 +80819,7 @@ sort: by_weight
 裡熱不得臥	lyi reh buh der vuoh	1
 里仁街社區	lyi rern jie sheh qu	1
 里仁街社區	lyi rern jie sheh vou	0
-裡山彝族鄉	lyi shan vir zur xiang	1
+裡山彝族鄉	lyi shan vir zur xiang	0
 李商隱選集	lyi shang vyin xuaan jir	1
 李氏斑粉蝶	lyi shih ban feen dye	1
 禮士路南口	lyi shih luh na koa	0
@@ -80844,10 +80856,10 @@ sort: by_weight
 李約瑟難題	lyi viao seh nam tir	0
 李約瑟難題	lyi viao seh narn tir	0
 李義山詩集	lyi vih shan shi jir	1
-裡瓦達維亞	lyi vuaa dar vwei viah	1
-裡瓦達維亞	lyi vuah dar vwei viah	1
+裡瓦達維亞	lyi vuaa dar vwei viah	0
+裡瓦達維亞	lyi vuah dar vwei viah	0
 裡外不是人	lyi vuay buh shih rern	1
-裡沃利會戰	lyi vuoh lih huey zham	1
+裡沃利會戰	lyi vuoh lih huey zham	0
 裡沃利會戰	lyi vuoh lih kuay zham	0
 李元霸別傳	lyi vyuan bah bieh chwan	0
 李元霸別傳	lyi vyuan bah bieh zhuam	1
@@ -81716,7 +81728,7 @@ sort: by_weight
 馬家居委會	maa jia ju vuea kuay	0
 馬家樓橋北	maa jia lour qyao bea	1
 馬家樓橋西	maa jia lour qyao xi	1
-馬嘉裡事件	maa jia lyi shih jiam	1
+馬嘉裡事件	maa jia lyi shih jiam	0
 馬家堡東口	maa jia puh dong koa	0
 馬家堡街道	maa jia puh jie daw	0
 馬家堡小區	maa jia puh xiau qu	0
@@ -81739,7 +81751,7 @@ sort: by_weight
 馬科倫農場	maa ke lwen norng chaang	1
 馬科倫農場	maa ke lwen norng charng	1
 瑪科裡石板	maa ke lyi dam baan	0
-瑪科裡石板	maa ke lyi shir baan	1
+瑪科裡石板	maa ke lyi shir baan	0
 瑪克布萊德	maa keh buh lair der	1
 馬克葛瑞格	maa keh gee ruey ger	1
 馬克格魯比	maa keh ger lwu byi	1
@@ -81842,14 +81854,14 @@ sort: by_weight
 馬連道社區	maa lyan daw sheh vou	0
 馬連道西里	maa lyan daw xi li	1
 馬連道西里	maa lyan daw xi lyi	1
-馬連道中裡	maa lyan daw zhomg lyi	1
-馬連道中裡	maa lyan daw zhong lyi	1
+馬連道中裡	maa lyan daw zhomg lyi	0
+馬連道中裡	maa lyan daw zhong lyi	0
 馬連窪街道	maa lyan vua jie daw	1
 馬連窪西站	maa lyan vua xi zham	1
 馬良石頭魚	maa lyang dam tour veur	0
 馬良石頭魚	maa lyang shir tour veur	1
-馬裡共和國	maa lyi gomg heh gwo	1
-馬裡共和國	maa lyi gomg her gwo	1
+馬裡共和國	maa lyi gomg heh gwo	0
+馬裡共和國	maa lyi gomg her gwo	0
 馬裡共和國	maa lyi gomg huo gwo	0
 馬裡共和國	maa lyi gomg huoh gwo	0
 馬裡共和國	maa lyi gomg hur gwo	0
@@ -81966,8 +81978,8 @@ sort: by_weight
 馬爾可夫鏈	maa veel keh fu liam	2
 馬爾可夫時	maa veel keh fu shir	1
 馬爾可夫性	maa veel keh fu ximg	1
-瑪爾裡之觸	maa veel lyi zhi chuh	1
-瑪爾裡之眼	maa veel lyi zhi viaan	1
+瑪爾裡之觸	maa veel lyi zhi chuh	0
+瑪爾裡之眼	maa veel lyi zhi viaan	0
 馬爾什醫生	maa veel shern vi sheng	1
 馬爾什醫生	maa veel shir vi sheng	0
 馬耳他里拉	maa veel ta li la	1
@@ -82344,7 +82356,7 @@ sort: by_weight
 毛利塔尼亞	maor lih taa nir viah	1
 毛連菜豆羹	maor lyan cay dow geng	1
 毛里求斯島	maor lyi qyou si dau	1
-毛裡坦猿人	maor lyi taan vyuan rern	1
+毛裡坦猿人	maor lyi taan vyuan rern	0
 毛毛蟲麵包	maor maor chorng miam bao	1
 毛毛的秘密	maor maor de bih mih	0
 毛毛的秘密	maor maor de mih mih	1
@@ -85339,8 +85351,8 @@ sort: by_weight
 名與身孰親	mirng vyu shen shur qin	1
 明溪肉脯幹	mirng xi row fwu gam	0
 明溪肉脯幹	mirng xi row fwu gan	0
-明溪肉脯幹	mirng xi row pur gam	1
-明溪肉脯幹	mirng xi row pur gan	1
+明溪肉脯幹	mirng xi row pur gam	0
+明溪肉脯幹	mirng xi row pur gan	0
 冥想九天外	mirng xiaang jioa tian vuay	1
 明星大總裁	mirng xing dah zoong cair	1
 明星大總裁	mirng xing day zoong cair	0
@@ -85477,7 +85489,7 @@ sort: by_weight
 萬點蜀山尖	moh diaan shwu shan jian	0
 萬點雪峰晴	moh diaan xuee feng qirng	0
 末帝李從珂	moh dih lyi corng ke	1
-莫蒂裡安尼	moh dih lyi van nir	1
+莫蒂裡安尼	moh dih lyi van nir	0
 沒地裏巡檢	moh dih lyi xyuen jiaan	0
 脈動紫水晶	moh domg zyi shuea jing	0
 末端種植體	moh duan chorng zhir ti	0
@@ -88633,7 +88645,7 @@ sort: by_weight
 納里尼奧省	nah li nir vaw sheeng	1
 納里尼奧省	nah li nir vaw xying	0
 納林陶亥鎮	nah lirn taor hay zhem	1
-納林希裡鎮	nah lirn xi lyi zhem	1
+納林希裡鎮	nah lirn xi lyi zhem	0
 納魯的賜福	nah lwu de cih fur	1
 納魯的試煉	nah lwu de shih liam	1
 納魯的賜福	nah lwu dih cih fur	0
@@ -88812,7 +88824,7 @@ sort: by_weight
 南北里社區	narn bea lyi sheh vou	0
 南北司之爭	narn bea si zhi zheng	1
 南北一山門	narn bea vi shan mern	1
-南北五千裡	narn bea vwu qian lyi	1
+南北五千裡	narn bea vwu qian lyi	0
 南北主幹道	narn bea zhwu gam daw	1
 南北主幹道	narn bea zhwu gan daw	1
 南賓舊屬楚	narn bin jiow shwu chwu	1
@@ -89453,8 +89465,8 @@ sort: by_weight
 南小街一村	narn xiau jie vi cuen	1
 南小街西里	narn xiau jie xi li	1
 南小街西里	narn xiau jie xi lyi	1
-南小街中裡	narn xiau jie zhomg lyi	1
-南小街中裡	narn xiau jie zhong lyi	1
+南小街中裡	narn xiau jie zhomg lyi	0
+南小街中裡	narn xiau jie zhong lyi	0
 南小區社區	narn xiau qu sheh qu	1
 南小區社區	narn xiau qu sheh vou	0
 南曉順衚衕	narn xiau shuem hur domg	0
@@ -89997,7 +90009,7 @@ sort: by_weight
 攆鴨子上架	niaan via zyi shaang jiah	1
 攆鴨子上架	niaan via zyi shamg jiah	1
 念此私自愧	niam cyi si zih kuey	1
-廿裡堡街道	niam lyi bau jie daw	1
+廿裡堡街道	niam lyi bau jie daw	0
 廿裡堡街道	niam lyi bwu jie daw	0
 廿裡堡街道	niam lyi puh jie daw	0
 念念不想忘	niam niam buh xiaang vuamg	1
@@ -90245,8 +90257,8 @@ sort: by_weight
 寧國水泥廠	nimg gwo shuea nir chaang	1
 寧海路街道	nimg hae luh jie daw	1
 寧海望海茶	nimg hae vuamg hae char	1
-寧化老鼠幹	nimg huah lau shwu gam	1
-寧化老鼠幹	nimg huah lau shwu gan	1
+寧化老鼠幹	nimg huah lau shwu gam	0
+寧化老鼠幹	nimg huah lau shwu gan	0
 寧華路街道	nimg huah luh jie daw	1
 寧華路街道	nimg hwa luh jie daw	1
 寧靜而致遠	nimg jimg verl zhih veuaan	1
@@ -90549,8 +90561,8 @@ sort: by_weight
 寧國水泥廠	nirng gwo shuea nir chaang	1
 寧海路街道	nirng hae luh jie daw	1
 寧海望海茶	nirng hae vuamg hae char	1
-寧化老鼠幹	nirng huah lau shwu gam	1
-寧化老鼠幹	nirng huah lau shwu gan	1
+寧化老鼠幹	nirng huah lau shwu gam	0
+寧化老鼠幹	nirng huah lau shwu gan	0
 寧華路街道	nirng huah luh jie daw	1
 寧華路街道	nirng hwa luh jie daw	1
 凝聚染色質	nirng jew raan seh zhih	1
@@ -91008,9 +91020,9 @@ sort: by_weight
 奴布拉鼠兔	nur buh lar shwu tuh	1
 奴隸制五刑	nur lih zhih vwu xirng	1
 奴隸主戰斧	nur lih zhwu zham fwu	1
-奴爾幹都司	nur veel gam dou si	1
+奴爾幹都司	nur veel gam dou si	0
 奴爾幹都司	nur veel gam du si	0
-奴爾幹都司	nur veel gan dou si	1
+奴爾幹都司	nur veel gan dou si	0
 奴爾幹都司	nur veel gan du si	0
 奴為出來難	nur vuey chu lair nam	1
 奴為出來難	nur vuey chu lair narn	1
@@ -91927,6 +91939,8 @@ sort: by_weight
 帕克提卡省	pah keh tir kaa xying	0
 帕克提卡省	pah keh tir qiaa sheeng	0
 帕克提卡省	pah keh tir qiaa xying	0
+帕拉馬裡博	pah la maa lyi bor	0
+帕拉馬裡博	pah lar maa lyi bor	0
 帕雷斯之眼	pah leir si zhi viaan	1
 帕隆藏布江	pah lorng carng buh jiang	1
 帕隆藏布江	pah lorng zamg buh jiang	0
@@ -94226,9 +94240,11 @@ sort: by_weight
 普里姆算法	pwu lyi mwu suam faa	1
 普里什蒂那	pwu lyi shern dih na	1
 普裏什蒂納	pwu lyi shern dih nah	0
+普裡什蒂納	pwu lyi shern dih nah	0
 普里什蒂那	pwu lyi shern dih nah	1
 普里什蒂那	pwu lyi shir dih na	0
 普裏什蒂納	pwu lyi shir dih nah	0
+普裡什蒂納	pwu lyi shir dih nah	0
 普里什蒂那	pwu lyi shir dih nah	0
 普里斯蒂納	pwu lyi si dih nah	0
 普里斯特萊	pwu lyi si teh lair	1
@@ -97413,7 +97429,7 @@ sort: by_weight
 清源路東口	qing vyuan luh dong koa	1
 清緣里社區	qing vyuan lyi sheh qu	1
 清緣里社區	qing vyuan lyi sheh vou	0
-清緣裡小區	qing vyuan lyi xiau qu	1
+清緣裡小區	qing vyuan lyi xiau qu	0
 清緣裡小區	qing vyuan lyi xiau vou	0
 青雲北社區	qing vyuen bea sheh qu	1
 青雲北社區	qing vyuen bea sheh vou	0
@@ -98449,11 +98465,11 @@ sort: by_weight
 犬牙潛魚屬	quaan vya qyan veur zhwu	0
 犬細小檢測	quaan xih xiau jiaan ceh	1
 犬形擬庸鰈	quaan xirng nyi viong dye	1
-勸君少幹名	quam juen shau gam mirng	1
-勸君少幹名	quam juen shau gan mirng	1
+勸君少幹名	quam juen shau gam mirng	0
+勸君少幹名	quam juen shau gan mirng	0
 勸君少求利	quam juen shau qyou lih	1
-勸君少幹名	quam juen shaw gam mirng	1
-勸君少幹名	quam juen shaw gan mirng	1
+勸君少幹名	quam juen shaw gam mirng	0
+勸君少幹名	quam juen shaw gan mirng	0
 勸君少求利	quam juen shaw qyou lih	1
 勸業場街道	quam vieh chaang jie daw	1
 勸業場街道	quam vieh charng jie daw	1
@@ -100850,8 +100866,8 @@ sort: by_weight
 熱反應係數	reh faan ving xih shuoh	0
 熱反應係數	reh faan ving xih shwu	1
 熱風焊接法	reh feng ham jie faa	1
-熱幹寬米粉	reh gam kuan myi feen	1
-熱幹寬米粉	reh gan kuan myi feen	1
+熱幹寬米粉	reh gam kuan myi feen	0
+熱幹寬米粉	reh gan kuan myi feen	0
 熱狗小麵包	reh goa xiau miam bao	1
 熱耗真陰症	reh haw zhen vin zhemg	1
 熱耗真陰症	reh haw zhen vin zheng	1
@@ -101458,7 +101474,7 @@ sort: by_weight
 人倫之至也	rern lwen zhi zhih viee	1
 人憐花似舊	rern lyan hua shih jiow	1
 人憐花似舊	rern lyan hua sih jiow	0
-仁裡水族鄉	rern lyi shuea zur xiang	1
+仁裡水族鄉	rern lyi shuea zur xiang	0
 人面黑腄蠁	rern miam hei chwai xiaang	0
 人面黑腄蠁	rern miam hei chwei xiaang	1
 人面黑腄蠁	rern miam hei hour xiaang	0
@@ -102939,8 +102955,8 @@ sort: by_weight
 如聽萬壑松	rur ting vuam heh song	1
 如圖所示者	rur tur suoo shih zhee	1
 如意定喘丸	rur vih dimg chuaan vwan	1
-如意回滷幹	rur vih hwei lwu gam	1
-如意回滷幹	rur vih hwei lwu gan	1
+如意回滷幹	rur vih hwei lwu gam	0
+如意回滷幹	rur vih hwei lwu gan	0
 如意金黃散	rur vih jin hwang saan	1
 如意金黃散	rur vih jin hwang sam	1
 如右所示者	rur viow suoo shih zhee	1
@@ -103484,7 +103500,7 @@ sort: by_weight
 塞爾維亞人	sai veel vwei viah rern	1
 塞爾維亞族	sai veel vwei viah zur	1
 塞恩斯伯裡	sai ven si bae lyi	0
-塞恩斯伯裡	sai ven si bor lyi	1
+塞恩斯伯裡	sai ven si bor lyi	0
 塞耶招潮蟹	sai vie zhao chaor xieh	1
 鰓曳動物門	sai vieh domg vuh mern	1
 塞萬提斯像	sai vuam di si xiamg	0
@@ -104564,7 +104580,7 @@ sort: by_weight
 塞盧斯斑馬	say lur si ban maa	1
 塞倫蓋蒂貓	say lwen gay dih mao	1
 塞倫蓋蒂貓	say lwen gee dih mao	0
-賽裡木街道	say lyi muh jie daw	1
+賽裡木街道	say lyi muh jie daw	0
 塞流反應器	say lyou faan vimg qih	1
 塞流反應器	say lyou faan ving qih	1
 塞萬提斯像	say moh di si xiamg	0
@@ -104612,7 +104628,7 @@ sort: by_weight
 塞爾維亞人	say veel vwei viah rern	1
 塞爾維亞族	say veel vwei viah zur	1
 塞恩斯伯裡	say ven si bae lyi	0
-塞恩斯伯裡	say ven si bor lyi	1
+塞恩斯伯裡	say ven si bor lyi	0
 塞耶招潮蟹	say vie zhao chaor xieh	1
 賽音巴雅爾	say vin ba viaa veel	1
 塞萬提斯像	say vuam di si xiamg	0
@@ -104935,7 +104951,7 @@ sort: by_weight
 沙發城上街	sha fah cherng shaang jie	1
 沙發城上街	sha fah cherng shamg jie	1
 沙夫茨伯裡	sha fu cir bae lyi	0
-沙夫茨伯裡	sha fu cir bor lyi	1
+沙夫茨伯裡	sha fu cir bor lyi	0
 杉苟的毛皮	sha goa de maor pir	0
 杉苟的毛皮	sha goa dih maor pir	0
 杉苟的毛皮	sha goa dir maor pir	0
@@ -105025,8 +105041,8 @@ sort: by_weight
 沙鱧錨首蟲	sha lyi maor shoa chorng	1
 沙里亞法規	sha lyi viah faa guei	1
 沙里亞法院	sha lyi viah faa veuam	1
-沙裡瑤族鄉	sha lyi vyao zur xiang	1
-沙裡寨黑豬	sha lyi zhay hei zhu	1
+沙裡瑤族鄉	sha lyi vyao zur xiang	0
+沙裡寨黑豬	sha lyi zhay hei zhu	0
 莎瑪海耶克	sha maa hae vie keh	0
 莎瑪海耶克	sha maa hae vye keh	0
 沙馬拉達鄉	sha maa la dar xiang	1
@@ -105803,7 +105819,7 @@ sort: by_weight
 沙發城上街	shah fah cherng shaang jie	1
 沙發城上街	shah fah cherng shamg jie	1
 沙夫茨伯裡	shah fu cir bae lyi	0
-沙夫茨伯裡	shah fu cir bor lyi	1
+沙夫茨伯裡	shah fu cir bor lyi	0
 沙鍋花蟹粥	shah guo hua xieh zhou	1
 沙鍋屯街道	shah guo twen jie daw	1
 沙行渡頭歇	shah harng duh tour xie	1
@@ -105878,8 +105894,8 @@ sort: by_weight
 沙鱧錨首蟲	shah lyi maor shoa chorng	1
 沙里亞法規	shah lyi viah faa guei	1
 沙里亞法院	shah lyi viah faa veuam	1
-沙裡瑤族鄉	shah lyi vyao zur xiang	1
-沙裡寨黑豬	shah lyi zhay hei zhu	1
+沙裡瑤族鄉	shah lyi vyao zur xiang	0
+沙裡寨黑豬	shah lyi zhay hei zhu	0
 沙馬拉達鄉	shah maa la dar xiang	1
 沙馬拉達鄉	shah maa lar dar xiang	1
 廈門白姑魚	shah mern bair gu veur	1
@@ -109976,8 +109992,8 @@ sort: by_weight
 什拉烏素河	shern lar vu suh her	1
 神龍德魯伊	shern lorng der lwu vi	1
 什魯斯伯裡	shern lwu si bae lyi	0
-什魯斯伯裡	shern lwu si bor lyi	1
-什裡夫波特	shern lyi fu bo teh	1
+什魯斯伯裡	shern lwu si bor lyi	0
+什裡夫波特	shern lyi fu bo teh	0
 神馬電視機	shern maa diam shih ji	1
 神門十三劍	shern mern shir san jiam	1
 神妙獨難忘	shern miaw dur nam vuamg	1
@@ -113478,8 +113494,8 @@ sort: by_weight
 雙柵欄衚衕	shuang zhah larn hur domg	0
 雙柵欄衚衕	shuang zhah larn hur tomg	1
 雙柵欄衚衕	shuang zhah larn hur torng	1
-雙照淚痕幹	shuang zhaw ley hern gam	1
-雙照淚痕幹	shuang zhaw ley hern gan	1
+雙照淚痕幹	shuang zhaw ley hern gam	0
+雙照淚痕幹	shuang zhaw ley hern gan	0
 雙正則函數	shuang zhemg zer harn shuh	2
 雙正則函數	shuang zhemg zer harn shuoh	0
 雙正則函數	shuang zhemg zer harn shwu	2
@@ -115465,8 +115481,8 @@ sort: by_weight
 矢量感應器	shyi liamg gaan ving qih	1
 矢量感應器	shyi lyang gaan vimg qih	1
 矢量感應器	shyi lyang gaan ving qih	1
-史裡芬計劃	shyi lyi fen jih huah	1
-史裡芬計劃	shyi lyi fen jih hwa	1
+史裡芬計劃	shyi lyi fen jih huah	0
+史裡芬計劃	shyi lyi fen jih hwa	0
 使每部電腦	shyi mea buh diam nau	1
 使每一個人	shyi mea vi gee rern	1
 使每一個人	shyi mea vi geh rern	1
@@ -115660,8 +115676,8 @@ sort: by_weight
 司科蒲奇派	si ke pur qir pay	1
 司可巴比妥	si kee ba byi tuoo	1
 司可巴比妥	si keh ba byi tuoo	1
-斯克裡夫納	si keh lyi fu nah	1
-斯克裡普斯	si keh lyi pwu si	1
+斯克裡夫納	si keh lyi fu nah	0
+斯克裡普斯	si keh lyi pwu si	0
 斯克姆護肩	si keh mwu huh jian	1
 斯克姆護腿	si keh mwu huh tuea	1
 斯克姆護腕	si keh mwu huh vuam	1
@@ -116539,8 +116555,8 @@ sort: by_weight
 送僧往金州	somg seng vuaang jin zhou	1
 宋神宗趙頊	somg shern zong zhaw xu	1
 宋氏三姐妹	somg shih san jiee mey	1
-宋氏糖幹爐	somg shih tarng gam lur	1
-宋氏糖幹爐	somg shih tarng gan lur	1
+宋氏糖幹爐	somg shih tarng gam lur	0
+宋氏糖幹爐	somg shih tarng gan lur	0
 宋順帝劉準	somg shuem dih lyou zhueen	1
 送司馬先生	somg si maa xian sheng	1
 送太昱禪師	somg tay vew charn shi	1
@@ -116747,15 +116763,15 @@ sort: by_weight
 松滋河東支	song zi her dong zhi	1
 松滋河西支	song zi her xi zhi	1
 松子河蝦仁	song zi her xia rern	1
-松子黃幹糕	song zi hwang gam gao	1
-松子黃幹糕	song zi hwang gan gao	1
+松子黃幹糕	song zi hwang gam gao	0
+松子黃幹糕	song zi hwang gan gao	0
 松子落階聲	song zi lah jie sheng	0
 松子落階聲	song zi law jie sheng	0
 松子落階聲	song zi luoh jie sheng	1
 松子炒雞米	song zyi chau ji myi	1
 松子河蝦仁	song zyi her xia rern	1
-松子黃幹糕	song zyi hwang gam gao	1
-松子黃幹糕	song zyi hwang gan gao	1
+松子黃幹糕	song zyi hwang gam gao	0
+松子黃幹糕	song zyi hwang gan gao	0
 松子落階聲	song zyi lah jie sheng	0
 松子落階聲	song zyi law jie sheng	0
 松子落階聲	song zyi luoh jie sheng	1
@@ -117491,10 +117507,10 @@ sort: by_weight
 速度最優的	suh dwo zuey viou de	0
 速度最優的	suh dwo zuey viou dih	0
 速度最優的	suh dwo zuey viou dir	0
-素髮幹垂領	suh faa gam chwei lying	1
-素髮幹垂領	suh faa gan chwei lying	1
-素髮幹垂領	suh fah gam chwei lying	1
-素髮幹垂領	suh fah gan chwei lying	1
+素髮幹垂領	suh faa gam chwei lying	0
+素髮幹垂領	suh faa gan chwei lying	0
+素髮幹垂領	suh fah gam chwei lying	0
+素髮幹垂領	suh fah gan chwei lying	0
 塑封機配件	suh feng ji pey jiam	1
 塑封晶體管	suh feng jing ti guaan	1
 塑封晶體管	suh feng jing tyi guaan	1
@@ -117757,7 +117773,7 @@ sort: by_weight
 索爾茲伯裡	suoo veel cir bae lyi	0
 索爾茲伯裡	suoo veel cir bor lyi	0
 索爾茲伯裡	suoo veel zi bae lyi	0
-索爾茲伯裡	suoo veel zi bor lyi	1
+索爾茲伯裡	suoo veel zi bor lyi	0
 索恩格瑞姆	suoo ven ger ruey mwu	1
 所有者描述	suoo vioa zhee myao shuh	1
 所問非所答	suoo vuem fei suoo da	1
@@ -118157,8 +118173,8 @@ sort: by_weight
 塔然高勒鄉	taa rarn gao lei xiang	0
 塔日彥渾迪	taa rih viam hwen dir	1
 塔山瑤族鄉	taa shan vyao zur xiang	1
-塔什庫爾幹	taa shern kuh veel gam	1
-塔什庫爾幹	taa shern kuh veel gan	1
+塔什庫爾幹	taa shern kuh veel gam	0
+塔什庫爾幹	taa shern kuh veel gan	0
 塔式起重機	taa shih qyi chorng ji	0
 塔式起重機	taa shih qyi zhomg ji	1
 塔勢如湧出	taa shih rur chong chu	0
@@ -118309,8 +118325,8 @@ sort: by_weight
 臺地升降梯	tai di sheng xyang ti	0
 臺地升降梯	tai dih sheng jiamg ti	1
 臺地升降梯	tai dih sheng xyang ti	0
-苔幹羊肉絲	tai gam vyang row si	1
-苔幹羊肉絲	tai gan vyang row si	1
+苔幹羊肉絲	tai gam vyang row si	0
+苔幹羊肉絲	tai gan vyang row si	0
 苔痕上階綠	tai hern shaang jie lew	1
 苔痕上階綠	tai hern shaang jie luh	0
 苔痕上階綠	tai hern shamg jie lew	1
@@ -118540,8 +118556,8 @@ sort: by_weight
 臺地升降梯	tair di sheng xyang ti	0
 臺地升降梯	tair dih sheng jiamg ti	1
 臺地升降梯	tair dih sheng xyang ti	0
-苔幹羊肉絲	tair gam vyang row si	1
-苔幹羊肉絲	tair gan vyang row si	1
+苔幹羊肉絲	tair gam vyang row si	0
+苔幹羊肉絲	tair gan vyang row si	0
 苔痕上階綠	tair hern shaang jie lew	1
 苔痕上階綠	tair hern shaang jie luh	0
 苔痕上階綠	tair hern shamg jie lew	1
@@ -119648,7 +119664,7 @@ sort: by_weight
 特林加岱拉	teh lirn jia day lar	1
 特洛伊戰爭	teh luoh vi zham zheng	1
 特羅布裡奇	teh lwo buh lyi ji	0
-特羅布裡奇	teh lwo buh lyi qir	1
+特羅布裡奇	teh lwo buh lyi qir	0
 特羅斯巴克	teh lwo si ba keh	1
 特魯頓規則	teh lwu duem guei zer	1
 特魯瓦條約	teh lwu vuaa tyao veue	1
@@ -119716,7 +119732,7 @@ sort: by_weight
 特威德三角	teh vuei der san jiau	1
 特威德三角	teh vuei der san jyue	0
 特威茲穆爾	teh vuei zi muh veel	1
-特吾裡克鎮	teh vur lyi keh zhem	1
+特吾裡克鎮	teh vur lyi keh zhem	0
 特效法術石	teh xiaw faa shuh dam	0
 特效法術石	teh xiaw faa shuh shir	1
 特效法術石	teh xiaw faa zhur dam	0
@@ -119812,7 +119828,9 @@ sort: by_weight
 騰衝大救駕	terng chong dah jiow jiah	1
 騰衝大救駕	terng chong day jiow jiah	0
 騰格裏沙漠	terng ger lyi sha moh	0
+騰格裡沙漠	terng ger lyi sha moh	0
 騰格裏沙漠	terng ger lyi shah moh	0
+騰格裡沙漠	terng ger lyi shah moh	0
 藤黃健骨丸	terng hwang jiam gu vwan	1
 藤黃健骨丸	terng hwang jiam gwu vwan	1
 藤野嚴九郎	terng viee vyan jioa lamg	1
@@ -120662,8 +120680,8 @@ sort: by_weight
 鐵道醫學院	tiee daw vi xyue veuam	1
 鐵道游擊隊	tiee daw vyou ji duey	1
 鐵東路街道	tiee dong luh jie daw	1
-鐵幹裡克鄉	tiee gam lyi keh xiang	1
-鐵幹裡克鄉	tiee gan lyi keh xiang	1
+鐵幹裡克鄉	tiee gam lyi keh xiang	0
+鐵幹裡克鄉	tiee gan lyi keh xiang	0
 鐵箍儲物箱	tiee gu chwu vuh xiang	1
 鐵官徙起義	tiee guan xyi qyi vih	1
 鐵環挖掘場	tiee hwan vua jyue chaang	1
@@ -120736,8 +120754,8 @@ sort: by_weight
 鐵爐堡銀行	tiee lur puh virn xirng	0
 鐵爐堡胸甲	tiee lur puh xiong jiaa	0
 鐵面急先鋒	tiee miam jir xian feng	1
-鐵木裡克河	tiee muh lyi keh her	1
-鐵木裡克鄉	tiee muh lyi keh xiang	1
+鐵木裡克河	tiee muh lyi keh her	0
+鐵木裡克鄉	tiee muh lyi keh xiang	0
 帖木兒不花	tiee muh vel buh hua	1
 帖木兒不花	tiee muh verl buh hua	1
 鐵琴銅劍樓	tiee qirn torng jiam lour	1
@@ -121091,18 +121109,18 @@ sort: by_weight
 痛經口服液	tomg jing koa fuh vieh	1
 痛經口服液	tomg jing koa fur vieh	1
 通經妙靈丸	tomg jing miaw lirng vwan	1
-同居長干里	tomg ju charng gam li	0
-同居長干里	tomg ju charng gam lyi	0
-同居長干里	tomg ju charng gan li	0
-同居長干里	tomg ju charng gan lyi	0
+同居長干里	tomg ju charng gam li	1
+同居長干里	tomg ju charng gam lyi	1
+同居長干里	tomg ju charng gan li	1
+同居長干里	tomg ju charng gan lyi	1
 同居長干里	tomg ju charng vam li	0
 同居長干里	tomg ju charng vam lyi	0
 同居大明星	tomg ju dah mirng xing	1
 同居大明星	tomg ju day mirng xing	0
-同居長干里	tomg ju zhaang gam li	1
-同居長干里	tomg ju zhaang gam lyi	1
-同居長干里	tomg ju zhaang gan li	1
-同居長干里	tomg ju zhaang gan lyi	1
+同居長干里	tomg ju zhaang gam li	0
+同居長干里	tomg ju zhaang gam lyi	0
+同居長干里	tomg ju zhaang gan li	0
+同居長干里	tomg ju zhaang gan lyi	0
 同居長干里	tomg ju zhaang vam li	0
 同居長干里	tomg ju zhaang vam lyi	0
 通濟隆公司	tomg jyi lorng gong si	1
@@ -121219,8 +121237,8 @@ sort: by_weight
 同嗜性粘著	tomg shih ximg zhan zhe	1
 同嗜性粘著	tomg shih ximg zhan zhuh	0
 同嗜性粘著	tomg shih ximg zhan zhwo	0
-同是長幹人	tomg shih zhaang gam rern	1
-同是長幹人	tomg shih zhaang gan rern	1
+同是長幹人	tomg shih zhaang gam rern	0
+同是長幹人	tomg shih zhaang gan rern	0
 同時對角化	tomg shir duey jiau huah	2
 同時對角化	tomg shir duey jyue huah	0
 同時行迭代	tomg shir harng dye day	0
@@ -121712,18 +121730,18 @@ sort: by_weight
 同解不等式	torng jiee buh deeng shih	1
 同解不等式	torng jieh buh deeng shih	1
 同系移植物	torng jih vir zhir vuh	0
-同居長干里	torng ju charng gam li	0
-同居長干里	torng ju charng gam lyi	0
-同居長干里	torng ju charng gan li	0
-同居長干里	torng ju charng gan lyi	0
+同居長干里	torng ju charng gam li	1
+同居長干里	torng ju charng gam lyi	1
+同居長干里	torng ju charng gan li	1
+同居長干里	torng ju charng gan lyi	1
 同居長干里	torng ju charng vam li	0
 同居長干里	torng ju charng vam lyi	0
 同居大明星	torng ju dah mirng xing	1
 同居大明星	torng ju day mirng xing	0
-同居長干里	torng ju zhaang gam li	1
-同居長干里	torng ju zhaang gam lyi	1
-同居長干里	torng ju zhaang gan li	1
-同居長干里	torng ju zhaang gan lyi	1
+同居長干里	torng ju zhaang gam li	0
+同居長干里	torng ju zhaang gam lyi	0
+同居長干里	torng ju zhaang gan li	0
+同居長干里	torng ju zhaang gan lyi	0
 同居長干里	torng ju zhaang vam li	0
 同居長干里	torng ju zhaang vam lyi	0
 銅井巷素面	torng jying hamg suh miam	0
@@ -121814,8 +121832,8 @@ sort: by_weight
 同嗜性粘著	torng shih ximg zhan zhe	1
 同嗜性粘著	torng shih ximg zhan zhuh	0
 同嗜性粘著	torng shih ximg zhan zhwo	0
-同是長幹人	torng shih zhaang gam rern	1
-同是長幹人	torng shih zhaang gan rern	1
+同是長幹人	torng shih zhaang gam rern	0
+同是長幹人	torng shih zhaang gan rern	0
 同時對角化	torng shir duey jiau huah	2
 同時對角化	torng shir duey jyue huah	0
 同時行迭代	torng shir harng dye day	0
@@ -122259,10 +122277,10 @@ sort: by_weight
 推遲基本解	tuei chir ji been xieh	0
 推杆練習器	tuei gaan liam xir qih	1
 推杆練習器	tuei gan liam xir qih	1
-推廣幹葛湯	tuei guaang gam gee tang	1
-推廣幹葛湯	tuei guaang gam ger tang	1
-推廣幹葛湯	tuei guaang gan gee tang	1
-推廣幹葛湯	tuei guaang gan ger tang	1
+推廣幹葛湯	tuei guaang gam gee tang	0
+推廣幹葛湯	tuei guaang gam ger tang	0
+推廣幹葛湯	tuei guaang gan gee tang	0
+推廣幹葛湯	tuei guaang gan ger tang	0
 推力球軸承	tuei lih qyou zhour cherng	1
 推力球軸承	tuei lih qyou zhow cherng	1
 推拿功法學	tuei nar gong faa xyue	1
@@ -122876,9 +122894,9 @@ sort: by_weight
 土地儲備證	twu di chwu bey zhemg	1
 土地定著物	twu di dimg zhao vuh	0
 土地定著物	twu di dimg zhaor vuh	0
-土地定著物	twu di dimg zhe vuh	1
+土地定著物	twu di dimg zhe vuh	0
 土地定著物	twu di dimg zhuh vuh	0
-土地定著物	twu di dimg zhwo vuh	0
+土地定著物	twu di dimg zhwo vuh	1
 土地抵押權	twu di dyi via qyuan	1
 土地發展權	twu di fa zhaan qyuan	1
 土地發展權	twu di fah zhaan qyuan	1
@@ -122908,9 +122926,9 @@ sort: by_weight
 土地儲備證	twu dih chwu bey zhemg	1
 土地定著物	twu dih dimg zhao vuh	0
 土地定著物	twu dih dimg zhaor vuh	0
-土地定著物	twu dih dimg zhe vuh	1
+土地定著物	twu dih dimg zhe vuh	0
 土地定著物	twu dih dimg zhuh vuh	0
-土地定著物	twu dih dimg zhwo vuh	0
+土地定著物	twu dih dimg zhwo vuh	1
 土地抵押權	twu dih dyi via qyuan	1
 土地發展權	twu dih fa zhaan qyuan	1
 土地發展權	twu dih fah zhaan qyuan	1
@@ -123840,7 +123858,7 @@ sort: by_weight
 巫妖皇之路	u viao hwang zhi luh	1
 巫妖王之怒	u viao vwang zhi nuh	1
 嗚咽淚沾巾	u vieh ley zhan jin	1
-烏延胡裡改	u vyan hur lyi gae	1
+烏延胡裡改	u vyan hur lyi gae	0
 烏巖嶺林場	u vyan lying lirn chaang	1
 烏巖嶺林場	u vyan lying lirn charng	1
 烏雲其木格	u vyuen qir muh ger	1
@@ -126265,8 +126283,8 @@ sort: by_weight
 萵苣香乾丁	uo qyu xiang gan ding	0
 萵苣香乾丁	uo qyu xiang qyan ding	0
 窩依莫克鄉	uo vi moh keh xiang	1
-渦陽幹扣面	uo vyang gam kow miam	1
-渦陽幹扣面	uo vyang gan kow miam	1
+渦陽幹扣面	uo vyang gam kow miam	0
+渦陽幹扣面	uo vyang gan kow miam	0
 沃丹提斯河	uoh dan di si her	0
 沃丹提斯河	uoh dan tir si her	1
 沃達豐公司	uoh dar feng gong si	1
@@ -126303,7 +126321,7 @@ sort: by_weight
 沃羅比約夫	uoh lwo byi veue fu	1
 沃羅比約夫	uoh lwo byi viao fu	0
 沃羅夫斯基	uoh lwo fu si ji	1
-臥裡屯街道	uoh lyi twen jie daw	1
+臥裡屯街道	uoh lyi twen jie daw	0
 沃納爾大師	uoh nah veel dah shi	1
 沃納爾大師	uoh nah veel day shi	0
 臥牛山街道	uoh nyou shan jie daw	1
@@ -127555,6 +127573,7 @@ sort: by_weight
 阿古斯之刃	va gwu si zhi rem	1
 阿古斯之手	va gwu si zhi shoa	1
 阿赫蒂薩裏	va heh dih sah lyi	0
+阿赫蒂薩裡	va heh dih sah lyi	0
 阿赫馬多夫	va heh maa duo fu	1
 阿赫瑪託娃	va heh maa tuo vwa	1
 阿黑皮素原	va hei pir suh vyuan	1
@@ -127824,7 +127843,7 @@ sort: by_weight
 阿芒蔭眼蝶	va marng vim viaan dye	1
 阿芒蔭眼蝶	va marng vin viaan dye	1
 阿默島鷹鴞	va moh dau ving xiao	1
-阿默裡寶螺	va moh lyi bau lwo	1
+阿默裡寶螺	va moh lyi bau lwo	0
 阿莫西林鈉	va moh xi lirn nah	1
 阿莫西林片	va moh xi lirn piam	1
 阿莫西林片	va moh xi lirn pian	1
@@ -127911,7 +127930,7 @@ sort: by_weight
 阿斯特利安	va si teh lih van	1
 阿斯特麗德	va si teh lir der	1
 阿斯圖迪略	va si tur dir leueh	0
-阿斯圖裡亞	va si tur lyi viah	1
+阿斯圖裡亞	va si tur lyi viah	0
 阿塔拉利恩	va taa la lih ven	1
 阿塔萊長靴	va taa lair charng xue	1
 阿塔萊石板	va taa lair dam baan	0
@@ -128128,13 +128147,13 @@ sort: by_weight
 埃塞克斯郡	vai say keh si juem	1
 埃塞克斯郡	vai seh keh si juem	0
 埃瑟利蘇爾	vai seh lih su veel	1
-埃瑟裡克斯	vai seh lyi keh si	1
+埃瑟裡克斯	vai seh lyi keh si	0
 埃氏磨塘鱧	vai shih moh tarng lyi	1
 埃氏磨塘鱧	vai shih mor tarng lyi	1
 埃斯科瓦爾	vai si ke vuaa veel	1
 埃斯科瓦爾	vai si ke vuah veel	1
-埃斯克裡瓦	vai si keh lyi vuaa	1
-埃斯克裡瓦	vai si keh lyi vuah	1
+埃斯克裡瓦	vai si keh lyi vuaa	0
+埃斯克裡瓦	vai si keh lyi vuah	0
 埃斯蘭夏爾	vai si larn xiah veel	1
 埃斯佩蘭薩	vai si pey larn sah	1
 埃斯特拉達	vai si teh la dar	1
@@ -128582,7 +128601,7 @@ sort: by_weight
 安寧里社區	van nimg li sheh qu	1
 安寧里社區	van nimg li sheh vou	0
 安寧裡南站	van nimg lyi na zham	0
-安寧裡南站	van nimg lyi narn zham	1
+安寧裡南站	van nimg lyi narn zham	0
 安寧里社區	van nimg lyi sheh qu	1
 安寧里社區	van nimg lyi sheh vou	0
 安寧堡街道	van nimg puh jie daw	0
@@ -128597,7 +128616,7 @@ sort: by_weight
 安寧里社區	van nirng li sheh qu	1
 安寧里社區	van nirng li sheh vou	0
 安寧裡南站	van nirng lyi na zham	0
-安寧裡南站	van nirng lyi narn zham	1
+安寧裡南站	van nirng lyi narn zham	0
 安寧里社區	van nirng lyi sheh qu	1
 安寧里社區	van nirng lyi sheh vou	0
 安寧堡街道	van nirng puh jie daw	0
@@ -128731,7 +128750,7 @@ sort: by_weight
 安兒寧顆粒	van verl nirng ke lih	1
 安遠華溪蟹	van veuaan huah xi xieh	1
 安遠華溪蟹	van veuaan hwa xi xieh	1
-安苑裡社區	van veuam lyi sheh qu	1
+安苑裡社區	van veuam lyi sheh qu	0
 安苑裡社區	van veuam lyi sheh vou	0
 安樂林社區	van veueh lirn sheh qu	0
 安樂林社區	van veueh lirn sheh vou	0
@@ -128999,7 +129018,7 @@ sort: by_weight
 奧格爾索普	vaw ger veel suoo pwu	1
 奧古斯塔斯	vaw gwu si taa si	1
 奧古斯圖斯	vaw gwu si tur si	1
-奧赫裡德湖	vaw heh lyi der hur	1
+奧赫裡德湖	vaw heh lyi der hur	0
 奧霍獅子魚	vaw huoh shi zi veur	1
 奧霍獅子魚	vaw huoh shi zyi veur	1
 奧加茲大門	vaw jia cir dah mern	0
@@ -129070,7 +129089,7 @@ sort: by_weight
 奧羅的外皮	vaw lwo de vuay pir	1
 奧羅的外皮	vaw lwo dih vuay pir	0
 奧羅的外皮	vaw lwo dir vuay pir	0
-奧裡諾科河	vaw lyi nuoh ke her	1
+奧裡諾科河	vaw lyi nuoh ke her	0
 奧美拉唑鎂	vaw mea la zuoh mea	1
 奧美拉唑鈉	vaw mea la zuoh nah	1
 奧美拉唑鎂	vaw mea lar zuoh mea	1
@@ -129176,7 +129195,7 @@ sort: by_weight
 奧屯醜和尚	vaw twen choa hwo shamg	0
 奧埃齒螯蛛	vaw vai chyi vaor zhu	1
 奧爾德伯裡	vaw veel der bae lyi	0
-奧爾德伯裡	vaw veel der bor lyi	1
+奧爾德伯裡	vaw veel der bor lyi	0
 奧爾德里奇	vaw veel der li ji	0
 奧爾德里奇	vaw veel der li qir	1
 奧爾德里奇	vaw veel der lyi ji	0
@@ -129501,7 +129520,7 @@ sort: by_weight
 愛爾蘭政府	vay veel larn zhemg fwu	1
 艾爾木東鄉	vay veel muh dong xiang	1
 愛爾斯伯裡	vay veel si bae lyi	0
-愛爾斯伯裡	vay veel si bor lyi	1
+愛爾斯伯裡	vay veel si bor lyi	0
 艾爾文森林	vay veel vwen sen lirn	1
 愛月夜眠遲	vay veueh vieh myan chir	1
 愛野美奈子	vay viee mea nay zi	1
@@ -129682,6 +129701,7 @@ sort: by_weight
 阿古斯之刃	ve gwu si zhi rem	0
 阿古斯之手	ve gwu si zhi shoa	0
 阿赫蒂薩裏	ve heh dih sah lyi	0
+阿赫蒂薩裡	ve heh dih sah lyi	0
 阿赫馬多夫	ve heh maa duo fu	0
 阿赫瑪託娃	ve heh maa tuo vwa	0
 阿黑皮素原	ve hei pir suh vyuan	0
@@ -131223,7 +131243,7 @@ sort: by_weight
 恩濟里社區	ven jih li sheh vou	0
 恩濟里社區	ven jih lyi sheh qu	1
 恩濟里社區	ven jih lyi sheh vou	0
-恩濟裡小區	ven jih lyi xiau qu	1
+恩濟裡小區	ven jih lyi xiau qu	0
 恩濟裡小區	ven jih lyi xiau vou	0
 恩濟莊社區	ven jih zhuang sheh qu	1
 恩濟莊社區	ven jih zhuang sheh vou	0
@@ -131231,7 +131251,7 @@ sort: by_weight
 恩濟里社區	ven jyi li sheh vou	0
 恩濟里社區	ven jyi lyi sheh qu	1
 恩濟里社區	ven jyi lyi sheh vou	0
-恩濟裡小區	ven jyi lyi xiau qu	1
+恩濟裡小區	ven jyi lyi xiau qu	0
 恩濟裡小區	ven jyi lyi xiau vou	0
 恩濟莊社區	ven jyi zhuang sheh qu	1
 恩濟莊社區	ven jyi zhuang sheh vou	0
@@ -133468,7 +133488,7 @@ sort: by_weight
 依蘭城戰鬥	vi larn cherng zham dow	1
 伊蘭尼庫斯	vi larn nir kuh si	1
 伊蘭特悅動	vi larn teh veueh domg	1
-伊勒呼裡山	vi leh hu lyi shan	1
+伊勒呼裡山	vi leh hu lyi shan	0
 伊勒呼裡山	vi lei hu lyi shan	0
 一雷驚蟄始	vi leir jing zher shyi	1
 伊里尼達港	vi li nir dar gaang	1
@@ -133530,7 +133550,7 @@ sort: by_weight
 醫療事故賠	vi lyao shih guh peir	1
 醫療物資箱	vi lyao vuh zi xiang	1
 伊里尼達港	vi lyi nir dar gaang	1
-伊裡安查亞	vi lyi van char viah	1
+伊裡安查亞	vi lyi van char viah	0
 伊裡安查亞	vi lyi van zha viah	0
 一馬路街道	vi maa luh jie daw	1
 一馬二僕伕	vi maa vehl pu fu	1
@@ -134419,7 +134439,7 @@ sort: by_weight
 雅拉達澤山	viaa lar dar zer shan	1
 雅羅斯拉夫	viaa lwo si la fu	1
 雅羅斯拉夫	viaa lwo si lar fu	1
-雅瑪裡克山	viaa maa lyi keh shan	1
+雅瑪裡克山	viaa maa lyi keh shan	0
 啞情一線牽	viaa qirng vi xiam qian	1
 雅僧佛公子	viaa seng for gong zi	1
 雅僧佛公子	viaa seng for gong zyi	1
@@ -135502,8 +135522,8 @@ sort: by_weight
 椰漿面煎糕	vie jiang miam jian gao	1
 耶律楚材墓	vie lew chwu cair muh	1
 耶律涅魯古	vie lew nieh lwu gwu	1
-耶律僕裡篤	vie lew pu lyi dwu	1
-耶律僕裡篤	vie lew pur lyi dwu	1
+耶律僕裡篤	vie lew pu lyi dwu	0
+耶律僕裡篤	vie lew pur lyi dwu	0
 耶律普速完	vie lew pwu suh vwan	1
 耶律撻不也	vie lew tah buh viee	1
 耶律阿保機	vie lew va bau ji	1
@@ -139679,7 +139699,7 @@ sort: by_weight
 巫妖皇之路	vu viao hwang zhi luh	1
 巫妖王之怒	vu viao vwang zhi nuh	1
 嗚咽淚沾巾	vu vieh ley zhan jin	1
-烏延胡裡改	vu vyan hur lyi gae	1
+烏延胡裡改	vu vyan hur lyi gae	0
 烏巖嶺林場	vu vyan lying lirn chaang	1
 烏巖嶺林場	vu vyan lying lirn charng	1
 烏雲其木格	vu vyuen qir muh ger	1
@@ -142104,8 +142124,8 @@ sort: by_weight
 萵苣香乾丁	vuo qyu xiang gan ding	0
 萵苣香乾丁	vuo qyu xiang qyan ding	0
 窩依莫克鄉	vuo vi moh keh xiang	1
-渦陽幹扣面	vuo vyang gam kow miam	1
-渦陽幹扣面	vuo vyang gan kow miam	1
+渦陽幹扣面	vuo vyang gam kow miam	0
+渦陽幹扣面	vuo vyang gan kow miam	0
 沃丹提斯河	vuoh dan di si her	0
 沃丹提斯河	vuoh dan tir si her	1
 沃達豐公司	vuoh dar feng gong si	1
@@ -142142,7 +142162,7 @@ sort: by_weight
 沃羅比約夫	vuoh lwo byi veue fu	1
 沃羅比約夫	vuoh lwo byi viao fu	0
 沃羅夫斯基	vuoh lwo fu si ji	1
-臥裡屯街道	vuoh lyi twen jie daw	1
+臥裡屯街道	vuoh lyi twen jie daw	0
 沃納爾大師	vuoh nah veel dah shi	1
 沃納爾大師	vuoh nah veel day shi	0
 臥牛山街道	vuoh nyou shan jie daw	1
@@ -143826,8 +143846,8 @@ sort: by_weight
 惟梁孝王都	vwei lyang xiaw vwang dou	1
 惟梁孝王都	vwei lyang xiaw vwang du	0
 維裡副隊長	vwei lyi fuh duey charng	0
-維裡副隊長	vwei lyi fuh duey zhaang	1
-維裡甘之拳	vwei lyi gan zhi qyuan	1
+維裡副隊長	vwei lyi fuh duey zhaang	0
+維裡甘之拳	vwei lyi gan zhi qyuan	0
 唯理論觀點	vwei lyi luem guam diaan	1
 唯理論觀點	vwei lyi luem guan diaan	1
 唯理論觀點	vwei lyi lwen guam diaan	1
@@ -144650,8 +144670,8 @@ sort: by_weight
 五年期以上	vwu nyan qi vyi shaang	1
 五年期以上	vwu nyan qi vyi shamg	1
 五女山山城	vwu nyu shan shan cherng	1
-武平豬膽幹	vwu pirng zhu daan gam	1
-武平豬膽幹	vwu pirng zhu daan gan	1
+武平豬膽幹	vwu pirng zhu daan gam	0
+武平豬膽幹	vwu pirng zhu daan gan	0
 武器鍛造師	vwu qih duam zaw shi	1
 武器平衡錘	vwu qih pirng herng chwei	1
 武器羊皮紙	vwu qih vyang pir zhyi	1
@@ -145787,8 +145807,8 @@ sort: by_weight
 耶誕樹珊瑚	vye dam shuh shan hur	1
 耶律楚材墓	vye lew chwu cair muh	1
 耶律涅魯古	vye lew nieh lwu gwu	1
-耶律僕裡篤	vye lew pu lyi dwu	1
-耶律僕裡篤	vye lew pur lyi dwu	1
+耶律僕裡篤	vye lew pu lyi dwu	0
+耶律僕裡篤	vye lew pur lyi dwu	0
 耶律普速完	vye lew pwu suh vwan	1
 耶律撻不也	vye lew tah buh viee	1
 耶律阿保機	vye lew va bau ji	1
@@ -146330,6 +146350,10 @@ sort: by_weight
 油坊村委會	vyou farng cuen vuea kuay	0
 尤佛陀頭像	vyou for two tour xiamg	1
 尤佛陀頭像	vyou fur two tour xiamg	0
+油幹燈草盡	vyou gam deng cau jim	0
+油幹燈草盡	vyou gam deng cau jyin	0
+油幹燈草盡	vyou gan deng cau jim	0
+油幹燈草盡	vyou gan deng cau jyin	0
 油管打撈矛	vyou guaan daa lao maor	1
 油管打撈矛	vyou guaan dar lao maor	1
 油管堵塞器	vyou guaan dwu sai qih	0
@@ -148207,8 +148231,8 @@ sort: by_weight
 惟梁孝王都	wei lyang xiaw vwang dou	1
 惟梁孝王都	wei lyang xiaw vwang du	0
 維裡副隊長	wei lyi fuh duey charng	0
-維裡副隊長	wei lyi fuh duey zhaang	1
-維裡甘之拳	wei lyi gan zhi qyuan	1
+維裡副隊長	wei lyi fuh duey zhaang	0
+維裡甘之拳	wei lyi gan zhi qyuan	0
 唯理論觀點	wei lyi luem guam diaan	1
 唯理論觀點	wei lyi luem guan diaan	1
 唯理論觀點	wei lyi lwen guam diaan	1
@@ -149031,8 +149055,8 @@ sort: by_weight
 五年期以上	wu nyan qi vyi shaang	1
 五年期以上	wu nyan qi vyi shamg	1
 五女山山城	wu nyu shan shan cherng	1
-武平豬膽幹	wu pirng zhu daan gam	1
-武平豬膽幹	wu pirng zhu daan gan	1
+武平豬膽幹	wu pirng zhu daan gam	0
+武平豬膽幹	wu pirng zhu daan gan	0
 武器鍛造師	wu qih duam zaw shi	1
 武器平衡錘	wu qih pirng herng chwei	1
 武器羊皮紙	wu qih vyang pir zhyi	1
@@ -149468,7 +149492,7 @@ sort: by_weight
 西格的風沙	xi ger dih feng shah	0
 西格的風沙	xi ger dir feng sha	0
 西格的風沙	xi ger dir feng shah	0
-西格弗裡德	xi ger fur lyi der	1
+西格弗裡德	xi ger fur lyi der	0
 西格爾定理	xi ger veel dimg lyi	1
 西溝滿族鄉	xi gou maan zur xiang	1
 西瓜白寶石	xi gua bair bau dam	0
@@ -149597,8 +149621,8 @@ sort: by_weight
 西華縣農場	xi hwa xiam norng chaang	1
 西華縣農場	xi hwa xiam norng charng	1
 西槐裡衚衕	xi hwai lyi hur domg	0
-西槐裡衚衕	xi hwai lyi hur tomg	1
-西槐裡衚衕	xi hwai lyi hur torng	1
+西槐裡衚衕	xi hwai lyi hur tomg	0
+西槐裡衚衕	xi hwai lyi hur torng	0
 西環里社區	xi hwan li sheh qu	1
 西環里社區	xi hwan li sheh vou	0
 西環路街道	xi hwan luh jie daw	1
@@ -149797,7 +149821,7 @@ sort: by_weight
 西麻各莊村	xi mar geh zhuang cuen	1
 西梅釀羊排	xi meir niamg vyang pae	1
 西梅釀羊排	xi meir niamg vyang pair	1
-西門裡街道	xi mern lyi jie daw	1
+西門裡街道	xi mern lyi jie daw	0
 西門停車場	xi mern tirng che chaang	1
 西門停車場	xi mern tirng che charng	1
 西門停車場	xi mern tirng ju chaang	0
@@ -150820,8 +150844,8 @@ sort: by_weight
 夏木垂陰圖	xiah muh chwei vin tur	1
 下憫萬民瘡	xiah myin moh mirn chuang	0
 下憫萬民瘡	xiah myin vuam mirn chuang	1
-下廿裡鋪鄉	xiah niam lyi pu xiang	1
-下廿裡鋪鄉	xiah niam lyi puh xiang	1
+下廿裡鋪鄉	xiah niam lyi pu xiang	0
+下廿裡鋪鄉	xiah niam lyi puh xiang	0
 夏普吐勒鄉	xiah pwu tuh leh xiang	1
 夏普吐勒鄉	xiah pwu tuh lei xiang	0
 夏普吐勒鄉	xiah pwu twu leh xiang	1
@@ -152602,7 +152626,7 @@ sort: by_weight
 香榭里大道	xiang xieh li day daw	0
 香榭里大道	xiang xieh lyi dah daw	0
 香榭里大道	xiang xieh lyi day daw	0
-香榭裡花園	xiang xieh lyi hua vyuan	1
+香榭裡花園	xiang xieh lyi hua vyuan	0
 鄉心新歲切	xiang xin xin suey qie	1
 鄉心新歲切	xiang xin xin suey qieh	1
 相攜及田家	xiang xye jir tyan jia	1
@@ -153039,8 +153063,8 @@ sort: by_weight
 曉耕翻露草	xiau geng fan low cau	0
 曉耕翻露草	xiau geng fan luh cau	1
 小工商業者	xiau gong shang vieh zhee	1
-小孤山中裡	xiau gu shan zhomg lyi	1
-小孤山中裡	xiau gu shan zhong lyi	1
+小孤山中裡	xiau gu shan zhomg lyi	0
+小孤山中裡	xiau gu shan zhong lyi	0
 小管槍烏賊	xiau guaan qiang vu zeir	1
 曉關侗族鄉	xiau guan domg zur xiang	1
 小鬼跑錯邊	xiau guea paor cuoh bian	1
@@ -155259,7 +155283,7 @@ sort: by_weight
 鑫福里社區	xin fur li sheh vou	0
 鑫福里社區	xin fur lyi sheh qu	1
 鑫福里社區	xin fur lyi sheh vou	0
-鑫福裡小區	xin fur lyi xiau qu	1
+鑫福裡小區	xin fur lyi xiau qu	0
 鑫福裡小區	xin fur lyi xiau vou	0
 新斧形蟲屬	xin fwu xirng chorng shwu	1
 新斧形蟲屬	xin fwu xirng chorng zhwu	0
@@ -159715,8 +159739,8 @@ sort: by_weight
 耶誕樹珊瑚	ye dam shuh shan hur	1
 耶律楚材墓	ye lew chwu cair muh	1
 耶律涅魯古	ye lew nieh lwu gwu	1
-耶律僕裡篤	ye lew pu lyi dwu	1
-耶律僕裡篤	ye lew pur lyi dwu	1
+耶律僕裡篤	ye lew pu lyi dwu	0
+耶律僕裡篤	ye lew pur lyi dwu	0
 耶律普速完	ye lew pwu suh vwan	1
 耶律撻不也	ye lew tah buh viee	1
 耶律阿保機	ye lew va bau ji	1
@@ -160258,6 +160282,10 @@ sort: by_weight
 油坊村委會	you farng cuen vuea kuay	0
 尤佛陀頭像	you for two tour xiamg	1
 尤佛陀頭像	you fur two tour xiamg	0
+油幹燈草盡	you gam deng cau jim	0
+油幹燈草盡	you gam deng cau jyin	0
+油幹燈草盡	you gan deng cau jim	0
+油幹燈草盡	you gan deng cau jyin	0
 油管打撈矛	you guaan daa lao maor	1
 油管打撈矛	you guaan dar lao maor	1
 油管堵塞器	you guaan dwu sai qih	0
@@ -162361,10 +162389,10 @@ sort: by_weight
 長髮夜宴圖	zhaang fah vieh viam tur	1
 長方形書型	zhaang fang xirng shu xirng	0
 長風幾萬裡	zhaang feng ji moh lyi	0
-長風幾萬裡	zhaang feng ji vuam lyi	1
+長風幾萬裡	zhaang feng ji vuam lyi	0
 長風街東口	zhaang feng jie dong koa	1
 長風幾萬裡	zhaang feng jyi moh lyi	0
-長風幾萬裡	zhaang feng jyi vuam lyi	1
+長風幾萬裡	zhaang feng jyi vuam lyi	0
 長風停車場	zhaang feng tirng che chaang	1
 長風停車場	zhaang feng tirng che charng	1
 長風停車場	zhaang feng tirng ju chaang	0
@@ -162379,15 +162407,15 @@ sort: by_weight
 長豐園一區	zhaang feng vyuan vi vou	0
 長輻旋輪線	zhaang fur xuam lwen xiam	0
 長輻旋輪線	zhaang fur xyuan lwen xiam	0
-長幹行二首	zhaang gam harng vehl shoa	1
+長幹行二首	zhaang gam harng vehl shoa	0
 長幹行二首	zhaang gam herng vehl shoa	0
-長干曲四首	zhaang gam qu sih shoa	1
-長干曲四首	zhaang gam qyu sih shoa	1
+長干曲四首	zhaang gam qu sih shoa	0
+長干曲四首	zhaang gam qyu sih shoa	0
 長幹行二首	zhaang gam xirng vehl shoa	0
-長幹行二首	zhaang gan harng vehl shoa	1
+長幹行二首	zhaang gan harng vehl shoa	0
 長幹行二首	zhaang gan herng vehl shoa	0
-長干曲四首	zhaang gan qu sih shoa	1
-長干曲四首	zhaang gan qyu sih shoa	1
+長干曲四首	zhaang gan qu sih shoa	0
+長干曲四首	zhaang gan qyu sih shoa	0
 長幹行二首	zhaang gan xirng vehl shoa	0
 長歌楚天碧	zhaang ge chwu tian bih	1
 長歌懷采薇	zhaang ge hwai cae vuei	1
@@ -162738,8 +162766,8 @@ sort: by_weight
 長胸杜父魚	zhaang xiong duh fuh veur	1
 長形膿海鞘	zhaang xirng norng hae qiaw	1
 長形膿海鞘	zhaang xirng norng hae shao	0
-長鬚幹馬鄉	zhaang xu gam maa xiang	1
-長鬚幹馬鄉	zhaang xu gan maa xiang	1
+長鬚幹馬鄉	zhaang xu gam maa xiang	0
+長鬚幹馬鄉	zhaang xu gan maa xiang	0
 長鬚夜鱗蟲	zhaang xu vieh lirn chorng	1
 長吁望青雲	zhaang xu vuamg qing vyuen	1
 長葉異痣蟌	zhaang xye vih zhih cong	0
@@ -163623,7 +163651,7 @@ sort: by_weight
 趙公口橋南	zhaw gong koa qyao na	0
 趙公口橋南	zhaw gong koa qyao narn	1
 趙公口橋西	zhaw gong koa qyao xi	1
-趙沽裡大街	zhaw gu lyi dah jie	1
+趙沽裡大街	zhaw gu lyi dah jie	0
 趙沽裡大街	zhaw gu lyi day jie	0
 趙國平原君	zhaw gwo pirng vyuan juen	1
 趙邯鄲故城	zhaw harn dan guh cherng	1
@@ -164073,8 +164101,8 @@ sort: by_weight
 這種情況下	zheh zhomg qirng kuamg xiah	1
 這種情況下	zheh zhoong qirng kuamg xiah	1
 鎮北路街道	zhem bea luh jie daw	1
-鎮川幹爐饃	zhem chuan gam lur mor	1
-鎮川幹爐饃	zhem chuan gan lur mor	1
+鎮川幹爐饃	zhem chuan gam lur mor	0
+鎮川幹爐饃	zhem chuan gan lur mor	0
 振盪的週期	zhem damg de zhou ji	0
 振盪的週期	zhem damg de zhou qi	1
 振盪的週期	zhem damg dih zhou ji	0
@@ -165215,7 +165243,7 @@ sort: by_weight
 支出和收入	zhi chu hwo shou ruh	0
 知春里社區	zhi chuen li sheh qu	1
 知春里社區	zhi chuen li sheh vou	0
-知春裡東站	zhi chuen lyi dong zham	1
+知春裡東站	zhi chuen lyi dong zham	0
 知春里社區	zhi chuen lyi sheh qu	1
 知春里社區	zhi chuen lyi sheh vou	0
 知恥近乎勇	zhi chyi jim hu vioong	1
@@ -165294,8 +165322,8 @@ sort: by_weight
 芝麻蓮蓉酥	zhi mar lyan rorng su	1
 芝麻奶層糕	zhi mar nae cerng gao	1
 芝麻糯米糕	zhi mar nuoh myi gao	1
-芝麻鱔段幹	zhi mar sham duam gam	1
-芝麻鱔段幹	zhi mar sham duam gan	1
+芝麻鱔段幹	zhi mar sham duam gam	0
+芝麻鱔段幹	zhi mar sham duam gan	0
 芝麻首烏粥	zhi mar shoa vu zhou	1
 芝麻酥心糖	zhi mar su xin tarng	1
 芝麻小白菜	zhi mar xiau bair cay	1
@@ -171342,8 +171370,8 @@ sort: by_weight
 子在川上曰	zi zay chuan shaang veue	1
 子在川上曰	zi zay chuan shamg veue	1
 子在齊聞韶	zi zay qir vwen shaor	1
-子張學幹祿	zi zhang xyue gam luh	1
-子張學幹祿	zi zhang xyue gan luh	1
+子張學幹祿	zi zhang xyue gam luh	0
+子張學幹祿	zi zhang xyue gan luh	0
 資政院院章	zi zhemg veuam veuam zhang	1
 字表輸入法	zih biau shu ruh faa	1
 自慚居處崇	zih carn ju chuh chorng	1
@@ -173932,8 +173960,8 @@ sort: by_weight
 子在齊聞韶	zyi zay qir vwen shaor	1
 紫長尾蜂鳥	zyi zhaang vuea feng niau	1
 紫長尾蜂鳥	zyi zhaang vyi feng niau	0
-子張學幹祿	zyi zhang xyue gam luh	1
-子張學幹祿	zyi zhang xyue gan luh	1
+子張學幹祿	zyi zhang xyue gam luh	0
+子張學幹祿	zyi zhang xyue gan luh	0
 紫竹斷江劍	zyi zhur duam jiang jiam	1
 紫竹院公園	zyi zhur veuam gong vyuan	1
 紫竹院街道	zyi zhur veuam jie daw	1
@@ -175139,8 +175167,8 @@ sort: by_weight
 安徽醫科大學	an huei vi ke day xyue	0
 安徽蕪湖瓜子	an huei vur hur gua zi	1
 安徽蕪湖瓜子	an huei vur hur gua zyi	1
-安徽五城茶幹	an huei vwu cherng char gam	1
-安徽五城茶幹	an huei vwu cherng char gan	1
+安徽五城茶幹	an huei vwu cherng char gam	0
+安徽五城茶幹	an huei vwu cherng char gan	0
 安徽省博物館	an huei xying bor vuh guaan	0
 安徽省樅陽縣	an huei xying cong vyang xiam	0
 安徽省電視臺	an huei xying diam shih tai	0
@@ -175179,7 +175207,7 @@ sort: by_weight
 安慧東里社區	an huey dong lyi sheh vou	0
 安慧裡南社區	an huey lyi na sheh qu	0
 安慧裡南社區	an huey lyi na sheh vou	0
-安慧裡南社區	an huey lyi narn sheh qu	1
+安慧裡南社區	an huey lyi narn sheh qu	0
 安慧裡南社區	an huey lyi narn sheh vou	0
 安華西里社區	an hwa xi li sheh qu	1
 安華西里社區	an hwa xi li sheh vou	0
@@ -175972,8 +176000,8 @@ sort: by_weight
 艾露恩的祝福	ay luh ven dir zhuh fur	0
 艾倫達爾瀑布	ay lwen dar veel baw buh	0
 艾倫達爾瀑布	ay lwen dar veel puh buh	1
-艾裡微分方程	ay lyi vuei fem fang cherng	2
-艾裡微分方程	ay lyi vuei fen fang cherng	2
+艾裡微分方程	ay lyi vuei fem fang cherng	0
+艾裡微分方程	ay lyi vuei fen fang cherng	0
 艾瑪利安士兵	ay maa lih van shih bing	1
 艾美球蟲亞目	ay mea qyou chorng viah muh	1
 艾梅爾美洲鱥	ay meir veel mea zhou guey	1
@@ -178183,8 +178211,8 @@ sort: by_weight
 北京華僑大廈	bea jing hwa qyao dah xiah	0
 北京華僑大廈	bea jing hwa qyao day shah	0
 北京華僑大廈	bea jing hwa qyao day xiah	0
-北京嘉裡中心	bea jing jia lyi zhomg xin	1
-北京嘉裡中心	bea jing jia lyi zhong xin	1
+北京嘉裡中心	bea jing jia lyi zhomg xin	0
+北京嘉裡中心	bea jing jia lyi zhong xin	0
 北京建材集團	bea jing jiam cair jir twan	1
 北京建國飯店	bea jing jiam gwo fam diam	1
 北京薑絲排叉	bea jing jiang si pae cha	1
@@ -178788,7 +178816,7 @@ sort: by_weight
 被俘虜的侏儒	bey fur lwu dih zhu rur	0
 被俘虜的侏儒	bey fur lwu dir zhu rur	0
 貝弗裡奇天線	bey fur lyi ji tian xiam	0
-貝弗裡奇天線	bey fur lyi qir tian xiam	1
+貝弗裡奇天線	bey fur lyi qir tian xiam	0
 被腐蝕的彈片	bey fwu shir de dam piam	1
 被腐蝕的彈片	bey fwu shir de dam pian	1
 被腐蝕的木材	bey fwu shir de muh cair	1
@@ -181145,7 +181173,7 @@ sort: by_weight
 布盧姆菲爾德	buh lur mwu fea veel der	1
 布盧姆菲爾德	buh lur mwu fei veel der	1
 布盧姆斯伯裡	buh lur mwu si bae lyi	0
-布盧姆斯伯裡	buh lur mwu si bor lyi	1
+布盧姆斯伯裡	buh lur mwu si bor lyi	0
 布倫海姆之戰	buh lwen hae mwu zhi zham	1
 布羅德赫斯特	buh lwo der heh si teh	1
 布羅德納克斯	buh lwo der nah keh si	1
@@ -181857,8 +181885,8 @@ sort: by_weight
 財務行政用品	cair vuh xirng zhemg viomg pyin	1
 材與不材之間	cair vyu buh cair zhi jiam	1
 材與不材之間	cair vyu buh cair zhi jian	1
-財政包乾體制	cair zhemg bao gan ti zhih	1
-財政包乾體制	cair zhemg bao gan tyi zhih	1
+財政包乾體制	cair zhemg bao gan ti zhih	0
+財政包乾體制	cair zhemg bao gan tyi zhih	0
 財政包乾體制	cair zhemg bao qyan ti zhih	0
 財政包乾體制	cair zhemg bao qyan tyi zhih	0
 財政部會計司	cair zhemg buh huey jih si	1
@@ -183235,6 +183263,7 @@ sort: by_weight
 查看過濾日誌	char kam guoh lew rih zhih	1
 查看過濾日誌	char kan guo lew rih zhih	1
 查看過濾日誌	char kan guoh lew rih zhih	1
+察裡津保衛戰	char lyi jin bau vuey zham	0
 查理王小獵犬	char lyi vwang xiau lieh quaan	1
 查默斯王獵犬	char moh si vwang lieh quaan	1
 叉燒無骨雞柳	char shao mor gu ji lioa	0
@@ -188440,8 +188469,8 @@ sort: by_weight
 到處鶯歌燕舞	daw chwu ving ge viam vwu	1
 到處鶯歌燕舞	daw chwu ving ge vian vwu	1
 道德三皇五帝	daw der san hwang vwu dih	1
-稻幹尖線蟲病	daw gam jian xiam chorng bimg	1
-稻幹尖線蟲病	daw gan jian xiam chorng bimg	1
+稻幹尖線蟲病	daw gam jian xiam chorng bimg	0
+稻幹尖線蟲病	daw gan jian xiam chorng bimg	0
 道格拉斯泛函	daw ger la si fam harn	1
 道格拉斯線指	daw ger la si xiam zhyi	1
 道格拉斯泛函	daw ger lar si fam harn	1
@@ -197979,8 +198008,8 @@ sort: by_weight
 分解者的沙漏	fem jieh zhee dih shah low	0
 分解者的沙漏	fem jieh zhee dir sha low	0
 分解者的沙漏	fem jieh zhee dir shah low	0
-分級包乾體制	fem jir bao gan ti zhih	1
-分級包乾體制	fem jir bao gan tyi zhih	1
+分級包乾體制	fem jir bao gan ti zhih	0
+分級包乾體制	fem jir bao gan tyi zhih	0
 分級包乾體制	fem jir bao qyan ti zhih	0
 分級包乾體制	fem jir bao qyan tyi zhih	0
 分級存儲系統	fem jir cwen chwu jih toong	0
@@ -198281,8 +198310,8 @@ sort: by_weight
 分解者的沙漏	fen jieh zhee dih shah low	0
 分解者的沙漏	fen jieh zhee dir sha low	0
 分解者的沙漏	fen jieh zhee dir shah low	0
-分級包乾體制	fen jir bao gan ti zhih	1
-分級包乾體制	fen jir bao gan tyi zhih	1
+分級包乾體制	fen jir bao gan ti zhih	0
+分級包乾體制	fen jir bao gan tyi zhih	0
 分級包乾體制	fen jir bao qyan ti zhih	0
 分級包乾體制	fen jir bao qyan tyi zhih	0
 分級存儲系統	fen jir cwen chwu jih toong	0
@@ -198749,8 +198778,12 @@ sort: by_weight
 費奧多羅維奇	fey vaw duo lwo vwei qir	1
 費爾干納槃地	fey veel gam nah parn di	0
 費爾干納槃地	fey veel gam nah parn dih	0
+費爾幹納盆地	fey veel gam nah pern di	0
+費爾幹納盆地	fey veel gam nah pern dih	0
 費爾干納槃地	fey veel gan nah parn di	0
 費爾干納槃地	fey veel gan nah parn dih	0
+費爾幹納盆地	fey veel gan nah pern di	0
+費爾幹納盆地	fey veel gan nah pern dih	0
 費爾斯通農場	fey veel si tomg norng chaang	1
 費爾斯通農場	fey veel si tomg norng charng	1
 費爾斯通農場	fey veel si tong norng chaang	1
@@ -200181,7 +200214,7 @@ sort: by_weight
 佛羅里達大學	fur lwo lyi dar day xyue	0
 佛羅里達海龍	fur lwo lyi dar hae lorng	0
 佛羅里達海峽	fur lwo lyi dar hae xya	0
-弗羅裡斯鼠屬	fur lwo lyi si shwu shwu	1
+弗羅裡斯鼠屬	fur lwo lyi si shwu shwu	0
 弗羅裡斯鼠屬	fur lwo lyi si shwu zhwu	0
 氟羅沙星膠囊	fur lwo sha xing jiao nang	1
 氟羅沙星膠囊	fur lwo sha xing jiao narng	1
@@ -200749,8 +200782,8 @@ sort: by_weight
 幹線耦合單元	gam xiam voa her charn vyuan	0
 幹線耦合單元	gam xiam voa her dan vyuan	1
 幹線耦合單元	gam xiam voa her sham vyuan	0
-幹炸小塌目魚	gam zhah xiau ta muh veur	1
-幹炸小塌目魚	gam zhar xiau ta muh veur	1
+幹炸小塌目魚	gam zhah xiau ta muh veur	0
+幹炸小塌目魚	gam zhar xiau ta muh veur	0
 槓上天蠍總裁	gamg shaang tian xie zoong cair	1
 槓上天蠍總裁	gamg shamg tian xie zoong cair	1
 鋼絲繩防噴器	gamg si sherng farng pem qih	1
@@ -200899,8 +200932,8 @@ sort: by_weight
 乾燥的多頭蛇	gan zaw dir duo tour sher	0
 乾燥性角膜炎	gan zaw ximg jiau mor vyan	1
 乾燥性角膜炎	gan zaw ximg jyue mor vyan	0
-幹炸小塌目魚	gan zhah xiau ta muh veur	1
-幹炸小塌目魚	gan zhar xiau ta muh veur	1
+幹炸小塌目魚	gan zhah xiau ta muh veur	0
+幹炸小塌目魚	gan zhar xiau ta muh veur	0
 岡比亞歧須鮠	gang byi viah qir xu vwei	1
 岡比亞有袋鼠	gang byi viah vioa day shwu	1
 剛出爐的麵包	gang chu lur de miam bao	1
@@ -202221,8 +202254,8 @@ sort: by_weight
 格雷西刮治器	ger leir xi gua zhih qih	1
 格里芬凡丁犬	ger li fen farn ding quaan	1
 格里高萊斯庫	ger li gao lair si kuh	1
-格里戈裡耶夫	ger li ge lyi vie fu	1
-格里戈裡耶夫	ger li ge lyi vye fu	1
+格里戈裡耶夫	ger li ge lyi vie fu	0
+格里戈裡耶夫	ger li ge lyi vye fu	0
 格里雷克之血	ger li leir keh zhi xiee	0
 格里雷克之血	ger li leir keh zhi xueh	1
 格里施納鴉人	ger li shi nah via rern	1
@@ -202266,8 +202299,8 @@ sort: by_weight
 格魯爾的巢穴	ger lwu veel dir chaor xyue	0
 格里芬凡丁犬	ger lyi fen farn ding quaan	1
 格里高萊斯庫	ger lyi gao lair si kuh	1
-格里戈裡耶夫	ger lyi ge lyi vie fu	1
-格里戈裡耶夫	ger lyi ge lyi vye fu	1
+格里戈裡耶夫	ger lyi ge lyi vie fu	0
+格里戈裡耶夫	ger lyi ge lyi vye fu	0
 格里雷克之血	ger lyi leir keh zhi xiee	0
 格里雷克之血	ger lyi leir keh zhi xueh	1
 格里施納鴉人	ger lyi shi nah via rern	1
@@ -216234,8 +216267,8 @@ sort: by_weight
 銀行體系資金	irn xirng ti xih zi jin	0
 銀行體系資金	irn xirng tyi jih zi jin	0
 銀行體系資金	irn xirng tyi xih zi jin	0
-迎賓街晨暉裡	irng bin jie chern huei lyi	1
-迎賓街建安裡	irng bin jie jiam van lyi	1
+迎賓街晨暉裡	irng bin jie chern huei lyi	0
+迎賓街建安裡	irng bin jie jiam van lyi	0
 迎賓路立交橋	irng bin luh lih jiao qyao	1
 營城子壁畫墓	irng cherng zi bih huah muh	1
 營城子滿族鄉	irng cherng zi maan zur xiang	1
@@ -216692,7 +216725,7 @@ sort: by_weight
 積分微分方程	ji fen vuei fen fang cherng	2
 積分微分算子	ji fen vuei fen suam zi	2
 積分微分算子	ji fen vuei fen suam zyi	2
-基夫裡克奧盧	ji fu lyi keh vaw lur	1
+基夫裡克奧盧	ji fu lyi keh vaw lur	0
 基輔迪那摩隊	ji fwu dir na ma duey	0
 基輔迪那摩隊	ji fwu dir na mor duey	1
 基輔迪納摩隊	ji fwu dir nah ma duey	0
@@ -217005,7 +217038,7 @@ sort: by_weight
 加布林的小窩	jia buh lirn de xiau vuo	1
 加布林的小窩	jia buh lirn dih xiau vuo	0
 加布林的小窩	jia buh lirn dir xiau vuo	0
-加布裡毛鼻鯰	jia buh lyi maor bir nyan	1
+加布裡毛鼻鯰	jia buh lyi maor bir nyan	0
 加布里亞芋螺	jia buh lyi viah vew lwo	1
 家常石鍋拌飯	jia charng dam guo bam fam	0
 家常咖喱米飯	jia charng ga lir myi fam	1
@@ -217167,8 +217200,8 @@ sort: by_weight
 伽羅瓦上同調	jia lwo vuah shamg torng diaw	0
 伽羅瓦上同調	jia lwo vuah shamg torng tyao	0
 加里曼黃粉蝶	jia lyi mam hwang feen dye	1
-嘉裡中心飯店	jia lyi zhomg xin fam diam	1
-嘉裡中心飯店	jia lyi zhong xin fam diam	1
+嘉裡中心飯店	jia lyi zhomg xin fam diam	0
+嘉裡中心飯店	jia lyi zhong xin fam diam	0
 加馬鐵力克鄉	jia maa tiee lih keh xiang	1
 加曼氏凹腹鱈	jia mam shih vao fuh xuee	1
 加曼氏凹腹鱈	jia mam zhi vao fuh xuee	0
@@ -223955,8 +223988,8 @@ sort: by_weight
 捷克愛樂樂團	jye keh vay veueh leh twan	0
 捷克愛樂樂團	jye keh vay veueh veueh twan	0
 傑奎琳肯尼迪	jye kwei lirn keen nir dir	0
-傑裡揚拜特奈	jye lyi vyang bair teh nay	1
-傑裡揚拜特奈	jye lyi vyang bay teh nay	1
+傑裡揚拜特奈	jye lyi vyang bair teh nay	0
+傑裡揚拜特奈	jye lyi vyang bay teh nay	0
 結膜吮吸線蟲	jye mor shueen xi xiam chorng	1
 節慶布藝用品	jye qimg buh vih viomg pyin	1
 結清債權債務	jye qing zhay qyuan zhay vuh	1
@@ -231208,9 +231241,9 @@ sort: by_weight
 蘿蔔精頭上青	lwo bor jing tour shaang qing	0
 蘿蔔精頭上青	lwo bor jing tour shamg qing	0
 羅勃羅裡葛茲	lwo bor lwo lyi gee cir	0
-羅勃羅裡葛茲	lwo bor lwo lyi gee zi	1
+羅勃羅裡葛茲	lwo bor lwo lyi gee zi	0
 羅勃羅裡葛茲	lwo bor lwo lyi ger cir	0
-羅勃羅裡葛茲	lwo bor lwo lyi ger zi	1
+羅勃羅裡葛茲	lwo bor lwo lyi ger zi	0
 蘿蔔牛百葉湯	lwo bor nyou bae vieh tang	1
 蘿蔔牛百葉湯	lwo bor nyou bae xye tang	0
 蘿蔔乾炒茭白	lwo bor qyan chau jiao bair	0
@@ -232600,7 +232633,7 @@ sort: by_weight
 馬哈贊河之戰	maa hah zam her zhi zham	1
 馬巷鎮桐梓村	maa hamg zhem torng zyi cuen	0
 馬合口白族鄉	maa her koa bair zur xiang	1
-馬基雅維裡式	maa ji viaa vwei lyi shih	1
+馬基雅維裡式	maa ji viaa vwei lyi shih	0
 馬家堡路北口	maa jia bau luh bea koa	1
 馬家堡路北口	maa jia bwu luh bea koa	0
 馬家大屯戰鬥	maa jia dah twen zham doa	1
@@ -232733,8 +232766,8 @@ sort: by_weight
 馬塞爾的頭顱	maa say veel de tour lur	1
 馬塞爾的頭顱	maa say veel dih tour lur	0
 馬塞爾的頭顱	maa say veel dir tour lur	0
-瑪瑟裡頓陣亡	maa seh lyi duem zhem vwang	1
-瑪瑟裡頓之眼	maa seh lyi duem zhi viaan	1
+瑪瑟裡頓陣亡	maa seh lyi duem zhem vwang	0
+瑪瑟裡頓之眼	maa seh lyi duem zhi viaan	0
 馬塞爾的頭顱	maa seh veel de tour lur	0
 馬塞爾的頭顱	maa seh veel dih tour lur	0
 馬塞爾的頭顱	maa seh veel dir tour lur	0
@@ -232750,6 +232783,7 @@ sort: by_weight
 馬斯垂克條約	maa si chwei keh tyao veue	0
 馬斯垂克條約	maa si chwei keh tyao viao	0
 馬斯特裏赫特	maa si teh lyi heh teh	0
+馬斯特裡赫特	maa si teh lyi heh teh	0
 馬塔法海蠋魚	maa taa faa hae zhur veur	1
 馬塔潘角海戰	maa taa pan jiau hae zham	1
 馬塔潘角海戰	maa taa pan jyue hae zham	0
@@ -232772,7 +232806,7 @@ sort: by_weight
 馬頭灘林業局	maa tour tan lirn vieh jur	1
 馬託格羅索州	maa tuo ger lwo suoo zhou	1
 馬田史高西斯	maa tyan shyi gao xi si	1
-瑪艾裡的容器	maa vay lyi de rorng qih	1
+瑪艾裡的容器	maa vay lyi de rorng qih	0
 瑪艾裡的容器	maa vay lyi dih rorng qih	0
 瑪艾裡的容器	maa vay lyi dir rorng qih	0
 馬爾多納多港	maa veel duo nah duo gaang	1
@@ -232801,8 +232835,8 @@ sort: by_weight
 馬爾可夫分割	maa veel keh fu fen ge	1
 馬爾可夫矩陣	maa veel keh fu jyu zhem	2
 馬爾克奧雷利	maa veel keh vaw leir lih	0
-瑪爾裡的守護	maa veel lyi de shoa huh	1
-瑪爾裡的爪牙	maa veel lyi de zhau vya	1
+瑪爾裡的守護	maa veel lyi de shoa huh	0
+瑪爾裡的爪牙	maa veel lyi de zhau vya	0
 瑪爾裡的爪牙	maa veel lyi de zhuaa vya	0
 瑪爾裡的守護	maa veel lyi dih shoa huh	0
 瑪爾裡的爪牙	maa veel lyi dih zhau vya	0
@@ -232847,10 +232881,10 @@ sort: by_weight
 馬紮裡沙里夫	maa za lyi sha lyi fu	0
 馬紮裡沙里夫	maa za lyi shah li fu	0
 馬紮裡沙里夫	maa za lyi shah lyi fu	0
-馬紮裡沙里夫	maa zha lyi sha li fu	1
-馬紮裡沙里夫	maa zha lyi sha lyi fu	1
-馬紮裡沙里夫	maa zha lyi shah li fu	1
-馬紮裡沙里夫	maa zha lyi shah lyi fu	1
+馬紮裡沙里夫	maa zha lyi sha li fu	0
+馬紮裡沙里夫	maa zha lyi sha lyi fu	0
+馬紮裡沙里夫	maa zha lyi shah li fu	0
+馬紮裡沙里夫	maa zha lyi shah lyi fu	0
 馬寨村村委會	maa zhay cuen cuen vuea huey	1
 馬寨村村委會	maa zhay cuen cuen vuea kuay	0
 馬氏漂浮海葵	maa zhi piao fur hae kwei	0
@@ -237719,10 +237753,10 @@ sort: by_weight
 男性生殖系統	narn ximg sheng shi xih toong	0
 男性生殖系統	narn ximg sheng zhir jih toong	0
 男性生殖系統	narn ximg sheng zhir xih toong	1
-南霞泥鰍粉幹	narn xya nih qiou feen gam	1
-南霞泥鰍粉幹	narn xya nih qiou feen gan	1
-南霞泥鰍粉幹	narn xya nir qiou feen gam	1
-南霞泥鰍粉幹	narn xya nir qiou feen gan	1
+南霞泥鰍粉幹	narn xya nih qiou feen gam	0
+南霞泥鰍粉幹	narn xya nih qiou feen gan	0
+南霞泥鰍粉幹	narn xya nir qiou feen gam	0
+南霞泥鰍粉幹	narn xya nir qiou feen gan	0
 南翔小籠饅頭	narn xyang xiau loong marn tour	1
 南翔小籠饅頭	narn xyang xiau lorng marn tour	1
 南雄水口戰役	narn xyong shuea koa zham vih	1
@@ -245746,7 +245780,7 @@ sort: by_weight
 日落黃鋁色澱	rih law hwang lyu shae diam	0
 日落黃鋁色澱	rih luoh hwang lyu seh diam	1
 日落黃鋁色澱	rih luoh hwang lyu shae diam	0
-日裡諾夫斯基	rih lyi nuoh fu si ji	1
+日裡諾夫斯基	rih lyi nuoh fu si ji	0
 日盲族大祭司	rih marng zur dah jih si	1
 日盲族大祭司	rih marng zur dah zhay si	0
 日盲族大祭司	rih marng zur day jih si	0
@@ -246527,7 +246561,7 @@ sort: by_weight
 塞隆風溼膠囊	sai lorng feng shi jiao nang	1
 塞隆風溼膠囊	sai lorng feng shi jiao narng	1
 塞羅迪帕斯科	sai lwo dir pah si ke	1
-塞裡木風毛菊	sai lyi muh feng maor jur	1
+塞裡木風毛菊	sai lyi muh feng maor jur	0
 塞繆爾的遺骸	sai miaw veel de vir hair	0
 塞繆爾的遺骸	sai miaw veel dih vir hair	0
 塞繆爾的遺骸	sai miaw veel dir vir hair	0
@@ -247133,7 +247167,7 @@ sort: by_weight
 塞隆風溼膠囊	say lorng feng shi jiao nang	1
 塞隆風溼膠囊	say lorng feng shi jiao narng	1
 塞羅迪帕斯科	say lwo dir pah si ke	1
-塞裡木風毛菊	say lyi muh feng maor jur	1
+塞裡木風毛菊	say lyi muh feng maor jur	0
 賽里木湖水怪	say lyi muh hur shuea guay	1
 塞繆爾的遺骸	say miaw veel de vir hair	0
 塞繆爾的遺骸	say miaw veel dih vir hair	0
@@ -247303,10 +247337,10 @@ sort: by_weight
 瑟倫霍夫公爵	seh lwen huoh fu gong jyue	1
 塞羅迪帕斯科	seh lwo dir pah si ke	0
 塞裡木風毛菊	seh lyi muh feng maor jur	0
-瑟裡耶克爵士	seh lyi vie keh jyue shih	1
-瑟裡耶克印記	seh lyi vie keh vim jih	1
-瑟裡耶克爵士	seh lyi vye keh jyue shih	1
-瑟裡耶克印記	seh lyi vye keh vim jih	1
+瑟裡耶克爵士	seh lyi vie keh jyue shih	0
+瑟裡耶克印記	seh lyi vie keh vim jih	0
+瑟裡耶克爵士	seh lyi vye keh jyue shih	0
+瑟裡耶克印記	seh lyi vye keh vim jih	0
 塞繆爾的遺骸	seh miaw veel de vir hair	0
 塞繆爾的遺骸	seh miaw veel dih vir hair	0
 塞繆爾的遺骸	seh miaw veel dir vir hair	0
@@ -247539,7 +247573,7 @@ sort: by_weight
 沙拉斯預言者	sha lar si vew vyan zhee	1
 沙拉依滅勒河	sha lar vi mieh leh her	1
 沙拉依滅勒河	sha lar vi mieh lei her	0
-沙裡寨黑皮豬	sha lyi zhay hei pir zhu	1
+沙裡寨黑皮豬	sha lyi zhay hei pir zhu	0
 莎瑪麗夫人像	sha maa lih fu rern xiamg	1
 莎瑪麗夫人像	sha maa lir fu rern xiamg	1
 沙門氏菌感染	sha mern shih juem gaan raan	1
@@ -248239,7 +248273,7 @@ sort: by_weight
 沙拉斯預言者	shah lar si vew vyan zhee	1
 沙拉依滅勒河	shah lar vi mieh leh her	1
 沙拉依滅勒河	shah lar vi mieh lei her	0
-沙裡寨黑皮豬	shah lyi zhay hei pir zhu	1
+沙裡寨黑皮豬	shah lyi zhay hei pir zhu	0
 廈門高崎機場	shah mern gao qir ji chaang	1
 廈門高崎機場	shah mern gao qir ji charng	1
 廈門隔膜水母	shah mern ger mor shuea mwu	1
@@ -250471,7 +250505,7 @@ sort: by_weight
 勝似閒庭信步	shemg shih xyan tirng xim buh	1
 聖壽寺舍利塔	shemg show sih shee lih taa	1
 聖壽寺舍利塔	shemg show sih sheh lih taa	1
-聖斯皮裡圖斯	shemg si pir lyi tur si	1
+聖斯皮裡圖斯	shemg si pir lyi tur si	0
 勝似閒庭信步	shemg sih xyan tirng xim buh	0
 聖阿戈斯蒂諾	shemg va ge si dih nuoh	1
 聖阿戈斯蒂諾	shemg ve ge si dih nuoh	0
@@ -256391,12 +256425,12 @@ sort: by_weight
 塔卡里的墳墓	taa qiaa lyi dir fern muh	0
 塔卡里的顱骨	taa qiaa lyi dir lur gu	0
 塔卡里的顱骨	taa qiaa lyi dir lur gwu	0
-塔什庫爾幹河	taa shern kuh veel gam her	1
-塔什庫爾幹縣	taa shern kuh veel gam xiam	1
-塔什庫爾幹鎮	taa shern kuh veel gam zhem	1
-塔什庫爾幹河	taa shern kuh veel gan her	1
-塔什庫爾幹縣	taa shern kuh veel gan xiam	1
-塔什庫爾幹鎮	taa shern kuh veel gan zhem	1
+塔什庫爾幹河	taa shern kuh veel gam her	0
+塔什庫爾幹縣	taa shern kuh veel gam xiam	0
+塔什庫爾幹鎮	taa shern kuh veel gam zhem	0
+塔什庫爾幹河	taa shern kuh veel gan her	0
+塔什庫爾幹縣	taa shern kuh veel gan xiam	0
+塔什庫爾幹鎮	taa shern kuh veel gan zhem	0
 塔什米里克鄉	taa shern myi li keh xiang	1
 塔什米里克鄉	taa shern myi lyi keh xiang	1
 塔什艾日克鄉	taa shern vay rih keh xiang	1
@@ -260411,9 +260445,9 @@ sort: by_weight
 汙水淨化中心	u shuea jimg huah zhong xin	1
 烏蘇里斯克市	u su li si keh shih	1
 烏蘇里斯克市	u su lyi si keh shih	1
-烏蘇裡躍度蝗	u su lyi veueh duh hwang	1
+烏蘇裡躍度蝗	u su lyi veueh duh hwang	0
 烏蘇裡躍度蝗	u su lyi veueh dwo hwang	0
-烏蘇裡圓田螺	u su lyi vyuan tyan lwo	1
+烏蘇裡圓田螺	u su lyi vyuan tyan lwo	0
 烏提亞硬毛鼠	u tir viah vimg maor shwu	1
 烏頭眉紋蟋蟀	u tour meir vwen xi shuay	1
 烏圖布拉格鎮	u tur buh la ger zhem	1
@@ -263998,8 +264032,8 @@ sort: by_weight
 安徽醫科大學	van huei vi ke day xyue	0
 安徽蕪湖瓜子	van huei vur hur gua zi	1
 安徽蕪湖瓜子	van huei vur hur gua zyi	1
-安徽五城茶幹	van huei vwu cherng char gam	1
-安徽五城茶幹	van huei vwu cherng char gan	1
+安徽五城茶幹	van huei vwu cherng char gam	0
+安徽五城茶幹	van huei vwu cherng char gan	0
 安徽省博物館	van huei xying bor vuh guaan	0
 安徽省樅陽縣	van huei xying cong vyang xiam	0
 安徽省電視臺	van huei xying diam shih tai	0
@@ -264038,7 +264072,7 @@ sort: by_weight
 安慧東里社區	van huey dong lyi sheh vou	0
 安慧裡南社區	van huey lyi na sheh qu	0
 安慧裡南社區	van huey lyi na sheh vou	0
-安慧裡南社區	van huey lyi narn sheh qu	1
+安慧裡南社區	van huey lyi narn sheh qu	0
 安慧裡南社區	van huey lyi narn sheh vou	0
 安華西里社區	van hwa xi li sheh qu	1
 安華西里社區	van hwa xi li sheh vou	0
@@ -264831,8 +264865,8 @@ sort: by_weight
 艾露恩的祝福	vay luh ven dir zhuh fur	0
 艾倫達爾瀑布	vay lwen dar veel baw buh	0
 艾倫達爾瀑布	vay lwen dar veel puh buh	1
-艾裡微分方程	vay lyi vuei fem fang cherng	2
-艾裡微分方程	vay lyi vuei fen fang cherng	2
+艾裡微分方程	vay lyi vuei fem fang cherng	0
+艾裡微分方程	vay lyi vuei fen fang cherng	0
 艾瑪利安士兵	vay maa lih van shih bing	1
 艾美球蟲亞目	vay mea qyou chorng viah muh	1
 艾梅爾美洲鱥	vay meir veel mea zhou guey	1
@@ -271866,8 +271900,8 @@ sort: by_weight
 銀行體系資金	virn xirng ti xih zi jin	0
 銀行體系資金	virn xirng tyi jih zi jin	0
 銀行體系資金	virn xirng tyi xih zi jin	0
-迎賓街晨暉裡	virng bin jie chern huei lyi	1
-迎賓街建安裡	virng bin jie jiam van lyi	1
+迎賓街晨暉裡	virng bin jie chern huei lyi	0
+迎賓街建安裡	virng bin jie jiam van lyi	0
 迎賓路立交橋	virng bin luh lih jiao qyao	1
 營城子壁畫墓	virng cherng zi bih huah muh	1
 營城子滿族鄉	virng cherng zi maan zur xiang	1
@@ -272509,9 +272543,9 @@ sort: by_weight
 汙水淨化中心	vu shuea jimg huah zhong xin	1
 烏蘇里斯克市	vu su li si keh shih	1
 烏蘇里斯克市	vu su lyi si keh shih	1
-烏蘇裡躍度蝗	vu su lyi veueh duh hwang	1
+烏蘇裡躍度蝗	vu su lyi veueh duh hwang	0
 烏蘇裡躍度蝗	vu su lyi veueh dwo hwang	0
-烏蘇裡圓田螺	vu su lyi vyuan tyan lwo	1
+烏蘇裡圓田螺	vu su lyi vyuan tyan lwo	0
 烏提亞硬毛鼠	vu tir viah vimg maor shwu	1
 烏頭眉紋蟋蟀	vu tour meir vwen xi shuay	1
 烏圖布拉格鎮	vu tur buh la ger zhem	1
@@ -277345,14 +277379,14 @@ sort: by_weight
 油藏數學模型	vyou zamg shwu xyue mur xirng	0
 油炸臭豆腐乾	vyou zhah chow dow fwu gan	1
 油炸臭豆腐乾	vyou zhah chow dow fwu qyan	0
-油炸滷製花幹	vyou zhah lwu zhih hua gam	1
-油炸滷製花幹	vyou zhah lwu zhih hua gan	1
+油炸滷製花幹	vyou zhah lwu zhih hua gam	0
+油炸滷製花幹	vyou zhah lwu zhih hua gan	0
 油炸臭豆腐乾	vyou zhah xiow dow fwu gan	0
 油炸臭豆腐乾	vyou zhah xiow dow fwu qyan	0
 油炸臭豆腐乾	vyou zhar chow dow fwu gan	1
 油炸臭豆腐乾	vyou zhar chow dow fwu qyan	0
-油炸滷製花幹	vyou zhar lwu zhih hua gam	1
-油炸滷製花幹	vyou zhar lwu zhih hua gan	1
+油炸滷製花幹	vyou zhar lwu zhih hua gam	0
+油炸滷製花幹	vyou zhar lwu zhih hua gan	0
 油炸臭豆腐乾	vyou zhar xiow dow fwu gan	0
 油炸臭豆腐乾	vyou zhar xiow dow fwu qyan	0
 郵政普遍服務	vyou zhemg pwu biam fuh vuh	1
@@ -287817,14 +287851,14 @@ sort: by_weight
 油藏數學模型	you zamg shwu xyue mur xirng	0
 油炸臭豆腐乾	you zhah chow dow fwu gan	1
 油炸臭豆腐乾	you zhah chow dow fwu qyan	0
-油炸滷製花幹	you zhah lwu zhih hua gam	1
-油炸滷製花幹	you zhah lwu zhih hua gan	1
+油炸滷製花幹	you zhah lwu zhih hua gam	0
+油炸滷製花幹	you zhah lwu zhih hua gan	0
 油炸臭豆腐乾	you zhah xiow dow fwu gan	0
 油炸臭豆腐乾	you zhah xiow dow fwu qyan	0
 油炸臭豆腐乾	you zhar chow dow fwu gan	1
 油炸臭豆腐乾	you zhar chow dow fwu qyan	0
-油炸滷製花幹	you zhar lwu zhih hua gam	1
-油炸滷製花幹	you zhar lwu zhih hua gan	1
+油炸滷製花幹	you zhar lwu zhih hua gam	0
+油炸滷製花幹	you zhar lwu zhih hua gan	0
 油炸臭豆腐乾	you zhar xiow dow fwu gan	0
 油炸臭豆腐乾	you zhar xiow dow fwu qyan	0
 郵政普遍服務	you zhemg pwu biam fuh vuh	1
@@ -292295,8 +292329,8 @@ sort: by_weight
 製造資源規劃	zhih zaw zi vyuan guei huah	1
 製造資源規劃	zhih zaw zi vyuan guei hwa	1
 製造祖爾光環	zhih zaw zwu veel guang hwan	1
-置之河之幹兮	zhih zhi her zhi gam xi	1
-置之河之幹兮	zhih zhi her zhi gan xi	1
+置之河之幹兮	zhih zhi her zhi gam xi	0
+置之河之幹兮	zhih zhi her zhi gan xi	0
 質子泵抑制劑	zhih zi bemg vih zhih jih	1
 質子層析成像	zhih zi cerng xi cherng xiamg	1
 製作海寇衣服	zhih zuo hae kow vi fuh	1
@@ -292358,7 +292392,7 @@ sort: by_weight
 職工董事制度	zhir gong doong shih zhih dwo	0
 職工醫療費用	zhir gong vi lyao fey viomg	1
 職工新村街道	zhir gong xin cuen jie daw	1
-直沽街匯賢裡	zhir gu jie huey xyan lyi	1
+直沽街匯賢裡	zhir gu jie huey xyan lyi	0
 執行程序文件	zhir harng cherng xew vwen jiam	0
 執行調度維護	zhir harng diaw duh vwei huh	0
 執行調度維護	zhir harng diaw dwo vwei huh	0
@@ -296935,8 +296969,8 @@ sort: by_weight
 灼熱鎖甲外衣	zhwo reh suoo jiaa vuay vi	1
 灼熱陽炎之刃	zhwo reh vyang vyan zhi rem	1
 灼熱之痛雕文	zhwo reh zhi tomg diao vwen	1
-著色性幹皮病	zhwo seh ximg gam pir bimg	1
-著色性幹皮病	zhwo seh ximg gan pir bimg	1
+著色性幹皮病	zhwo seh ximg gam pir bimg	0
+著色性幹皮病	zhwo seh ximg gan pir bimg	0
 著色性幹皮病	zhwo shae ximg gam pir bimg	0
 著色性幹皮病	zhwo shae ximg gan pir bimg	0
 酌貪泉而覺爽	zhwo tan qyuan verl jiaw shuaang	1
@@ -300409,7 +300443,7 @@ sort: by_weight
 螯合離子交換劑	aor her lir zi jiao huam jih	1
 螯合離子交換劑	aor her lir zyi jiao huam jih	1
 遨遊江湖千萬裡	aor vyou jiang hur qian moh lyi	0
-遨遊江湖千萬裡	aor vyou jiang hur qian vuam lyi	1
+遨遊江湖千萬裡	aor vyou jiang hur qian vuam lyi	0
 遨遊四海求其皇	aor vyou sih hae qyou qir hwang	1
 昂薩格倒易關係	arng sah ger dau vih guan xih	1
 昂薩格倒易關係	arng sah ger daw vih guan xih	1
@@ -304885,8 +304919,8 @@ sort: by_weight
 部落的地獄咆哮	buh luoh dih dih vew paor xiaw	0
 部落的地獄咆哮	buh luoh dir di vew paor xiaw	0
 部落的地獄咆哮	buh luoh dir dih vew paor xiaw	0
-布洛芬幹混懸劑	buh luoh fen gam huem xyuan jih	1
-布洛芬幹混懸劑	buh luoh fen gan huem xyuan jih	1
+布洛芬幹混懸劑	buh luoh fen gam huem xyuan jih	0
+布洛芬幹混懸劑	buh luoh fen gan huem xyuan jih	0
 布洛芬緩釋膠囊	buh luoh fen huaan shih jiao nang	1
 布洛芬緩釋膠囊	buh luoh fen huaan shih jiao narng	1
 布洛芬混懸滴劑	buh luoh fen huem xyuan di jih	1
@@ -305361,8 +305395,8 @@ sort: by_weight
 不知秋思落誰家	buh zhi qiou si luoh shwei jia	1
 不知其不勝任也	buh zhi qir buh shemg rem viee	1
 不知其不勝任也	buh zhi qir buh shemg rern viee	1
-不知其幾千裡也	buh zhi qir ji qian lyi viee	1
-不知其幾千裡也	buh zhi qir jyi qian lyi viee	1
+不知其幾千裡也	buh zhi qir ji qian lyi viee	0
+不知其幾千裡也	buh zhi qir jyi qian lyi viee	0
 不知其子視其父	buh zhi qir zi shih qir fuh	1
 不知其子視其父	buh zhi qir zyi shih qir fuh	1
 不知牆外是誰家	buh zhi qyang vuay shih sheir jia	0
@@ -306471,8 +306505,8 @@ sort: by_weight
 柴達木裸裂尻魚	chair dar muh luoo lieh kao veur	1
 柴火香乾炒薰肉	chair huoo xiang gan chau xuen row	1
 柴火香乾炒薰肉	chair huoo xiang qyan chau xuen row	0
-柴胡桂枝幹薑湯	chair hur guey zhi gam jiang tang	1
-柴胡桂枝幹薑湯	chair hur guey zhi gan jiang tang	1
+柴胡桂枝幹薑湯	chair hur guey zhi gam jiang tang	0
+柴胡桂枝幹薑湯	chair hur guey zhi gan jiang tang	0
 豺狼人部族護腕	chair larng rern buh zur huh vuam	1
 豺狼人法師手套	chair larng rern faa shi shoa taw	1
 豺狼在邑龍在野	chair larng zay vih lorng zay viee	1
@@ -309108,10 +309142,10 @@ sort: by_weight
 吹散多情兩三行	chuei sam duo qirng liaang san harng	1
 吹散多情兩三行	chuei sam duo qirng liaang san herng	0
 吹散多情兩三行	chuei sam duo qirng liaang san xirng	0
-吹沙走浪幾千裡	chuei sha zoa lamg ji qian lyi	1
-吹沙走浪幾千裡	chuei sha zoa lamg jyi qian lyi	1
-吹沙走浪幾千裡	chuei shah zoa lamg ji qian lyi	1
-吹沙走浪幾千裡	chuei shah zoa lamg jyi qian lyi	1
+吹沙走浪幾千裡	chuei sha zoa lamg ji qian lyi	0
+吹沙走浪幾千裡	chuei sha zoa lamg jyi qian lyi	0
+吹沙走浪幾千裡	chuei shah zoa lamg ji qian lyi	0
+吹沙走浪幾千裡	chuei shah zoa lamg jyi qian lyi	0
 吹簫人去玉樓空	chuei xiao rern qew vew lour komg	1
 吹簫人去玉樓空	chuei xiao rern qew vew lour kong	1
 春蠶到死絲方休	chuen carn daw syi si fang xiou	1
@@ -309643,7 +309677,7 @@ sort: by_weight
 蓯蓉通便口服液	cong rorng tong pyan koa fur vieh	0
 蔥香蝦皮燙麵餅	cong xiang xia pir tamg miam bying	1
 蔥形飾尖形拱頂	cong xirng shih jian xirng goong dying	1
-從臣才藝鹹第一	corng chern cair vih xyan dih vi	1
+從臣才藝鹹第一	corng chern cair vih xyan dih vi	0
 從此君王不早朝	corng cyi juen vwang buh zau chaor	1
 從此君王不早朝	corng cyi juen vwang buh zau zhao	0
 從此夢歸無別路	corng cyi memg guei mor bieh luh	0
@@ -310742,7 +310776,7 @@ sort: by_weight
 大安山煤礦社區	dah van shan meir kuamg sheh qu	1
 大安山煤礦社區	dah van shan meir kuamg sheh vou	0
 大眼長臀鰕虎魚	dah viaan charng twen xia hwu veur	0
-大眼鯛匹裡蟲病	dah viaan diao pyi lyi chorng bimg	1
+大眼鯛匹裡蟲病	dah viaan diao pyi lyi chorng bimg	0
 大眼短尾康吉鰻	dah viaan duaan vuea kang jir marn	1
 大眼短尾康吉鰻	dah viaan duaan vyi kang jir marn	0
 大眼反足杜父魚	dah viaan faan zur duh fuh veur	1
@@ -313333,10 +313367,10 @@ sort: by_weight
 提高到新的階段	di gao daw xin dir jie duam	0
 提高勞動生產率	di gao laor domg sheng chaan lew	0
 提高勞動生產率	di gao laor domg sheng chaan shuay	0
-地瓜幹炒毛豆子	di gua gam chau maor dow zi	1
-地瓜幹炒毛豆子	di gua gam chau maor dow zyi	1
-地瓜幹炒毛豆子	di gua gan chau maor dow zi	1
-地瓜幹炒毛豆子	di gua gan chau maor dow zyi	1
+地瓜幹炒毛豆子	di gua gam chau maor dow zi	0
+地瓜幹炒毛豆子	di gua gam chau maor dow zyi	0
+地瓜幹炒毛豆子	di gua gan chau maor dow zi	0
+地瓜幹炒毛豆子	di gua gan chau maor dow zyi	0
 地紅黴素腸溶片	di horng meir suh charng rorng piam	1
 地紅黴素腸溶片	di horng meir suh charng rorng pian	1
 地黃涼血散瘀湯	di hwang liamg xiee saan veu tang	0
@@ -313968,10 +314002,10 @@ sort: by_weight
 地方誌工作條例	dih fang zhih gong zuo tyao lih	1
 地方誌工作條例	dih fang zhih gong zuoh tyao lih	1
 帝高陽之苗裔兮	dih gao vyang zhi myao vih xi	1
-地瓜幹炒毛豆子	dih gua gam chau maor dow zi	1
-地瓜幹炒毛豆子	dih gua gam chau maor dow zyi	1
-地瓜幹炒毛豆子	dih gua gan chau maor dow zi	1
-地瓜幹炒毛豆子	dih gua gan chau maor dow zyi	1
+地瓜幹炒毛豆子	dih gua gam chau maor dow zi	0
+地瓜幹炒毛豆子	dih gua gam chau maor dow zyi	0
+地瓜幹炒毛豆子	dih gua gan chau maor dow zi	0
+地瓜幹炒毛豆子	dih gua gan chau maor dow zyi	0
 帝國集團之獨愛	dih gwo jir twan zhi dur vay	1
 帝國勇士的鎖甲	dih gwo vioong shih de suoo jiaa	1
 帝國勇士的鎖甲	dih gwo vioong shih dih suoo jiaa	0
@@ -314482,7 +314516,7 @@ sort: by_weight
 丁香空結雨中愁	ding xiang kong jye vyu zhong chour	1
 丁型病毒性肝炎	ding xirng bimg dur ximg gan vyan	1
 丟克斯伯裡戰役	diou keh si bae lyi zham vih	0
-丟克斯伯裡戰役	diou keh si bor lyi zham vih	1
+丟克斯伯裡戰役	diou keh si bor lyi zham vih	0
 丟了西瓜撿芝麻	diou le xi gua jiaan zhi mar	1
 丟勒木刻四騎士	diou leh muh keh sih jih shih	0
 丟勒木刻四騎士	diou leh muh keh sih qir shih	1
@@ -314538,14 +314572,14 @@ sort: by_weight
 洞房記得初相遇	domg farng jih der chu xiamg vew	1
 洞房記得初相遇	domg farng jih der chu xiang vew	1
 洞房昨夜停紅燭	domg farng zwo vieh tirng horng zhur	1
-凍幹蜂王漿膠囊	domg gam feng vwang jiamg jiao nang	1
-凍幹蜂王漿膠囊	domg gam feng vwang jiamg jiao narng	1
-凍幹蜂王漿膠囊	domg gam feng vwang jiang jiao nang	1
-凍幹蜂王漿膠囊	domg gam feng vwang jiang jiao narng	1
-凍幹蜂王漿膠囊	domg gan feng vwang jiamg jiao nang	1
-凍幹蜂王漿膠囊	domg gan feng vwang jiamg jiao narng	1
-凍幹蜂王漿膠囊	domg gan feng vwang jiang jiao nang	1
-凍幹蜂王漿膠囊	domg gan feng vwang jiang jiao narng	1
+凍幹蜂王漿膠囊	domg gam feng vwang jiamg jiao nang	0
+凍幹蜂王漿膠囊	domg gam feng vwang jiamg jiao narng	0
+凍幹蜂王漿膠囊	domg gam feng vwang jiang jiao nang	0
+凍幹蜂王漿膠囊	domg gam feng vwang jiang jiao narng	0
+凍幹蜂王漿膠囊	domg gan feng vwang jiamg jiao nang	0
+凍幹蜂王漿膠囊	domg gan feng vwang jiamg jiao narng	0
+凍幹蜂王漿膠囊	domg gan feng vwang jiang jiao nang	0
+凍幹蜂王漿膠囊	domg gan feng vwang jiang jiao narng	0
 洞溝第十二號墓	domg gou dih shir vehl haor muh	1
 洞溝第十二號墓	domg gou dih shir vehl haw muh	1
 凍雷驚筍欲抽芽	domg leir jing sueen vew chou vya	1
@@ -315056,9 +315090,9 @@ sort: by_weight
 豆腐排骨豆芽湯	dow fwu pair gwu dow vya tang	1
 豆腐蟹肉忌廉湯	dow fwu xieh row jih lyan tang	1
 豆各莊鄉政府東	dow geh zhuang xiang zhemg fwu dong	1
-豆角幹煲鯇魚尾	dow jiau gam bao huam veur vuea	1
+豆角幹煲鯇魚尾	dow jiau gam bao huam veur vuea	0
 豆角幹煲鯇魚尾	dow jiau gam bao huam veur vyi	0
-豆角幹煲鯇魚尾	dow jiau gan bao huam veur vuea	1
+豆角幹煲鯇魚尾	dow jiau gan bao huam veur vuea	0
 豆角幹煲鯇魚尾	dow jiau gan bao huam veur vyi	0
 斗酒十千恣歡謔	dow jioa shir qian zih huan xueh	1
 豆角幹煲鯇魚尾	dow jyue gam bao huam veur vuea	0
@@ -315339,8 +315373,8 @@ sort: by_weight
 盾蚧長纓蚜小蜂	duem jieh charng ving vya xiau feng	1
 盾蚧缺緣跳小蜂	duem jieh que vyuan tiaw xiau feng	1
 盾蚧長纓蚜小蜂	duem jieh zhaang ving vya xiau feng	0
-敦德呼舒岡幹河	duen der hu shu gang gam her	1
-敦德呼舒岡幹河	duen der hu shu gang gan her	1
+敦德呼舒岡幹河	duen der hu shu gang gam her	0
+敦德呼舒岡幹河	duen der hu shu gang gan her	0
 敦煌藝術研究所	duen hwang vih shuh vyan jiou suoo	1
 敦煌藝術研究所	duen hwang vih zhur vyan jiou suoo	0
 敦煌文物研究所	duen hwang vwen vuh vyan jiou suoo	1
@@ -315564,8 +315598,8 @@ sort: by_weight
 多行無禮必自及	duo harng vur lyi bih zih jir	0
 多行無禮必自及	duo herng mor lyi bih zih jir	0
 多行無禮必自及	duo herng vur lyi bih zih jir	0
-多聚甲醛幹髓劑	duo jew jiaa qyuan gam suea jih	1
-多聚甲醛幹髓劑	duo jew jiaa qyuan gan suea jih	1
+多聚甲醛幹髓劑	duo jew jiaa qyuan gam suea jih	0
+多聚甲醛幹髓劑	duo jew jiaa qyuan gan suea jih	0
 多階段決策過程	duo jie duam jyue ceh guo cherng	1
 多階段決策過程	duo jie duam jyue ceh guoh cherng	1
 多睛弗羅里達鱂	duo jing fur lwo li dar jiang	1
@@ -319977,8 +320011,8 @@ sort: by_weight
 奉和宴中山應制	femg hwo viam zhomg shan ving zhih	0
 奉和宴中山應制	femg hwo viam zhong shan vimg zhih	0
 奉和宴中山應制	femg hwo viam zhong shan ving zhih	0
-鳳裡街道辦事處	femg lyi jie daw bam shih chuh	1
-鳳裡街道辦事處	femg lyi jie daw bam shih chwu	1
+鳳裡街道辦事處	femg lyi jie daw bam shih chuh	0
+鳳裡街道辦事處	femg lyi jie daw bam shih chwu	0
 奉命於危難之間	femg mimg veu vuei nam zhi jiam	1
 奉命於危難之間	femg mimg veu vuei nam zhi jian	1
 奉命於危難之間	femg mimg veu vuei narn zhi jiam	1
@@ -320623,8 +320657,8 @@ sort: by_weight
 夫哀莫大於心死	fu vai moh dah veur xin syi	1
 夫哀莫大於心死	fu vai moh day veu xin syi	0
 夫哀莫大於心死	fu vai moh day veur xin syi	0
-夫有幹越之劍者	fu vioa gam veueh zhi jiam zhee	1
-夫有幹越之劍者	fu vioa gan veueh zhi jiam zhee	1
+夫有幹越之劍者	fu vioa gam veueh zhi jiam zhee	0
+夫有幹越之劍者	fu vioa gan veueh zhi jiam zhee	0
 夫召我者豈徒哉	fu zhaw vuoo zhee qyi tur zai	1
 夫子之不可及也	fu zi zhi buh kee jir viee	1
 夫子之不可及也	fu zi zhi buh keh jir viee	1
@@ -321904,7 +321938,7 @@ sort: by_weight
 氟羅沙星注射液	fur lwo sha xing zhuh sheh vieh	1
 氟羅沙星注射液	fur lwo shah xing zhuh sheh vieh	1
 弗裡德堡隕石坑	fur lyi der bau veueen dam keng	0
-弗裡德堡隕石坑	fur lyi der bau veueen shir keng	1
+弗裡德堡隕石坑	fur lyi der bau veueen shir keng	0
 弗裡德堡隕石坑	fur lyi der bwu veueen dam keng	0
 弗裡德堡隕石坑	fur lyi der bwu veueen shir keng	0
 弗裡德堡隕石坑	fur lyi der puh veueen dam keng	0
@@ -323147,9 +323181,9 @@ sort: by_weight
 格里發伊亞牡蠣	ger li fah vi viah mwu lih	1
 格里芬尼韋內犬	ger li fen nir vwei ney quaan	1
 格里戈裡耶維奇	ger li ge lyi vie vwei ji	0
-格里戈裡耶維奇	ger li ge lyi vie vwei qir	1
+格里戈裡耶維奇	ger li ge lyi vie vwei qir	0
 格里戈裡耶維奇	ger li ge lyi vye vwei ji	0
-格里戈裡耶維奇	ger li ge lyi vye vwei qir	1
+格里戈裡耶維奇	ger li ge lyi vye vwei qir	0
 格列吡嗪緩釋片	ger lieh byi qirn huaan shih piam	1
 格列吡嗪緩釋片	ger lieh byi qirn huaan shih pian	1
 格列吡嗪控釋片	ger lieh byi qirn komg shih piam	1
@@ -323202,9 +323236,9 @@ sort: by_weight
 格里發伊亞牡蠣	ger lyi fah vi viah mwu lih	1
 格里芬尼韋內犬	ger lyi fen nir vwei ney quaan	1
 格里戈裡耶維奇	ger lyi ge lyi vie vwei ji	0
-格里戈裡耶維奇	ger lyi ge lyi vie vwei qir	1
+格里戈裡耶維奇	ger lyi ge lyi vie vwei qir	0
 格里戈裡耶維奇	ger lyi ge lyi vye vwei ji	0
-格里戈裡耶維奇	ger lyi ge lyi vye vwei qir	1
+格里戈裡耶維奇	ger lyi ge lyi vye vwei qir	0
 革命發展階段論	ger mimg fa zhaan jie duam luem	1
 革命發展階段論	ger mimg fa zhaan jie duam lwen	1
 革命發展階段論	ger mimg fah zhaan jie duam luem	1
@@ -325946,7 +325980,7 @@ sort: by_weight
 哈拉邁德的契約	ha la may der dih qih viao	0
 哈拉邁德的契約	ha la may der dir qih veue	0
 哈拉邁德的契約	ha la may der dir qih viao	0
-哈拉帕恩裡克斯	ha la pah ven lyi keh si	1
+哈拉帕恩裡克斯	ha la pah ven lyi keh si	0
 哈拉素海退水渠	ha la suh hae tuey shuea qur	1
 哈拉蓋圖農牧場	ha lar gay tur norng muh chaang	1
 哈拉蓋圖農牧場	ha lar gay tur norng muh charng	1
@@ -325960,7 +325994,7 @@ sort: by_weight
 哈拉邁德的契約	ha lar may der dih qih viao	0
 哈拉邁德的契約	ha lar may der dir qih veue	0
 哈拉邁德的契約	ha lar may der dir qih viao	0
-哈拉帕恩裡克斯	ha lar pah ven lyi keh si	1
+哈拉帕恩裡克斯	ha lar pah ven lyi keh si	0
 哈拉素海退水渠	ha lar suh hae tuey shuea qur	1
 哈利波特之守護	ha lih bo teh zhi shoa huh	1
 哈利克斯的風景	ha lih keh si de feng jying	1
@@ -326052,7 +326086,7 @@ sort: by_weight
 哈拉邁德的契約	haa la may der dih qih viao	0
 哈拉邁德的契約	haa la may der dir qih veue	0
 哈拉邁德的契約	haa la may der dir qih viao	0
-哈拉帕恩裡克斯	haa la pah ven lyi keh si	1
+哈拉帕恩裡克斯	haa la pah ven lyi keh si	0
 哈拉素海退水渠	haa la suh hae tuey shuea qur	1
 哈拉蓋圖農牧場	haa lar gay tur norng muh chaang	1
 哈拉蓋圖農牧場	haa lar gay tur norng muh charng	1
@@ -326066,7 +326100,7 @@ sort: by_weight
 哈拉邁德的契約	haa lar may der dih qih viao	0
 哈拉邁德的契約	haa lar may der dir qih veue	0
 哈拉邁德的契約	haa lar may der dir qih viao	0
-哈拉帕恩裡克斯	haa lar pah ven lyi keh si	1
+哈拉帕恩裡克斯	haa lar pah ven lyi keh si	0
 哈拉素海退水渠	haa lar suh hae tuey shuea qur	1
 哈利波特之守護	haa lih bo teh zhi shoa huh	1
 哈利克斯的風景	haa lih keh si de feng jying	1
@@ -326367,7 +326401,7 @@ sort: by_weight
 哈拉邁德的契約	hah la may der dih qih viao	0
 哈拉邁德的契約	hah la may der dir qih veue	0
 哈拉邁德的契約	hah la may der dir qih viao	0
-哈拉帕恩裡克斯	hah la pah ven lyi keh si	1
+哈拉帕恩裡克斯	hah la pah ven lyi keh si	0
 哈拉素海退水渠	hah la suh hae tuey shuea qur	1
 哈拉蓋圖農牧場	hah lar gay tur norng muh chaang	1
 哈拉蓋圖農牧場	hah lar gay tur norng muh charng	1
@@ -326381,7 +326415,7 @@ sort: by_weight
 哈拉邁德的契約	hah lar may der dih qih viao	0
 哈拉邁德的契約	hah lar may der dir qih veue	0
 哈拉邁德的契約	hah lar may der dir qih viao	0
-哈拉帕恩裡克斯	hah lar pah ven lyi keh si	1
+哈拉帕恩裡克斯	hah lar pah ven lyi keh si	0
 哈拉素海退水渠	hah lar suh hae tuey shuea qur	1
 哈利波特之守護	hah lih bo teh zhi shoa huh	1
 哈利克斯的風景	hah lih keh si de feng jying	1
@@ -329869,9 +329903,9 @@ sort: by_weight
 會須一飲三百杯	huey xu vi vyin san bae bei	1
 會須一洗黃茅瘴	huey xu vi xiaan hwang maor zhamg	0
 會須一洗黃茅瘴	huey xu vi xyi hwang maor zhamg	1
-慧忠裡第二社區	huey zhong lyi dih vehl sheh qu	1
+慧忠裡第二社區	huey zhong lyi dih vehl sheh qu	0
 慧忠裡第二社區	huey zhong lyi dih vehl sheh vou	0
-慧忠裡第一社區	huey zhong lyi dih vi sheh qu	1
+慧忠裡第一社區	huey zhong lyi dih vi sheh qu	0
 慧忠裡第一社區	huey zhong lyi dih vi sheh vou	0
 互補晶體管邏輯	huh bwu jing ti guaan lwo jir	1
 互補晶體管邏輯	huh bwu jing tyi guaan lwo jir	1
@@ -333038,7 +333072,7 @@ sort: by_weight
 焰焰燒空紅佛桑	iam viam shao kong horng for sang	1
 焰焰燒空紅佛桑	iam viam shao kong horng fur sang	0
 灩灩隨波千萬裡	iam viam swei bo qian moh lyi	0
-灩灩隨波千萬裡	iam viam swei bo qian vuam lyi	1
+灩灩隨波千萬裡	iam viam swei bo qian vuam lyi	0
 焰王的極品新娘	iam vwang de jir pyin xin nyang	1
 焰王的極品新娘	iam vwang dih jir pyin xin nyang	0
 焰王的極品新娘	iam vwang dir jir pyin xin nyang	0
@@ -335606,9 +335640,9 @@ sort: by_weight
 憂來思君不敢忘	iou lair si juen buh gaan vuamg	1
 幽巒緲峰向人閒	iou lwan miau feng xiamg rern xyan	1
 幽夢一曲千萬裡	iou memg vi qu qian moh lyi	0
-幽夢一曲千萬裡	iou memg vi qu qian vuam lyi	1
+幽夢一曲千萬裡	iou memg vi qu qian vuam lyi	0
 幽夢一曲千萬裡	iou memg vi qyu qian moh lyi	0
-幽夢一曲千萬裡	iou memg vi qyu qian vuam lyi	1
+幽夢一曲千萬裡	iou memg vi qyu qian vuam lyi	0
 憂傷漫過星星夜	iou shang mam guo xing xing vieh	1
 憂傷漫過星星夜	iou shang mam guoh xing xing vieh	1
 幽暗沼澤潛伏者	iou vam zhau zer qyan fur zhee	1
@@ -336310,7 +336344,7 @@ sort: by_weight
 奇尼瓜齒獸超科	ji nir gua chyi show chao ke	0
 基諾山基諾族鄉	ji nuoh shan ji nuoh zur xiang	1
 肌強直營養不良	ji qiaang zhir virng viaang buh lyang	1
-機器人專家艾裡	ji qih rern zhuan jia vay lyi	1
+機器人專家艾裡	ji qih rern zhuan jia vay lyi	0
 機器人專家艾裡	ji qih rern zhuan jia vih lyi	0
 雞犬圖書共一船	ji quaan tur shu gomg vi chwan	1
 雞犬相和漢古村	ji quaan xiamg heh ham gwu cuen	1
@@ -340813,8 +340847,8 @@ sort: by_weight
 吉里巴斯共和國	jir lyi ba si gomg huoh gwo	0
 吉里巴斯共和國	jir lyi ba si gomg hur gwo	0
 吉里巴斯共和國	jir lyi ba si gomg hwo gwo	0
-集裡街道辦事處	jir lyi jie daw bam shih chuh	1
-集裡街道辦事處	jir lyi jie daw bam shih chwu	1
+集裡街道辦事處	jir lyi jie daw bam shih chuh	0
+集裡街道辦事處	jir lyi jie daw bam shih chwu	0
 極目蕭條三兩家	jir muh xiao tyao san liaang jia	1
 吉尼斯世界紀錄	jir nir si shih jieh jih luh	1
 吉尼斯世界紀錄	jir nir si shih jieh jyi luh	1
@@ -342342,11 +342376,11 @@ sort: by_weight
 開顏發豔照里閭	kai vyan fa viam zhaw lyi leur	1
 開顏發豔照里閭	kai vyan fah viam zhaw li leur	1
 開顏發豔照里閭	kai vyan fah viam zhaw lyi leur	1
-開陽裡第三社區	kai vyang lyi dih san sheh qu	1
+開陽裡第三社區	kai vyang lyi dih san sheh qu	0
 開陽裡第三社區	kai vyang lyi dih san sheh vou	0
-開陽裡第四社區	kai vyang lyi dih sih sheh qu	1
+開陽裡第四社區	kai vyang lyi dih sih sheh qu	0
 開陽裡第四社區	kai vyang lyi dih sih sheh vou	0
-開陽裡第一社區	kai vyang lyi dih vi sheh qu	1
+開陽裡第一社區	kai vyang lyi dih vi sheh qu	0
 開陽裡第一社區	kai vyang lyi dih vi sheh vou	0
 開元寺鐘樓及塔	kai vyuan sih zhong lour jir taa	1
 開元之中常引見	kai vyuan zhi zhomg charng vyin jiam	1
@@ -343463,10 +343497,10 @@ sort: by_weight
 枯桑老柏寒颼飀	ku sang lau bor harn sou lyou	0
 哭單父梁九少府	ku sham fuh lyang jioa shau fwu	0
 哭單父梁九少府	ku sham fuh lyang jioa shaw fwu	0
-哭聲直上幹雲霄	ku sheng zhir shaang gam vyuen xiao	1
-哭聲直上幹雲霄	ku sheng zhir shaang gan vyuen xiao	1
-哭聲直上幹雲霄	ku sheng zhir shamg gam vyuen xiao	1
-哭聲直上幹雲霄	ku sheng zhir shamg gan vyuen xiao	1
+哭聲直上幹雲霄	ku sheng zhir shaang gam vyuen xiao	0
+哭聲直上幹雲霄	ku sheng zhir shaang gan vyuen xiao	0
+哭聲直上幹雲霄	ku sheng zhir shamg gam vyuen xiao	0
+哭聲直上幹雲霄	ku sheng zhir shamg gan vyuen xiao	0
 枯瘦的莫戈多格	ku show de moh ge duo ger	1
 枯瘦的莫戈多格	ku show dih moh ge duo ger	0
 枯瘦的莫戈多格	ku show dir moh ge duo ger	0
@@ -343859,8 +343893,8 @@ sort: by_weight
 落花猶似墜樓人	lah hua vyou sih zhuey lour rern	0
 落華有意隨流水	lah huah vioa vih swei lyou shuea	0
 落華有意隨流水	lah hwa vioa vih swei lyou shuea	0
-蠟炬成灰淚始幹	lah jew cherng huei ley shyi gam	1
-蠟炬成灰淚始幹	lah jew cherng huei ley shyi gan	1
+蠟炬成灰淚始幹	lah jew cherng huei ley shyi gam	0
+蠟炬成灰淚始幹	lah jew cherng huei ley shyi gan	0
 臘雞腿萵筍菜花	lah ji tuea vuo sueen cay hua	1
 落落盤踞雖得地	lah lah parn jew suei dea di	0
 落落盤踞雖得地	lah lah parn jew suei dea dih	0
@@ -345370,8 +345404,8 @@ sort: by_weight
 戀月潭邊坐石稜	liam veueh tarn bian zuoh shir lirng	0
 涼拌甘藍扁豆絲	liamg bam gan larn biaan dow si	1
 涼拌甘藍扁豆絲	liamg bam gan larn pian dow si	0
-涼風吹葉葉初幹	liamg feng chuei vieh vieh chu gam	1
-涼風吹葉葉初幹	liamg feng chuei vieh vieh chu gan	1
+涼風吹葉葉初幹	liamg feng chuei vieh vieh chu gam	0
+涼風吹葉葉初幹	liamg feng chuei vieh vieh chu gan	0
 涼風吹葉葉初幹	liamg feng chuei vieh xye chu gam	0
 涼風吹葉葉初幹	liamg feng chuei vieh xye chu gan	0
 涼風吹葉葉初幹	liamg feng chuei xye vieh chu gam	0
@@ -347588,8 +347622,8 @@ sort: by_weight
 涼拌甘藍扁豆絲	lyang bam gan larn biaan dow si	1
 涼拌甘藍扁豆絲	lyang bam gan larn pian dow si	0
 良辰美景奈何天	lyang chern mea jying nay her tian	1
-涼風吹葉葉初幹	lyang feng chuei vieh vieh chu gam	1
-涼風吹葉葉初幹	lyang feng chuei vieh vieh chu gan	1
+涼風吹葉葉初幹	lyang feng chuei vieh vieh chu gam	0
+涼風吹葉葉初幹	lyang feng chuei vieh vieh chu gan	0
 涼風吹葉葉初幹	lyang feng chuei vieh xye chu gam	0
 涼風吹葉葉初幹	lyang feng chuei vieh xye chu gan	0
 涼風吹葉葉初幹	lyang feng chuei xye vieh chu gam	0
@@ -348425,8 +348459,8 @@ sort: by_weight
 馬連道中里社區	maa lyan daw zhong lyi sheh qu	1
 馬連道中里社區	maa lyan daw zhong lyi sheh vou	0
 馬連窪北路東口	maa lyan vua bea luh dong koa	1
-瑪裡苟斯的腳步	maa lyi goa si de jiau buh	1
-瑪裡苟斯的恩賜	maa lyi goa si de ven cih	1
+瑪裡苟斯的腳步	maa lyi goa si de jiau buh	0
+瑪裡苟斯的恩賜	maa lyi goa si de ven cih	0
 瑪裡苟斯的腳步	maa lyi goa si dih jiau buh	0
 瑪裡苟斯的恩賜	maa lyi goa si dih ven cih	0
 瑪裡苟斯的腳步	maa lyi goa si dir jiau buh	0
@@ -348457,8 +348491,8 @@ sort: by_weight
 瑪塞斯特拉廢墟	maa sai si teh lar fey xu	1
 瑪塞斯特拉廢墟	maa say si teh la fey xu	1
 瑪塞斯特拉廢墟	maa say si teh lar fey xu	1
-瑪瑟裡頓的巢穴	maa seh lyi duem de chaor xyue	1
-瑪瑟裡頓的頭顱	maa seh lyi duem de tour lur	1
+瑪瑟裡頓的巢穴	maa seh lyi duem de chaor xyue	0
+瑪瑟裡頓的頭顱	maa seh lyi duem de tour lur	0
 瑪瑟裡頓的巢穴	maa seh lyi duem dih chaor xyue	0
 瑪瑟裡頓的頭顱	maa seh lyi duem dih tour lur	0
 瑪瑟裡頓的巢穴	maa seh lyi duem dir chaor xyue	0
@@ -348815,9 +348849,9 @@ sort: by_weight
 毛里求斯共和國	maor lyi qyou si gomg hwo gwo	0
 毛里求斯角魴鮄	maor lyi qyou si jiau farng fur	1
 毛里求斯角魴鮄	maor lyi qyou si jyue farng fur	0
-毛裡裘斯夜蒼鷺	maor lyi qyou si vieh cang luh	1
-毛裡塔里亞蟾蜍	maor lyi taa li viah charn chur	1
-毛裡塔里亞蟾蜍	maor lyi taa lyi viah charn chur	1
+毛裡裘斯夜蒼鷺	maor lyi qyou si vieh cang luh	0
+毛裡塔里亞蟾蜍	maor lyi taa li viah charn chur	0
+毛裡塔里亞蟾蜍	maor lyi taa lyi viah charn chur	0
 毛里塔尼亞政府	maor lyi taa nir viah zhemg fwu	1
 毛絨布藝類玩具	maor rorng buh vih ley vwan jew	1
 毛茸茸的小爪子	maor rorng rorng de xiau zhau zi	1
@@ -355310,8 +355344,8 @@ sort: by_weight
 普陀山佛教協會	pwu two shan fur jiaw xye huey	0
 普陀山佛教協會	pwu two shan fur jiaw xye kuay	0
 普埃布蘭奶王蛇	pwu vai buh larn nae vwang sher	1
-普爾弗裡希效應	pwu veel fur lyi xi xiaw vimg	1
-普爾弗裡希效應	pwu veel fur lyi xi xiaw ving	1
+普爾弗裡希效應	pwu veel fur lyi xi xiaw vimg	0
+普爾弗裡希效應	pwu veel fur lyi xi xiaw ving	0
 浦沿路濱文路口	pwu vyan luh bin vwen luh koa	1
 緶得紅羅手帕子	pyan dea horng lwo shoa pah zi	0
 緶得紅羅手帕子	pyan dea horng lwo shoa pah zyi	0
@@ -356857,7 +356891,7 @@ sort: by_weight
 清華大學研究院	qing hwa day xyue vyan jiou veuam	0
 清華大學傳播系	qing hwa day xyue zhuam bo jih	0
 清華大學傳播系	qing hwa day xyue zhuam bo xih	0
-清淮奉使千餘裡	qing hwai femg shyi qian veur lyi	1
+清淮奉使千餘裡	qing hwai femg shyi qian veur lyi	0
 輕肌弱骨散幽葩	qing ji ruoh gu saan viou pa	1
 輕肌弱骨散幽葩	qing ji ruoh gu sam viou pa	1
 輕肌弱骨散幽葩	qing ji ruoh gwu saan viou pa	1
@@ -357155,8 +357189,8 @@ sort: by_weight
 青魚艾美耳球蟲	qing veur vay mea veel qyou chorng	1
 青魚艾美耳球蟲	qing veur vih mea veel qyou chorng	0
 氫氧化鈣墊底劑	qing viaang huah gay diam dyi jih	1
-氫氧化鋁幹凝膠	qing viaang huah lyu gam nirng jiao	1
-氫氧化鋁幹凝膠	qing viaang huah lyu gan nirng jiao	1
+氫氧化鋁幹凝膠	qing viaang huah lyu gam nirng jiao	0
+氫氧化鋁幹凝膠	qing viaang huah lyu gan nirng jiao	0
 輕煙散入五侯家	qing vian saan ruh vwu hour jia	1
 輕煙散入五侯家	qing vian saan ruh vwu how jia	1
 輕煙散入五侯家	qing vian sam ruh vwu hour jia	1
@@ -359675,8 +359709,8 @@ sort: by_weight
 人生得意酒需幹	rern sheng dea vih jioa xu gan	0
 人生得意須盡歡	rern sheng dea vih xu jim huan	0
 人生得意須盡歡	rern sheng dea vih xu jyin huan	0
-人生得意酒需幹	rern sheng der vih jioa xu gam	1
-人生得意酒需幹	rern sheng der vih jioa xu gan	1
+人生得意酒需幹	rern sheng der vih jioa xu gam	0
+人生得意酒需幹	rern sheng der vih jioa xu gan	0
 人生得意須盡歡	rern sheng der vih xu jim huan	1
 人生得意須盡歡	rern sheng der vih xu jyin huan	1
 人生短短幾個秋	rern sheng duaan duaan ji gee qiou	1
@@ -359710,8 +359744,8 @@ sort: by_weight
 人生樂在相知心	rern sheng leh zay xiang zhi xin	1
 人生留滯生理難	rern sheng lyou zhih sheng lyi nam	1
 人生留滯生理難	rern sheng lyou zhih sheng lyi narn	1
-人生莫放酒杯幹	rern sheng moh famg jioa bei gam	1
-人生莫放酒杯幹	rern sheng moh famg jioa bei gan	1
+人生莫放酒杯幹	rern sheng moh famg jioa bei gam	0
+人生莫放酒杯幹	rern sheng moh famg jioa bei gan	0
 人生無處不青山	rern sheng mor chuh buh qing shan	0
 人生無處不青山	rern sheng mor chwu buh qing shan	0
 人生難得幾回博	rern sheng nam dea ji hwei bor	0
@@ -361190,7 +361224,7 @@ sort: by_weight
 三月三日天氣新	san veueh san rih tian qih xin	1
 三義園牛肉焦餅	san vih vyuan nyou row jiao bying	1
 三儀三司十二殿	san vir san si shir vehl diam	1
-三萬裡河東入海	san vuam lyi her dong ruh hae	1
+三萬裡河東入海	san vuam lyi her dong ruh hae	0
 三萬只惡猿耳朵	san vuam zhi vee vyuan veel duoo	1
 三萬只惡猿耳朵	san vuam zhi veh vyuan veel duoo	1
 三萬只惡猿耳朵	san vuam zhi vuh vyuan veel duoo	0
@@ -361435,10 +361469,10 @@ sort: by_weight
 塞雷布拉斯鑽石	seh leir buh lar si zuam shir	0
 塞雷布拉斯鑽石	seh leir buh lar si zuan dam	0
 塞雷布拉斯鑽石	seh leir buh lar si zuan shir	0
-瑟裡耶克的護手	seh lyi vie keh de huh shoa	1
+瑟裡耶克的護手	seh lyi vie keh de huh shoa	0
 瑟裡耶克的護手	seh lyi vie keh dih huh shoa	0
 瑟裡耶克的護手	seh lyi vie keh dir huh shoa	0
-瑟裡耶克的護手	seh lyi vye keh de huh shoa	1
+瑟裡耶克的護手	seh lyi vye keh de huh shoa	0
 瑟裡耶克的護手	seh lyi vye keh dih huh shoa	0
 瑟裡耶克的護手	seh lyi vye keh dir huh shoa	0
 塞米巴拉金斯克	seh myi ba la jin si keh	0
@@ -366627,8 +366661,8 @@ sort: by_weight
 受命於危難之時	show mimg veu vuei narn zhi shir	1
 受命於危難之時	show mimg veur vuei nam zhi shir	1
 受命於危難之時	show mimg veur vuei narn zhi shir	1
-受難者奧圖裡斯	show nam zhee vaw tur lyi si	1
-受難者奧圖裡斯	show narn zhee vaw tur lyi si	1
+受難者奧圖裡斯	show nam zhee vaw tur lyi si	0
+受難者奧圖裡斯	show narn zhee vaw tur lyi si	0
 獸奴的幸福生活	show nur de ximg fur sheng hwo	1
 獸奴的幸福生活	show nur dih ximg fur sheng hwo	0
 獸奴的幸福生活	show nur dir ximg fur sheng hwo	0
@@ -368180,7 +368214,7 @@ sort: by_weight
 斯氏奧斯特線蟲	si shih vaw si teh xiam chorng	1
 絲蘇氨酸蛋白酶	si su van suan dam bair meir	1
 嘶酸雛雁失群夜	si suan chur viam shi qyuen vieh	1
-斯塔夫裡阿諾斯	si taa fu lyi va nuoh si	1
+斯塔夫裡阿諾斯	si taa fu lyi va nuoh si	0
 斯塔夫裡阿諾斯	si taa fu lyi ve nuoh si	0
 斯塔福德牛頭梗	si taa fur der nyou tour geeng	1
 斯坦菲爾德芋螺	si taan fea veel der vew lwo	1
@@ -368501,8 +368535,8 @@ sort: by_weight
 似長頸囊雙吸蟲	sih zhaang jying narng shuang xi chorng	0
 台州地闊海冥冥	sih zhou di kuoh hae mirng mirng	0
 台州地闊海冥冥	sih zhou dih kuoh hae mirng mirng	0
-四罪而天下鹹服	sih zuey verl tian xiah xyan fuh	1
-四罪而天下鹹服	sih zuey verl tian xiah xyan fur	1
+四罪而天下鹹服	sih zuey verl tian xiah xyan fuh	0
+四罪而天下鹹服	sih zuey verl tian xiah xyan fur	0
 四座無言星欲稀	sih zuoh mor vyan xing vew xi	0
 四座無喧梧竹靜	sih zuoh mor xuan vur zhur jimg	0
 四座無言星欲稀	sih zuoh vur vyan xing vew xi	1
@@ -370285,7 +370319,7 @@ sort: by_weight
 藤床紙帳朝眠起	terng chwang zhyi zhamg chaor myan qyi	1
 藤床紙帳朝眠起	terng chwang zhyi zhamg zhao myan qyi	0
 騰風狂走千萬裡	terng feng kwang zoa qian moh lyi	0
-騰風狂走千萬裡	terng feng kwang zoa qian vuam lyi	1
+騰風狂走千萬裡	terng feng kwang zoa qian vuam lyi	0
 滕王高閣臨江渚	terng vwang gao ger lirn jiang zhwu	1
 騰驤磊落三萬匹	terng xiang lea lah san moh pyi	0
 騰驤磊落三萬匹	terng xiang lea lah san vuam pyi	0
@@ -370338,7 +370372,7 @@ sort: by_weight
 添得黃鸝四五聲	tian dea hwang lir sih vwu sheng	0
 添得黃鸝四五聲	tian der hwang lir sih vwu sheng	1
 天地板蕩千萬裡	tian di baan damg qian moh lyi	0
-天地板蕩千萬裡	tian di baan damg qian vuam lyi	1
+天地板蕩千萬裡	tian di baan damg qian vuam lyi	0
 天地不平怒風雷	tian di buh pirng nuh feng leir	1
 天地法律事務所	tian di faa lew shih vuh suoo	1
 天地合併破山嶽	tian di gee bimg poh shan veueh	0
@@ -370362,7 +370396,7 @@ sort: by_weight
 天地縱橫破山嶽	tian di zomg hemg poh shan veueh	1
 天地縱橫破山嶽	tian di zomg herng poh shan veueh	1
 天地板蕩千萬裡	tian dih baan damg qian moh lyi	0
-天地板蕩千萬裡	tian dih baan damg qian vuam lyi	1
+天地板蕩千萬裡	tian dih baan damg qian vuam lyi	0
 天地不平怒風雷	tian dih buh pirng nuh feng leir	1
 天地法律事務所	tian dih faa lew shih vuh suoo	1
 天地合併破山嶽	tian dih gee bimg poh shan veueh	0
@@ -370389,9 +370423,9 @@ sort: by_weight
 天翻地覆慨而慷	tian fan dih fuh kae verl kang	1
 天府軟件園東側	tian fwu ruaan jiam vyuan dong ceh	1
 天高地平千萬裡	tian gao di pirng qian moh lyi	0
-天高地平千萬裡	tian gao di pirng qian vuam lyi	1
+天高地平千萬裡	tian gao di pirng qian vuam lyi	0
 天高地平千萬裡	tian gao dih pirng qian moh lyi	0
-天高地平千萬裡	tian gao dih pirng qian vuam lyi	1
+天高地平千萬裡	tian gao dih pirng qian vuam lyi	0
 天蓋黃土化玄牝	tian gay hwang twu huah xyuan pim	1
 天蓋黃土化玄牝	tian gee hwang twu huah xyuan pim	0
 天工點酥作梅花	tian gong diaan su zuo meir hua	1
@@ -372358,8 +372392,8 @@ sort: by_weight
 條紋霜刃豹韁繩	tyao vwen shuang rem baw jiang sherng	1
 條紋夜刃豹韁繩	tyao vwen vieh rem baw jiang sherng	1
 條紋異型蠍舵魚	tyao vwen vih xirng xie duoh veur	1
-岧嶢太華俯鹹京	tyao vyao tay huah fwu xyan jing	1
-岧嶢太華俯鹹京	tyao vyao tay hwa fwu xyan jing	1
+岧嶢太華俯鹹京	tyao vyao tay huah fwu xyan jing	0
+岧嶢太華俯鹹京	tyao vyao tay hwa fwu xyan jing	0
 條胸長角象鼻蟲	tyao xiong charng jiau xiamg bir chorng	0
 條胸長角象鼻蟲	tyao xiong charng jyue xiamg bir chorng	0
 條胸長角象鼻蟲	tyao xiong zhaang jiau xiamg bir chorng	1
@@ -376515,7 +376549,7 @@ sort: by_weight
 螯合離子交換劑	vaor her lir zi jiao huam jih	1
 螯合離子交換劑	vaor her lir zyi jiao huam jih	1
 遨遊江湖千萬裡	vaor vyou jiang hur qian moh lyi	0
-遨遊江湖千萬裡	vaor vyou jiang hur qian vuam lyi	1
+遨遊江湖千萬裡	vaor vyou jiang hur qian vuam lyi	0
 遨遊四海求其皇	vaor vyou sih hae qyou qir hwang	1
 昂薩格倒易關係	varng sah ger dau vih guan xih	1
 昂薩格倒易關係	varng sah ger daw vih guan xih	1
@@ -380752,7 +380786,7 @@ sort: by_weight
 焰焰燒空紅佛桑	viam viam shao kong horng for sang	1
 焰焰燒空紅佛桑	viam viam shao kong horng fur sang	0
 灩灩隨波千萬裡	viam viam swei bo qian moh lyi	0
-灩灩隨波千萬裡	viam viam swei bo qian vuam lyi	1
+灩灩隨波千萬裡	viam viam swei bo qian vuam lyi	0
 焰王的極品新娘	viam vwang de jir pyin xin nyang	1
 焰王的極品新娘	viam vwang dih jir pyin xin nyang	0
 焰王的極品新娘	viam vwang dir jir pyin xin nyang	0
@@ -383320,9 +383354,9 @@ sort: by_weight
 憂來思君不敢忘	viou lair si juen buh gaan vuamg	1
 幽巒緲峰向人閒	viou lwan miau feng xiamg rern xyan	1
 幽夢一曲千萬裡	viou memg vi qu qian moh lyi	0
-幽夢一曲千萬裡	viou memg vi qu qian vuam lyi	1
+幽夢一曲千萬裡	viou memg vi qu qian vuam lyi	0
 幽夢一曲千萬裡	viou memg vi qyu qian moh lyi	0
-幽夢一曲千萬裡	viou memg vi qyu qian vuam lyi	1
+幽夢一曲千萬裡	viou memg vi qyu qian vuam lyi	0
 憂傷漫過星星夜	viou shang mam guo xing xing vieh	1
 憂傷漫過星星夜	viou shang mam guoh xing xing vieh	1
 幽暗沼澤潛伏者	viou vam zhau zer qyan fur zhee	1
@@ -390435,7 +390469,7 @@ sort: by_weight
 西城新區管委會	xi cherng xin qu guaan vuea kuay	0
 西城新區管委會	xi cherng xin vou guaan vuea huey	0
 西城新區管委會	xi cherng xin vou guaan vuea kuay	0
-西出都門百餘裡	xi chu dou mern bae veur lyi	1
+西出都門百餘裡	xi chu dou mern bae veur lyi	0
 西出都門百餘裡	xi chu du mern bae veur lyi	0
 西出陽關無故人	xi chu vyang guan mor guh rern	0
 西出陽關無故人	xi chu vyang guan vur guh rern	1
@@ -390578,8 +390612,8 @@ sort: by_weight
 西馬場南里社區	xi maa charng narn li sheh vou	0
 西馬場南里社區	xi maa charng narn lyi sheh qu	1
 西馬場南里社區	xi maa charng narn lyi sheh vou	0
-西馬路衛安中裡	xi maa luh vuey van zhomg lyi	1
-西馬路衛安中裡	xi maa luh vuey van zhong lyi	1
+西馬路衛安中裡	xi maa luh vuey van zhomg lyi	0
+西馬路衛安中裡	xi maa luh vuey van zhong lyi	0
 西蒙希氏小雨蛙	xi meeng xi shih xiau vyu vua	1
 西蒙希氏小雨蛙	xi meeng xi zhi xiau vyu vua	0
 西蒙希氏小雨蛙	xi meng xi shih xiau vyu vua	1
@@ -390791,7 +390825,7 @@ sort: by_weight
 夕陽簫鼓幾船歸	xi vyang xiao gwu ji chwan guei	1
 夕陽簫鼓幾船歸	xi vyang xiao gwu jyi chwan guei	1
 夕陽綻放千萬裡	xi vyang zham famg qian moh lyi	0
-夕陽綻放千萬裡	xi vyang zham famg qian vuam lyi	1
+夕陽綻放千萬裡	xi vyang zham famg qian vuam lyi	0
 昔飲雩泉別常山	xi vyin veur qyuan bieh charng shan	1
 昔飲雩泉別常山	xi vyin veur qyuan bye charng shan	1
 西園二區居委會	xi vyuan vehl qu ju vuea huey	1
@@ -390860,12 +390894,12 @@ sort: by_weight
 瞎貓碰著死老鼠	xia mao pemg zhuh syi lau shwu	0
 瞎貓碰著死老鼠	xia mao pemg zhwo syi lau shwu	0
 瞎貓捉到死老鼠	xia mao zhuo daw syi lau shwu	1
-蝦米幹炒牛肉片	xia myi gam chau nyou row piam	1
-蝦米幹炒牛肉片	xia myi gam chau nyou row pian	1
-蝦米幹炒夜開花	xia myi gam chau vieh kai hua	1
-蝦米幹炒牛肉片	xia myi gan chau nyou row piam	1
-蝦米幹炒牛肉片	xia myi gan chau nyou row pian	1
-蝦米幹炒夜開花	xia myi gan chau vieh kai hua	1
+蝦米幹炒牛肉片	xia myi gam chau nyou row piam	0
+蝦米幹炒牛肉片	xia myi gam chau nyou row pian	0
+蝦米幹炒夜開花	xia myi gam chau vieh kai hua	0
+蝦米幹炒牛肉片	xia myi gan chau nyou row piam	0
+蝦米幹炒牛肉片	xia myi gan chau nyou row pian	0
+蝦米幹炒夜開花	xia myi gan chau vieh kai hua	0
 蝦仁炒白菜鹹齏	xia rern chau bair cay xyan ji	1
 蝦仁雞蛋餃子餡	xia rern ji dam jiau zi xiam	1
 蝦仁雞蛋餃子餡	xia rern ji dam jiau zyi xiam	1
@@ -393796,8 +393830,8 @@ sort: by_weight
 新絲路模特公司	xin si luh mur teh gong si	0
 新松恨不高千尺	xin song hem buh gao qian chee	0
 新松恨不高千尺	xin song hem buh gao qian chyi	1
-心碎斷絕幾千裡	xin suey duam jyue ji qian lyi	1
-心碎斷絕幾千裡	xin suey duam jyue jyi qian lyi	1
+心碎斷絕幾千裡	xin suey duam jyue ji qian lyi	0
+心碎斷絕幾千裡	xin suey duam jyue jyi qian lyi	0
 新速效傷風膠囊	xin suh xiaw shang feng jiao nang	1
 新速效傷風膠囊	xin suh xiaw shang feng jiao narng	1
 心隨湖水共悠悠	xin swei hur shuea gomg viou viou	1
@@ -393815,9 +393849,9 @@ sort: by_weight
 心同野鶴與塵遠	xin torng viee heh vyu chern veuaan	1
 新奧爾良醃製料	xin vaw veel lyang va zhih liaw	0
 新奧爾良醃製料	xin vaw veel lyang vian zhih liaw	1
-新艾裡蒙古族鄉	xin vay lyi meeng gwu zur xiang	1
-新艾裡蒙古族鄉	xin vay lyi meng gwu zur xiang	1
-新艾裡蒙古族鄉	xin vay lyi merng gwu zur xiang	1
+新艾裡蒙古族鄉	xin vay lyi meeng gwu zur xiang	0
+新艾裡蒙古族鄉	xin vay lyi meng gwu zur xiang	0
+新艾裡蒙古族鄉	xin vay lyi merng gwu zur xiang	0
 心悅君兮君不知	xin veueh juen xi juen buh zhi	1
 心悅君兮知不知	xin veueh juen xi zhi buh zhi	1
 新一輪軍備競賽	xin vi lwen juen bey jimg say	1
@@ -394084,7 +394118,7 @@ sort: by_weight
 星河一道水中央	xing her vi daw shuea zhong viang	1
 星花口袋三明治	xing hua koa day san mirng zhih	1
 星匯流光千萬裡	xing huey lyou guang qian moh lyi	0
-星匯流光千萬裡	xing huey lyou guang qian vuam lyi	1
+星匯流光千萬裡	xing huey lyou guang qian vuam lyi	0
 星界財團傳送器	xing jieh cair twan chwan somg qih	1
 星界財團的水晶	xing jieh cair twan de shuea jing	1
 星界財團的水晶	xing jieh cair twan dih shuea jing	0
@@ -397709,14 +397743,14 @@ sort: by_weight
 長風破浪會有時	zhaang feng poh lamg kuay vioa shir	0
 長風萬里送秋雁	zhaang feng vuam li somg qiou viam	1
 長風萬里送秋雁	zhaang feng vuam lyi somg qiou viam	1
-長幹行二首之二	zhaang gam harng vehl shoa zhi vehl	1
-長幹行二首之一	zhaang gam harng vehl shoa zhi vi	1
+長幹行二首之二	zhaang gam harng vehl shoa zhi vehl	0
+長幹行二首之一	zhaang gam harng vehl shoa zhi vi	0
 長幹行二首之二	zhaang gam herng vehl shoa zhi vehl	0
 長幹行二首之一	zhaang gam herng vehl shoa zhi vi	0
 長幹行二首之二	zhaang gam xirng vehl shoa zhi vehl	0
 長幹行二首之一	zhaang gam xirng vehl shoa zhi vi	0
-長幹行二首之二	zhaang gan harng vehl shoa zhi vehl	1
-長幹行二首之一	zhaang gan harng vehl shoa zhi vi	1
+長幹行二首之二	zhaang gan harng vehl shoa zhi vehl	0
+長幹行二首之一	zhaang gan harng vehl shoa zhi vi	0
 長幹行二首之二	zhaang gan herng vehl shoa zhi vehl	0
 長幹行二首之一	zhaang gan herng vehl shoa zhi vi	0
 長幹行二首之二	zhaang gan xirng vehl shoa zhi vehl	0
@@ -405091,7 +405125,7 @@ sort: by_weight
 坐地日行八萬裡	zuoh di rih harng ba moh lyi	0
 坐地日行八千里	zuoh di rih harng ba qian li	1
 坐地日行八千里	zuoh di rih harng ba qian lyi	1
-坐地日行八萬裡	zuoh di rih harng ba vuam lyi	1
+坐地日行八萬裡	zuoh di rih harng ba vuam lyi	0
 坐地日行八萬裡	zuoh di rih herng ba moh lyi	0
 坐地日行八千里	zuoh di rih herng ba qian li	0
 坐地日行八千里	zuoh di rih herng ba qian lyi	0
@@ -405103,7 +405137,7 @@ sort: by_weight
 坐地日行八萬裡	zuoh dih rih harng ba moh lyi	0
 坐地日行八千里	zuoh dih rih harng ba qian li	1
 坐地日行八千里	zuoh dih rih harng ba qian lyi	1
-坐地日行八萬裡	zuoh dih rih harng ba vuam lyi	1
+坐地日行八萬裡	zuoh dih rih harng ba vuam lyi	0
 坐地日行八萬裡	zuoh dih rih herng ba moh lyi	0
 坐地日行八千里	zuoh dih rih herng ba qian li	0
 坐地日行八千里	zuoh dih rih herng ba qian lyi	0
